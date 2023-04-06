@@ -1,0 +1,40 @@
+{
+    "name": "AppTesters Library",
+    "identifier": "com.hieuddo.apptesters",
+    "sourceURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/apps.json",
+    "apps": [
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "277.1",
+            "versionDate": "2023-04-06",
+            "size": 198189087,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/Instagram_277.1_Rocket_3.8.6_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Rocket_3.8.6",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "277.1",
+            "versionDate": "2023-04-06",
+            "size": 201660449,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/Instagram_277.1_Rocket_3.8.6_Plus_v2.50_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Rocket_3.8.6_Plus_v2.50",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Spotify",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.8.26",
+            "versionDate": "2023-04-06",
+            "size": 63936880,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/Spotify_8.8.26_Spotilife_1.8_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Spotilife_1.8",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png"
+        }
+    ]
+}
