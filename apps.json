@@ -46,6 +46,17 @@
             "developerName": "",
             "localizedDescription": "Injected with Spotilife_1.8",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "YouTubeMusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "5.51",
+            "versionDate": "2023-04-06",
+            "size": 94139363,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/YouTubeMusic_5.51_YTMusicUltimate_1.2.7_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimate_1.2.7",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
         }
     ]
 }
