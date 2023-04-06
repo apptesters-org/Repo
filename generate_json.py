@@ -38,11 +38,13 @@ if __name__ == "__main__":
             date = asset.created_at.strftime("%Y-%m-%d")
             try:
                 app_name, version, tweaks = name.split("_", 2)
-                tweaks, _ = tweaks.split("_@", 1)
+                tweaks, _ = tweaks.split("@", 1)
+                if tweaks is not None:
+                    tweaks = "Injected with " + tweaks[:-1]
             except:
                 app_name = name
                 version = "Unknown"
-                tweaks = "None"
+                tweaks = None
 
             if app_name in df.name.values:
                 bundle_id = str(df[df.name == app_name].bundleId.values[0])
@@ -60,7 +62,7 @@ if __name__ == "__main__":
                     "size": asset.size,
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
-                    "localizedDescription": "Injected with " + tweaks,
+                    "localizedDescription": tweaks,
                     "iconURL": f"https://raw.githubusercontent.com/{repo_name}/main/icons/{bundle_id}.png"
                 }
             )
