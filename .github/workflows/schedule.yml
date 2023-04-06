@@ -2,7 +2,7 @@ on:
   push:
     branches: ["main"]
   release:
-    types: [published, edited, created, deleted]
+    types: [published, edited, deleted, prereleased, released]
     
 permissions: write-all
   
