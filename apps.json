@@ -1,6 +1,6 @@
 {
-    "name": "AppTesters Library",
-    "identifier": "com.hieuddo.apptesters",
+    "name": "AppTesters IPA Repo",
+    "identifier": "org.apptesters.repo",
     "sourceURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/apps.json",
     "apps": [
         {
