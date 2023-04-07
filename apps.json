@@ -1,7 +1,7 @@
 {
     "name": "AppTesters IPA Repo",
     "identifier": "org.apptesters.repo",
-    "sourceURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/apps.json",
+    "sourceURL": "https://repo.apptesters.org/",
     "apps": [
         {
             "name": "Acrobat",
