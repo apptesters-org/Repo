@@ -12,7 +12,9 @@ if __name__ == "__main__":
     args = parser.parse_args()
     token = args.token
 
-    with open("apps.json", "r") as f:
+    out_file = "index.html"
+
+    with open(out_file, "r") as f:
         data = json.load(f)
 
     if os.path.exists("bundleId.csv"):
@@ -69,5 +71,5 @@ if __name__ == "__main__":
 
     df.to_csv("bundleId.csv", index=False)
 
-    with open('apps.json', 'w') as json_file:
+    with open(out_file, 'w') as json_file:
         json.dump(data, json_file, indent=4)
