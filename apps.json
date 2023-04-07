@@ -59,6 +59,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spaceapegames.beatstar.png"
         },
         {
+            "name": "BeRealUnBlur",
+            "bundleIdentifier": "AlexisBarreyat.BeReal",
+            "version": "0.36.0",
+            "versionDate": "2023-04-07",
+            "size": 25189113,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/BeRealUnBlur_0.36.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/AlexisBarreyat.BeReal.png"
+        },
+        {
             "name": "BillionAir",
             "bundleIdentifier": "com.rogueharbour.billionair.airport",
             "version": "1.14.2",
@@ -68,6 +79,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.rogueharbour.billionair.airport.png"
+        },
+        {
+            "name": "BlackHole",
+            "bundleIdentifier": "com.shadow.blackhole1157.ios",
+            "version": "1.15.7",
+            "versionDate": "2023-04-07",
+            "size": 26441108,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/BlackHole_1.15.7_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.shadow.blackhole1157.ios.png"
         },
         {
             "name": "BloonsTD6",
@@ -114,6 +136,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.awesomepiece.castle.png"
         },
         {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "10.1.1",
+            "versionDate": "2023-04-07",
+            "size": 21605355,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/Cowabunga_10.1.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.leemin.Cowabunga.png"
+        },
+        {
             "name": "D4DJ",
             "bundleIdentifier": "net.gamon.djTW",
             "version": "4.0.15",
@@ -134,6 +167,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/jp.co.bandainamcoent.BNEI0334.png"
+        },
+        {
+            "name": "DeviceMonitor2",
+            "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
+            "version": "6.3.0",
+            "versionDate": "2023-04-07",
+            "size": 14397421,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/DeviceMonitor2_6.3.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png"
         },
         {
             "name": "Downwell",
