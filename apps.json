@@ -15,6 +15,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.adobe.Adobe-Reader.png"
         },
         {
+            "name": "AltStore",
+            "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+            "version": "2.0b1",
+            "versionDate": "2023-04-07",
+            "size": 5793338,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/AltStore_2.0b1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.rileytestut.AltStore.Beta.png"
+        },
+        {
             "name": "BallsnRopes",
             "bundleIdentifier": "com.atreus.ballsnropes",
             "version": "12.0.0",
@@ -24,6 +35,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atreus.ballsnropes.png"
+        },
+        {
+            "name": "BazaartPremium",
+            "bundleIdentifier": "co.bazaart.app",
+            "version": "9.7.1",
+            "versionDate": "2023-04-07",
+            "size": 58255969,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/BazaartPremium_9.7.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.bazaart.app.png"
         },
         {
             "name": "Beatstar",
@@ -70,6 +92,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png"
         },
         {
+            "name": "CanaryPro",
+            "bundleIdentifier": "Mailroom.Canary-iOS.watchkitapp",
+            "version": "3.91",
+            "versionDate": "2023-04-07",
+            "size": 53813294,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/CanaryPro_3.91_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.watchkitapp.png"
+        },
+        {
             "name": "Castle",
             "bundleIdentifier": "com.awesomepiece.castle",
             "version": "3.4.7",
@@ -112,6 +145,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.devolver.downwell.png"
+        },
+        {
+            "name": "EnhanceFox",
+            "bundleIdentifier": "com.risingcabbage.enhancefox",
+            "version": "6.2.3",
+            "versionDate": "2023-04-07",
+            "size": 194952706,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/EnhanceFox_6.2.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.risingcabbage.enhancefox.png"
         },
         {
             "name": "EveryHero",
@@ -299,6 +343,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mining.fever.png"
+        },
+        {
+            "name": "MyFitnessPalPremium",
+            "bundleIdentifier": "com.myfitnesspal.mfp",
+            "version": "23.6.5",
+            "versionDate": "2023-04-07",
+            "size": 57090325,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/MyFitnessPalPremium_23.6.5_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.myfitnesspal.mfp.png"
         },
         {
             "name": "PictureCross",
