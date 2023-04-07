@@ -158,6 +158,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.awesomepiece.castle.png"
         },
         {
+            "name": "CookingDiary",
+            "bundleIdentifier": "com.mytonallc.cookingdiary",
+            "version": "2.12.2",
+            "versionDate": "2023-04-07",
+            "size": 337986203,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/07-04-2023/CookingDiary_2.12.2_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mytonallc.cookingdiary.png"
+        },
+        {
             "name": "Cowabunga",
             "bundleIdentifier": "com.leemin.Cowabunga",
             "version": "10.1.1",
@@ -706,6 +717,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ea.simpsonssocial.bv2.png"
+        },
+        {
+            "name": "ToonBlast",
+            "bundleIdentifier": "net.peakgames.toonblast",
+            "version": "10070",
+            "versionDate": "2023-04-07",
+            "size": 159551479,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/07-04-2023/ToonBlast_10070_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.peakgames.toonblast.png"
         },
         {
             "name": "Township",
