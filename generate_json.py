@@ -39,7 +39,7 @@ if __name__ == "__main__":
             try:
                 app_name, version, tweaks = name.split("_", 2)
                 tweaks, _ = tweaks.split("@", 1)
-                if tweaks is not None:
+                if tweaks:
                     tweaks = "Injected with " + tweaks[:-1]
             except:
                 app_name = name
