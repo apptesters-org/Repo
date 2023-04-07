@@ -15,6 +15,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.adobe.Adobe-Reader.png"
         },
         {
+            "name": "Airbrush",
+            "bundleIdentifier": "com.magicv.AirBrush",
+            "version": "5.2.0",
+            "versionDate": "2023-04-07",
+            "size": 326532098,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/Airbrush_5.2.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.magicv.AirBrush.png"
+        },
+        {
             "name": "AltStore",
             "bundleIdentifier": "com.rileytestut.AltStore.Beta",
             "version": "2.0b1",
@@ -112,6 +123,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png"
+        },
+        {
+            "name": "Camera360",
+            "bundleIdentifier": "com.vstudio.camera360",
+            "version": "9.80.03",
+            "versionDate": "2023-04-07",
+            "size": 248913649,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/Camera360_9.80.03_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.vstudio.camera360.png"
         },
         {
             "name": "CanaryPro",
@@ -224,6 +246,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png"
         },
         {
+            "name": "FaceTune",
+            "bundleIdentifier": "com.lightricks.Facetune2",
+            "version": "3.19",
+            "versionDate": "2023-04-07",
+            "size": 386973115,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/FaceTune_3.19_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lightricks.Facetune2.png"
+        },
+        {
             "name": "FamilyIsland",
             "bundleIdentifier": "com.MelsoftGames.FamilyIsland",
             "version": "2023124.1.28433",
@@ -290,6 +323,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ddreamgames.hoosegow.png"
         },
         {
+            "name": "InShot",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.67.1",
+            "versionDate": "2023-04-07",
+            "size": 89275143,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/InShot_1.67.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.camerasideas.InstaShot.png"
+        },
+        {
             "name": "Instagram",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "277.1",
@@ -345,6 +389,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.rockstargames.maxpayne.png"
         },
         {
+            "name": "Meitu",
+            "bundleIdentifier": "com.meitu.mtxx",
+            "version": "9.8.30",
+            "versionDate": "2023-04-07",
+            "size": 224206188,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/Meitu_9.8.30_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.meitu.mtxx.png"
+        },
+        {
             "name": "Mellow",
             "bundleIdentifier": "com.mondayoff.mellow",
             "version": "0.62",
@@ -398,6 +453,28 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.myfitnesspal.mfp.png"
+        },
+        {
+            "name": "Photomath",
+            "bundleIdentifier": "com.microblink.PhotoMath",
+            "version": "8.21.0",
+            "versionDate": "2023-04-07",
+            "size": 14869111,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/Photomath_8.21.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.microblink.PhotoMath.png"
+        },
+        {
+            "name": "PicsArt",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "22.0.3",
+            "versionDate": "2023-04-07",
+            "size": 91118594,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/PicsArt_22.0.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.picsart.studio.png"
         },
         {
             "name": "PictureCross",
