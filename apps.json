@@ -4,6 +4,17 @@
     "sourceURL": "https://repo.apptesters.org/",
     "apps": [
         {
+            "name": "TruckersofEurope3",
+            "bundleIdentifier": "com.WandaSoftware.TruckersofEurope3",
+            "version": "0.37",
+            "versionDate": "2023-04-07",
+            "size": 483666033,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/TruckersofEurope3_0.37_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.WandaSoftware.TruckersofEurope3.png"
+        },
+        {
             "name": "UniversalTruckSimulator",
             "bundleIdentifier": "com.dualcarbon.universaltrucksimulator",
             "version": "1.6",
