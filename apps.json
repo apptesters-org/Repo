@@ -92,6 +92,17 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.gamon.djTW.png"
         },
         {
+            "name": "DBLEGENDS",
+            "bundleIdentifier": "jp.co.bandainamcoent.BNEI0334",
+            "version": "4.19.0",
+            "versionDate": "2023-04-07",
+            "size": 99566266,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/DBLEGENDS_4.19.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/jp.co.bandainamcoent.BNEI0334.png"
+        },
+        {
             "name": "Downwell",
             "bundleIdentifier": "com.devolver.downwell",
             "version": "1.0.72",
@@ -145,6 +156,17 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.marmalade.gol2.png"
+        },
+        {
+            "name": "Gardenscapes",
+            "bundleIdentifier": "com.playrix.gardenscapes-m3-ios",
+            "version": "6.9.0",
+            "versionDate": "2023-04-07",
+            "size": 155045798,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/Gardenscapes_6.9.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.playrix.gardenscapes-m3-ios.png"
         },
         {
             "name": "GearClicker",
@@ -211,6 +233,28 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cornagostefano.lapse.png"
+        },
+        {
+            "name": "LastDayOnEarthSurvival",
+            "bundleIdentifier": "zombie.survival.craft.z",
+            "version": "1.20.5",
+            "versionDate": "2023-04-07",
+            "size": 802753503,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/LastDayOnEarthSurvival_1.20.5_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/zombie.survival.craft.z.png"
+        },
+        {
+            "name": "MaxPayne",
+            "bundleIdentifier": "com.rockstargames.maxpayne",
+            "version": "1.4.10",
+            "versionDate": "2023-04-07",
+            "size": 1166528113,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/v1.0.0/MaxPayne_1.4.10_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.rockstargames.maxpayne.png"
         },
         {
             "name": "Mellow",
