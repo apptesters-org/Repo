@@ -4,6 +4,7 @@ import argparse
 import pandas as pd
 from get_bundle_id import get_single_bundle_id
 import os
+import shutil
 
 
 if __name__ == "__main__":
@@ -12,7 +13,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     token = args.token
 
-    out_file = "index.html"
+    out_file = "apps.json"
+    clone_file = "index.html"
 
     with open(out_file, "r") as f:
         data = json.load(f)
@@ -73,3 +75,5 @@ if __name__ == "__main__":
 
     with open(out_file, 'w') as json_file:
         json.dump(data, json_file, indent=4)
+
+    shutil.copyfile(out_file, clone_file)
