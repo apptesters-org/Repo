@@ -40,6 +40,7 @@ if __name__ == "__main__":
                 continue
             name = asset.name[:-4]
             date = asset.created_at.strftime("%Y-%m-%d")
+            full_date = asset.created_at.strftime("%Y%m%d%H%M%S")
             try:
                 app_name, version, tweaks = name.split("_", 2)
                 tweaks, _ = tweaks.split("@", 1)
@@ -63,6 +64,7 @@ if __name__ == "__main__":
                     "bundleIdentifier": bundle_id,
                     "version": version,
                     "versionDate": date,
+                    "fullDate": full_date,
                     "size": asset.size,
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
@@ -70,6 +72,7 @@ if __name__ == "__main__":
                     "iconURL": f"https://raw.githubusercontent.com/{repo_name}/main/icons/{bundle_id}.png"
                 }
             )
+            data["apps"].sort(key=lambda x: x["fullDate"], reverse=True)
 
     df.to_csv("bundleId.csv", index=False)
 
