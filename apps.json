@@ -4,6 +4,78 @@
     "sourceURL": "https://repo.apptesters.org/",
     "apps": [
         {
+            "name": "Polish++",
+            "bundleIdentifier": "com.photoeditor.polish",
+            "version": "1.5.5",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408152644",
+            "size": 114195167,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/Polish%2B%2B_1.5.5_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.photoeditor.polish.png"
+        },
+        {
+            "name": "AllTrails++",
+            "bundleIdentifier": "com.alltrails.AllTrails",
+            "version": "17.7.0",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408152636",
+            "size": 85181517,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/AllTrails%2B%2B_17.7.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.alltrails.AllTrails.png"
+        },
+        {
+            "name": "TouchRetouch++",
+            "bundleIdentifier": "com.advasoft.touchretouch",
+            "version": "5.1.4",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408152605",
+            "size": 69189278,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/TouchRetouch%2B%2B_5.1.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.advasoft.touchretouch.png"
+        },
+        {
+            "name": "Reface++",
+            "bundleIdentifier": "com.neocortext.doublicatapp",
+            "version": "3.37.0",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408152556",
+            "size": 62710206,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/Reface%2B%2B_3.37.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.neocortext.doublicatapp.png"
+        },
+        {
+            "name": "ACDSeePro",
+            "bundleIdentifier": "com.acmi.acdsee-pro",
+            "version": "4.5.4",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408152548",
+            "size": 87861294,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/ACDSeePro_4.5.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.acmi.acdsee-pro.png"
+        },
+        {
+            "name": "SuperimposeX",
+            "bundleIdentifier": "com.superimposeapp.superimposex",
+            "version": "3.5.4",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408152519",
+            "size": 169354725,
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/SuperimposeX_3.5.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.superimposeapp.superimposex.png"
+        },
+        {
             "name": "AudioMaker",
             "bundleIdentifier": "com.iuuapp.audiomaker",
             "version": "1.1.37",
