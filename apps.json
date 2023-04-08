@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "YouTube",
+            "bundleID": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.04.3",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408180729",
+            "size": 97167352,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/YouTube_18.04.3_DLEasy_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/YouTube_18.04.3_DLEasy_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with DLEasy",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "Snapchat",
+            "bundleID": "com.toyopagroup.picaboo",
+            "bundleIdentifier": "com.toyopagroup.picaboo",
+            "version": "12.20.0",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408180655",
+            "size": 86346261,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/Snapchat_12.20.0_Falcon_1.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-04-2023/Snapchat_12.20.0_Falcon_1.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Falcon 1.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.toyopagroup.picaboo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
             "name": "PPSSPP",
             "bundleID": "org.ppsspp.ppsspp",
             "bundleIdentifier": "org.ppsspp.ppsspp",
