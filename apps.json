@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "8BallPoll",
+            "bundleID": "com.miniclip.8ballpoolmult",
+            "bundleIdentifier": "com.miniclip.8ballpoolmult",
+            "version": "5.10.4",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408212658",
+            "size": 78358953,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/8BallPoll_5.10.4_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/8BallPoll_5.10.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.miniclip.8ballpoolmult.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.miniclip.8ballpoolmult.png"
+        },
+        {
+            "name": "Reddit",
+            "bundleID": "com.reddit.Reddit",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "2023.13.0",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408212637",
+            "size": 117754715,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/Reddit_2023.13.0_RedditFilter_1.1.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/Reddit_2023.13.0_RedditFilter_1.1.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with RedditFilter 1.1.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.reddit.Reddit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.reddit.Reddit.png"
+        },
+        {
             "name": "ScrivoPro",
             "bundleID": "com.studio5.scrivopro",
             "bundleIdentifier": "com.studio5.scrivopro",
