@@ -3,6 +3,8 @@ on:
     branches: ["main"]
   release:
     types: [published, edited, deleted, prereleased, released, created]
+    tags:
+      - "08-04-2023"
     
 permissions: write-all
   
