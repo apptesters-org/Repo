@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "YouTube",
+            "bundleID": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.13.4",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408205745",
+            "size": 121628072,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/YouTube_18.13.4_Reborn_3.0.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/YouTube_18.13.4_Reborn_3.0.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Reborn 3.0.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "CARROTWeather",
             "bundleID": "com.grailr.CARROTweather",
             "bundleIdentifier": "com.grailr.CARROTweather",
