@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "CARROTWeatherUltra",
+            "bundleID": "com.grailr.CARROTweather.watchkitapp",
+            "bundleIdentifier": "com.grailr.CARROTweather.watchkitapp",
+            "version": "5.10.3",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408230640",
+            "size": 50339142,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/CARROTWeatherUltra_5.10.3_zxcvbn_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/CARROTWeatherUltra_5.10.3_zxcvbn_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with zxcvbn",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.grailr.CARROTweather.watchkitapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.grailr.CARROTweather.watchkitapp.png"
+        },
+        {
+            "name": "365Scores",
+            "bundleID": "com.365scores.365scroesapp",
+            "bundleIdentifier": "com.365scores.365scroesapp",
+            "version": "5.8.11",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408230551",
+            "size": 44811385,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/365Scores_5.8.11_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/365Scores_5.8.11_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.365scores.365scroesapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.365scores.365scroesapp.png"
+        },
+        {
             "name": "Bobby",
             "bundleID": "com.yummygum.Billy",
             "bundleIdentifier": "com.yummygum.Billy",
