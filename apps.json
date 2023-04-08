@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "ScrivoPro",
+            "bundleID": "com.studio5.scrivopro",
+            "bundleIdentifier": "com.studio5.scrivopro",
+            "version": "7.1.5",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408211050",
+            "size": 76978663,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/ScrivoPro_7.1.5_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/ScrivoPro_7.1.5_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.studio5.scrivopro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.studio5.scrivopro.png"
+        },
+        {
+            "name": "YouTube",
+            "bundleID": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.13.4",
+            "versionDate": "2023-04-08",
+            "fullDate": "20230408211012",
+            "size": 123025058,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/YouTube_18.13.4_DLTube_2.14.5_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-04-2023/YouTube_18.13.4_DLTube_2.14.5_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with DLTube 2.14.5",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "YouTube",
             "bundleID": "com.google.ios.youtube",
             "bundleIdentifier": "com.google.ios.youtube",
