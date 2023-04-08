@@ -61,14 +61,17 @@ if __name__ == "__main__":
             data["apps"].append(
                 {
                     "name": app_name,
+                    "bundleID": bundle_id,
                     "bundleIdentifier": bundle_id,
                     "version": version,
                     "versionDate": date,
                     "fullDate": full_date,
                     "size": asset.size,
+                    "down": asset.browser_download_url,
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
                     "localizedDescription": tweaks,
+                    "icon": f"https://raw.githubusercontent.com/{repo_name}/main/icons/{bundle_id}.png",
                     "iconURL": f"https://raw.githubusercontent.com/{repo_name}/main/icons/{bundle_id}.png"
                 }
             )

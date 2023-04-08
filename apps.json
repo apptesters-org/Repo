@@ -2,6 +2,10 @@
     "name": "AppTesters IPA Repo",
     "identifier": "org.apptesters.repo",
     "sourceURL": "https://repo.apptesters.org/",
+    "META": {
+        "repoName": "AppTesters IPA Repo",
+        "repoIcon": "https://sts.st/d/5779b391f8aa"
+    },
     "apps": [
         {
             "name": "Polish++",
