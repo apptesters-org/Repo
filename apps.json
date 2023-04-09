@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Gradient",
+            "bundleID": "com.tickettothemoon.gradient",
+            "bundleIdentifier": "com.tickettothemoon.gradient",
+            "version": "2.7.14",
+            "versionDate": "2023-04-09",
+            "fullDate": "20230409210517",
+            "size": 106641068,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/10-04-2023/Gradient_2.7.14_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/10-04-2023/Gradient_2.7.14_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.tickettothemoon.gradient.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.tickettothemoon.gradient.png"
+        },
+        {
             "name": "MarvelContestofChampions",
             "bundleID": "com.kabam.marvelbattle",
             "bundleIdentifier": "com.kabam.marvelbattle",
