@@ -2946,36 +2946,6 @@
             "localizedDescription": "Injected with Spotilife 1.8",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png"
-        },
-        {
-            "name": "Instagram",
-            "bundleID": "com.burbn.instagram",
-            "bundleIdentifier": "com.burbn.instagram",
-            "version": "277.1",
-            "versionDate": "2023-04-06",
-            "fullDate": "20230406110215",
-            "size": 198189087,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/07-04-2023/Instagram_277.1_Rocket_3.8.6_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/07-04-2023/Instagram_277.1_Rocket_3.8.6_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Rocket 3.8.6",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
-        },
-        {
-            "name": "Instagram",
-            "bundleID": "com.burbn.instagram",
-            "bundleIdentifier": "com.burbn.instagram",
-            "version": "277.1",
-            "versionDate": "2023-04-06",
-            "fullDate": "20230406110046",
-            "size": 201660449,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/07-04-2023/Instagram_277.1_Rocket_3.8.6_Plus_v2.50_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/07-04-2023/Instagram_277.1_Rocket_3.8.6_Plus_v2.50_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Rocket 3.8.6 Plus v2.50",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
         }
     ]
 }
