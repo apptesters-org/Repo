@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Hay.Day",
+            "bundleID": "com.supercell.Sal",
+            "bundleIdentifier": "com.supercell.Sal",
+            "version": "1.57.151",
+            "versionDate": "2023-04-10",
+            "fullDate": "20230410224637",
+            "size": 207283259,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/Hay.Day_1.57.151_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/Hay.Day_1.57.151_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.supercell.Sal.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.supercell.Sal.png"
+        },
+        {
             "name": "FlickShoot2",
             "bundleID": "net.mobilecraft.flickshoot2",
             "bundleIdentifier": "net.mobilecraft.flickshoot2",
