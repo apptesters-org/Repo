@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "FlickShoot2",
+            "bundleID": "net.mobilecraft.flickshoot2",
+            "bundleIdentifier": "net.mobilecraft.flickshoot2",
+            "version": "1.31",
+            "versionDate": "2023-04-10",
+            "fullDate": "20230410215410",
+            "size": 165343476,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/FlickShoot2_1.31_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/FlickShoot2_1.31_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.mobilecraft.flickshoot2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.mobilecraft.flickshoot2.png"
+        },
+        {
+            "name": "iTranslate",
+            "bundleID": "com.outerspaceapps.itranslate",
+            "bundleIdentifier": "com.outerspaceapps.itranslate",
+            "version": "15.0.17",
+            "versionDate": "2023-04-10",
+            "fullDate": "20230410215314",
+            "size": 144033937,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/iTranslate_15.0.17_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/iTranslate_15.0.17_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outerspaceapps.itranslate.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outerspaceapps.itranslate.png"
+        },
+        {
             "name": "DuolingoPremium",
             "bundleID": "com.duolingo.DuolingoMobile",
             "bundleIdentifier": "com.duolingo.DuolingoMobile",
