@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "MathMaster",
+            "bundleID": "com.appslux.math",
+            "bundleIdentifier": "com.appslux.math",
+            "version": "19.0",
+            "versionDate": "2023-04-11",
+            "fullDate": "20230411174901",
+            "size": 42260139,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/MathMaster_19.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/MathMaster_19.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.appslux.math.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.appslux.math.png"
+        },
+        {
+            "name": "CapCut",
+            "bundleID": "com.lemon.lvoverseas",
+            "bundleIdentifier": "com.lemon.lvoverseas",
+            "version": "7.7.2",
+            "versionDate": "2023-04-11",
+            "fullDate": "20230411174849",
+            "size": 88661365,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/CapCut_7.7.2_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-04-2023/CapCut_7.7.2_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lemon.lvoverseas.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lemon.lvoverseas.png"
+        },
+        {
             "name": "TVCast",
             "bundleID": "com.cast.stream.totv.home",
             "bundleIdentifier": "com.cast.stream.totv.home",
