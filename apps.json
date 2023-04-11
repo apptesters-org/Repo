@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "SubwaySurfers",
+            "bundleID": "com.kiloo.subwaysurfers",
+            "bundleIdentifier": "com.kiloo.subwaysurfers",
+            "version": "3.10.0",
+            "versionDate": "2023-04-11",
+            "fullDate": "20230411184257",
+            "size": 143986531,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-04-2023/SubwaySurfers_3.10.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-04-2023/SubwaySurfers_3.10.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.kiloo.subwaysurfers.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.kiloo.subwaysurfers.png"
+        },
+        {
             "name": "MathMaster",
             "bundleID": "com.appslux.math",
             "bundleIdentifier": "com.appslux.math",
