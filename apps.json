@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "YouTubeMusic",
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "5.52.2",
+            "versionDate": "2023-04-12",
+            "fullDate": "20230412205320",
+            "size": 97107376,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/13-04-2023/YouTubeMusic_5.52.2_YTMusicUltimate_1.27_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-04-2023/YouTubeMusic_5.52.2_YTMusicUltimate_1.27_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimate 1.27",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "AdGuardPro",
             "bundleID": "com.adguard.AdguardPro",
             "bundleIdentifier": "com.adguard.AdguardPro",
