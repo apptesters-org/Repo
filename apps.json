@@ -8,21 +8,6 @@
     },
     "apps": [
         {
-            "name": "com.miniclip.8ballpoolmult-5.12.0-Decrypted",
-            "bundleID": "com.miniclip.8ballpoolmult",
-            "bundleIdentifier": "com.miniclip.8ballpoolmult",
-            "version": "Unknown",
-            "versionDate": "2023-04-12",
-            "fullDate": "20230412142849",
-            "size": 80026587,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/12-04-2023/com.miniclip.8ballpoolmult-5.12.0-Decrypted.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-04-2023/com.miniclip.8ballpoolmult-5.12.0-Decrypted.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.miniclip.8ballpoolmult.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.miniclip.8ballpoolmult.png"
-        },
-        {
             "name": "TwitchToolbox",
             "bundleID": "tv.twitch",
             "bundleIdentifier": "tv.twitch",
