@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Paste",
+            "bundleID": "com.wiheads.paste",
+            "bundleIdentifier": "com.wiheads.paste",
+            "version": "3.1.1",
+            "versionDate": "2023-04-13",
+            "fullDate": "20230413181018",
+            "size": 15976724,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/13-04-2023/Paste_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-04-2023/Paste_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.wiheads.paste.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.wiheads.paste.png"
+        },
+        {
             "name": "PicsArt",
             "bundleID": "com.picsart.studio",
             "bundleIdentifier": "com.picsart.studio",
