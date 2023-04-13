@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "YouTube",
+            "bundleID": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.14.1",
+            "versionDate": "2023-04-13",
+            "fullDate": "20230413213513",
+            "size": 108485162,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-04-2023/YouTube_18.14.1_uYouPlus_2.3.1_%40zxcvbn_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-04-2023/YouTube_18.14.1_uYouPlus_2.3.1_%40zxcvbn_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with uYouPlus 2.3.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "MagicTiles3",
             "bundleID": "com.amanotes.magictiles",
             "bundleIdentifier": "com.amanotes.magictiles",
