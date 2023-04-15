@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "BeReal",
+            "bundleID": "AlexisBarreyat.BeReal",
+            "bundleIdentifier": "AlexisBarreyat.BeReal",
+            "version": "0.36.3",
+            "versionDate": "2023-04-15",
+            "fullDate": "20230415194706",
+            "size": 22538280,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/BeReal_0.36.3_Bea_1.0_%40zxcvbn_thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/BeReal_0.36.3_Bea_1.0_%40zxcvbn_thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Bea 1.0",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/AlexisBarreyat.BeReal.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/AlexisBarreyat.BeReal.png"
+        },
+        {
             "name": "RockIdentifier",
             "bundleID": "com.picturerock.rock",
             "bundleIdentifier": "com.picturerock.rock",
