@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "SunnyHouse",
+            "bundleID": "com.cookapps.interiors.home.design.merge.sunnyhouse",
+            "bundleIdentifier": "com.cookapps.interiors.home.design.merge.sunnyhouse",
+            "version": "1.1.80",
+            "versionDate": "2023-04-15",
+            "fullDate": "20230415181802",
+            "size": 167013692,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/SunnyHouse_1.1.80_FreezeCurrency_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/SunnyHouse_1.1.80_FreezeCurrency_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with FreezeCurrency",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cookapps.interiors.home.design.merge.sunnyhouse.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cookapps.interiors.home.design.merge.sunnyhouse.png"
+        },
+        {
             "name": "PhotoVault",
             "bundleID": "com.enchantedcloud.photovault",
             "bundleIdentifier": "com.enchantedcloud.photovault",
