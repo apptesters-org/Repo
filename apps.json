@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Voloco",
+            "bundleID": "com.resonantcavity.Voloco",
+            "bundleIdentifier": "com.resonantcavity.Voloco",
+            "version": "8.3.0",
+            "versionDate": "2023-04-15",
+            "fullDate": "20230415153037",
+            "size": 19732886,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/Voloco_8.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/Voloco_8.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.resonantcavity.Voloco.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.resonantcavity.Voloco.png"
+        },
+        {
+            "name": "Wonderfix",
+            "bundleID": "com.pas.qualilty",
+            "bundleIdentifier": "com.pas.qualilty",
+            "version": "1.0.7",
+            "versionDate": "2023-04-15",
+            "fullDate": "20230415144244",
+            "size": 11660914,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/Wonderfix_1.0.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/Wonderfix_1.0.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.pas.qualilty.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.pas.qualilty.png"
+        },
+        {
             "name": "Sniper3D",
             "bundleID": "com.fungames.sniper3d",
             "bundleIdentifier": "com.fungames.sniper3d",
