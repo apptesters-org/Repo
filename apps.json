@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "TokProxy",
+            "bundleID": "com.beauflysky.TokProxy",
+            "bundleIdentifier": "com.beauflysky.TokProxy",
+            "version": "1.0.0",
+            "versionDate": "2023-04-15",
+            "fullDate": "20230415203716",
+            "size": 5355125,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/TokProxy_1.0.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-04-2023/TokProxy_1.0.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.beauflysky.TokProxy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.beauflysky.TokProxy.png"
+        },
+        {
             "name": "PSExpress",
             "bundleID": "com.adobe.PSMobile",
             "bundleIdentifier": "com.adobe.PSMobile",
