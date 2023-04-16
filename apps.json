@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "HeroWars",
+            "bundleID": "com.nexters.titanhunters",
+            "bundleIdentifier": "com.nexters.titanhunters",
+            "version": "1.168.002",
+            "versionDate": "2023-04-16",
+            "fullDate": "20230416223833",
+            "size": 109764553,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/HeroWars_1.168.002_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/HeroWars_1.168.002_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.nexters.titanhunters.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.nexters.titanhunters.png"
+        },
+        {
+            "name": "SkullGirls",
+            "bundleID": "com.autumn.skullgirls",
+            "bundleIdentifier": "com.autumn.skullgirls",
+            "version": "5.3.1",
+            "versionDate": "2023-04-16",
+            "fullDate": "20230416223742",
+            "size": 141236644,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/SkullGirls_5.3.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/SkullGirls_5.3.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.autumn.skullgirls.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.autumn.skullgirls.png"
+        },
+        {
             "name": "PREQUEL",
             "bundleID": "com.aiarlabs.prequel",
             "bundleIdentifier": "com.aiarlabs.prequel",
