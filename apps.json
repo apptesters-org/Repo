@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Shadowrocket",
+            "bundleID": "com.liguangming.Shadowrocket",
+            "bundleIdentifier": "com.liguangming.Shadowrocket",
+            "version": "2.2.27",
+            "versionDate": "2023-04-16",
+            "fullDate": "20230416205716",
+            "size": 26491473,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/Shadowrocket_2.2.27_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/Shadowrocket_2.2.27_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.liguangming.Shadowrocket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.liguangming.Shadowrocket.png"
+        },
+        {
+            "name": "Truecaller",
+            "bundleID": "com.truesoftware.TrueCallerOther",
+            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+            "version": "1.27.11",
+            "versionDate": "2023-04-16",
+            "fullDate": "20230416205640",
+            "size": 112648618,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/Truecaller_1.27.11_Premium_TrollStoreOnly_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/Truecaller_1.27.11_Premium_TrollStoreOnly_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium TrollStoreOnly",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.truesoftware.TrueCallerOther.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.truesoftware.TrueCallerOther.png"
+        },
+        {
             "name": "Mergical",
             "bundleID": "com.fotoable.mergetown",
             "bundleIdentifier": "com.fotoable.mergetown",
