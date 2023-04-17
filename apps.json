@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "NodeVideo",
+            "bundleID": "com.shallwaystudio.nodevideo",
+            "bundleIdentifier": "com.shallwaystudio.nodevideo",
+            "version": "5.8.5",
+            "versionDate": "2023-04-17",
+            "fullDate": "20230417142247",
+            "size": 95726920,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/NodeVideo_5.8.5_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-04-2023/NodeVideo_5.8.5_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.shallwaystudio.nodevideo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.shallwaystudio.nodevideo.png"
+        },
+        {
             "name": "BadooPremium",
             "bundleID": "com.badoo.BadooSPP",
             "bundleIdentifier": "com.badoo.BadooSPP",
