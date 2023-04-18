@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "YouTubeMusic",
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "5.53",
+            "versionDate": "2023-04-18",
+            "fullDate": "20230418221409",
+            "size": 83787481,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-04-2023/YouTubeMusic_5.53_YTMusicUltimate_1.2.7_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-04-2023/YouTubeMusic_5.53_YTMusicUltimate_1.2.7_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimate 1.2.7",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
+            "name": "YouTube",
+            "bundleID": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.15.1",
+            "versionDate": "2023-04-18",
+            "fullDate": "20230418220137",
+            "size": 124372043,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-04-2023/YouTube_18.15.1_Reborn_4.0.9_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-04-2023/YouTube_18.15.1_Reborn_4.0.9_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Reborn 4.0.9",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "FishingClash",
             "bundleID": "com.tensquaregames.letsfish2",
             "bundleIdentifier": "com.tensquaregames.letsfish2",
