@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "DopeWalls",
+            "bundleID": "com.alextataurov.dopewalls",
+            "bundleIdentifier": "com.alextataurov.dopewalls",
+            "version": "2.0.7",
+            "versionDate": "2023-04-19",
+            "fullDate": "20230419215643",
+            "size": 51510676,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/20-04-2023/DopeWalls_2.0.7_NoAds_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-04-2023/DopeWalls_2.0.7_NoAds_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with NoAds",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.alextataurov.dopewalls.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.alextataurov.dopewalls.png"
+        },
+        {
             "name": "ProShot",
             "bundleID": "com.riseupgames.ProShot",
             "bundleIdentifier": "com.riseupgames.ProShot",
