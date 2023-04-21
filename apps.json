@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "WhatsAppBusiness",
+            "bundleID": "net.whatsapp.WhatsAppSMB",
+            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+            "version": "23.7.83",
+            "versionDate": "2023-04-21",
+            "fullDate": "20230421180312",
+            "size": 93420216,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/21-04-2023/WhatsAppBusiness_23.7.83_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-04-2023/WhatsAppBusiness_23.7.83_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png"
+        },
+        {
+            "name": "WhatsAppOriginal",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.7.83",
+            "versionDate": "2023-04-21",
+            "fullDate": "20230421180245",
+            "size": 88397877,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/21-04-2023/WhatsAppOriginal_23.7.83_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-04-2023/WhatsAppOriginal_23.7.83_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "Spotify",
             "bundleID": "com.spotify.client",
             "bundleIdentifier": "com.spotify.client",
