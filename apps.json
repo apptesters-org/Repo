@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "FyTube",
+            "bundleID": "com.fytube.fytube",
+            "bundleIdentifier": "com.fytube.fytube",
+            "version": "1.4",
+            "versionDate": "2023-04-23",
+            "fullDate": "20230423152018",
+            "size": 10410113,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/23-04-2023/FyTube_1.4_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/23-04-2023/FyTube_1.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.fytube.fytube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.fytube.fytube.png"
+        },
+        {
             "name": "ClashRoyale",
             "bundleID": "royal.Z7mh_7ki.hacks",
             "bundleIdentifier": "royal.Z7mh_7ki.hacks",
