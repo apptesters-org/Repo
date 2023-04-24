@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "AlightMotion",
+            "bundleID": "com.alightcreative.motion",
+            "bundleIdentifier": "com.alightcreative.motion",
+            "version": "4.5.7",
+            "versionDate": "2023-04-24",
+            "fullDate": "20230424205121",
+            "size": 89992828,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/25-04-2023/AlightMotion_4.5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/25-04-2023/AlightMotion_4.5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.alightcreative.motion.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.alightcreative.motion.png"
+        },
+        {
             "name": "CoinMaster",
             "bundleID": "com.mobile-softing.coinmaster",
             "bundleIdentifier": "com.mobile-softing.coinmaster",
