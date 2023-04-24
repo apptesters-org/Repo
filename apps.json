@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "CoinMaster",
+            "bundleID": "com.mobile-softing.coinmaster",
+            "bundleIdentifier": "com.mobile-softing.coinmaster",
+            "version": "3.5.1023",
+            "versionDate": "2023-04-24",
+            "fullDate": "20230424181239",
+            "size": 74524252,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/24-04-2023/CoinMaster_3.5.1023_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/24-04-2023/CoinMaster_3.5.1023_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mobile-softing.coinmaster.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mobile-softing.coinmaster.png"
+        },
+        {
             "name": "IdleZombie",
             "bundleID": "hotsiberians.idle.zombie.hospital.tycoon.empire.manager",
             "bundleIdentifier": "hotsiberians.idle.zombie.hospital.tycoon.empire.manager",
