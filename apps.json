@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "WhatsAppOriginal",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.8.75",
+            "versionDate": "2023-04-25",
+            "fullDate": "20230425214319",
+            "size": 71295251,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/26-04-2023/WhatsAppOriginal_23.8.75_Watusi_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/26-04-2023/WhatsAppOriginal_23.8.75_Watusi_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "Revive",
             "bundleID": "com.metacortext.Revive",
             "bundleIdentifier": "com.metacortext.Revive",
