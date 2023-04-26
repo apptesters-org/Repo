@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "TikTok",
+            "bundleID": "com.zhiliaoapp.musically",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "29.2.0",
+            "versionDate": "2023-04-26",
+            "fullDate": "20230426230949",
+            "size": 221868243,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/27-04-2023/TikTok_29.2.0_LRD_2.8_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/27-04-2023/TikTok_29.2.0_LRD_2.8_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with LRD 2.8",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TikTok",
+            "bundleID": "com.zhiliaoapp.musically",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "29.2.0",
+            "versionDate": "2023-04-26",
+            "fullDate": "20230426230832",
+            "size": 221410340,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/27-04-2023/TikTok_29.2.0_Dark_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/27-04-2023/TikTok_29.2.0_Dark_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Dark",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "YouTubeMusic",
             "bundleID": "com.google.ios.youtubemusic",
             "bundleIdentifier": "com.google.ios.youtubemusic",
