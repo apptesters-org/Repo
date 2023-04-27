@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Shadowrocket",
+            "bundleID": "com.liguangming.Shadowrocket",
+            "bundleIdentifier": "com.liguangming.Shadowrocket",
+            "version": "2.2.29",
+            "versionDate": "2023-04-27",
+            "fullDate": "20230427221651",
+            "size": 18196389,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/28-04-2023/Shadowrocket_2.2.29_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/28-04-2023/Shadowrocket_2.2.29_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.liguangming.Shadowrocket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.liguangming.Shadowrocket.png"
+        },
+        {
             "name": "WhatsAppOriginal",
             "bundleID": "net.whatsapp.WhatsApp",
             "bundleIdentifier": "net.whatsapp.WhatsApp",
