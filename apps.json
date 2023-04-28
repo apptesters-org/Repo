@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Facebook",
+            "bundleID": "com.facebook.Facebook",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "413.0",
+            "versionDate": "2023-04-28",
+            "fullDate": "20230428143411",
+            "size": 143985533,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/28-04-2023/Facebook_413.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/28-04-2023/Facebook_413.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Wolf 2.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png"
+        },
+        {
             "name": "Shadowrocket",
             "bundleID": "com.liguangming.Shadowrocket",
             "bundleIdentifier": "com.liguangming.Shadowrocket",
