@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "MergeManor-SunnyHouse",
+            "bundleID": "com.cookapps.interiors.home.design.merge.sunnyhouse",
+            "bundleIdentifier": "com.cookapps.interiors.home.design.merge.sunnyhouse",
+            "version": "1.1.83",
+            "versionDate": "2023-04-29",
+            "fullDate": "20230429171256",
+            "size": 171134787,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/29-04-2023/MergeManor-SunnyHouse_1.1.83_FreezeCurrency_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/29-04-2023/MergeManor-SunnyHouse_1.1.83_FreezeCurrency_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with FreezeCurrency",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cookapps.interiors.home.design.merge.sunnyhouse.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cookapps.interiors.home.design.merge.sunnyhouse.png"
+        },
+        {
             "name": "PAC-MAN",
             "bundleID": "com.namconetworks.pacmanlite",
             "bundleIdentifier": "com.namconetworks.pacmanlite",
