@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "YouTubeMusic",
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "5.55",
+            "versionDate": "2023-05-01",
+            "fullDate": "20230501212422",
+            "size": 59976794,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/02-05-2023/YouTubeMusic_5.55_YTMusicUltimate_1.33_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/02-05-2023/YouTubeMusic_5.55_YTMusicUltimate_1.33_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimate 1.33",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "VisualRuler",
             "bundleID": "me.bayar.VisualRuler",
             "bundleIdentifier": "me.bayar.VisualRuler",
