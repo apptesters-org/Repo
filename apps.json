@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Picsart",
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "22.2.3",
+            "versionDate": "2023-05-04",
+            "fullDate": "20230504200729",
+            "size": 79394216,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/05-05-2023/Picsart_22.2.3_1.0_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-05-2023/Picsart_22.2.3_1.0_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with 1.0",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.picsart.studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.picsart.studio.png"
+        },
+        {
             "name": "iNetProNetworkScanner",
             "bundleID": "com.bananaglue.iNet",
             "bundleIdentifier": "com.bananaglue.iNet",
