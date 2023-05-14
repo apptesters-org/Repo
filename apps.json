@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Infuse",
+            "bundleID": "com.firecore.infuse",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "7.5.4",
+            "versionDate": "2023-05-14",
+            "fullDate": "20230514171740",
+            "size": 361,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-05-2023/Infuse_7.5.4_Suffuse_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-05-2023/Infuse_7.5.4_Suffuse_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Suffuse",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.firecore.infuse.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.firecore.infuse.png"
+        },
+        {
+            "name": "Discord",
+            "bundleID": "com.hammerandchisel.discord",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "version": "177.1",
+            "versionDate": "2023-05-13",
+            "fullDate": "20230513172626",
+            "size": 90036977,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/13-05-2023/Discord_177.1_Enmity_2.2.6_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-05-2023/Discord_177.1_Enmity_2.2.6_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Enmity 2.2.6",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.hammerandchisel.discord.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.hammerandchisel.discord.png"
+        },
+        {
             "name": "YouTubeMusic",
             "bundleID": "com.google.ios.youtubemusic",
             "bundleIdentifier": "com.google.ios.youtubemusic",
