@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "TileBusters",
+            "bundleID": "com.spyke.tilebusters",
+            "bundleIdentifier": "com.spyke.tilebusters",
+            "version": "2.13.2",
+            "versionDate": "2023-05-18",
+            "fullDate": "20230518110035",
+            "size": 248516998,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/18-05-2023/TileBusters_2.13.2_UnlimitedBoost_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-05-2023/TileBusters_2.13.2_UnlimitedBoost_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with UnlimitedBoost",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spyke.tilebusters.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spyke.tilebusters.png"
+        },
+        {
             "name": "Zooba",
             "bundleID": "com.fungames.battleroyale",
             "bundleIdentifier": "com.fungames.battleroyale",
