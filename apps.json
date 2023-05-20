@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "SuperVPN",
+            "bundleID": "mobi.mobilejump.freevpn",
+            "bundleIdentifier": "mobi.mobilejump.freevpn",
+            "version": "1.9.6",
+            "versionDate": "2023-05-20",
+            "fullDate": "20230520144217",
+            "size": 33343029,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/20-05-2023/SuperVPN_1.9.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-05-2023/SuperVPN_1.9.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/mobi.mobilejump.freevpn.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/mobi.mobilejump.freevpn.png"
+        },
+        {
             "name": "Roblox",
             "bundleID": "com.roblox.robloxmobile",
             "bundleIdentifier": "com.roblox.robloxmobile",
