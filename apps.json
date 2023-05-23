@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Twitter",
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "9.59",
+            "versionDate": "2023-05-23",
+            "fullDate": "20230523014358",
+            "size": 85369199,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/23-05-2023/Twitter_9.59_BHTwitter_3.9.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/23-05-2023/Twitter_9.59_BHTwitter_3.9.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter 3.9.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "YouTubeMusic",
             "bundleID": "com.google.ios.youtubemusic",
             "bundleIdentifier": "com.google.ios.youtubemusic",
