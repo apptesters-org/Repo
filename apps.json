@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "284.0",
+            "versionDate": "2023-05-26",
+            "fullDate": "20230526115614",
+            "size": 127413454,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/26-05-2023/Instagram_284.0_Rocket_3.8.8_Plus_2.50_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/26-05-2023/Instagram_284.0_Rocket_3.8.8_Plus_2.50_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Rocket 3.8.8 Plus 2.50",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "284.0",
+            "versionDate": "2023-05-26",
+            "fullDate": "20230526115547",
+            "size": 126384895,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/26-05-2023/Instagram_284.0_Rocket_3.8.8_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/26-05-2023/Instagram_284.0_Rocket_3.8.8_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Rocket 3.8.8",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "TikTok",
             "bundleID": "com.zhiliaoapp.musically",
             "bundleIdentifier": "com.zhiliaoapp.musically",
