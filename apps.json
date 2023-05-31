@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "BlockCityWars",
+            "bundleID": "qwe.qwe.sdd",
+            "bundleIdentifier": "qwe.qwe.sdd",
+            "version": "7.2.2",
+            "versionDate": "2023-05-31",
+            "fullDate": "20230531151315",
+            "size": 271120728,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/31-05-2023/BlockCityWars_7.2.2_Mods%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/31-05-2023/BlockCityWars_7.2.2_Mods%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mod",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/qwe.qwe.sdd.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/qwe.qwe.sdd.png"
+        },
+        {
+            "name": "DeadTrigger2",
+            "bundleID": "com.madfingergames.deadtrigger2",
+            "bundleIdentifier": "com.madfingergames.deadtrigger2",
+            "version": "1.8.25",
+            "versionDate": "2023-05-31",
+            "fullDate": "20230531151150",
+            "size": 613260889,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/31-05-2023/DeadTrigger2_1.8.25_Mods%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/31-05-2023/DeadTrigger2_1.8.25_Mods%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mod",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.madfingergames.deadtrigger2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.madfingergames.deadtrigger2.png"
+        },
+        {
             "name": "BeautyPlus",
             "bundleID": "com.commsource.BeautyPlus",
             "bundleIdentifier": "com.commsource.BeautyPlus",
