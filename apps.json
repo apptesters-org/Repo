@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "PewDiePiesPixelingsIdleRPG",
+            "bundleID": "com.outerminds.pixelings",
+            "bundleIdentifier": "com.outerminds.pixelings",
+            "version": "1.41.0",
+            "versionDate": "2023-05-31",
+            "fullDate": "20230531202148",
+            "size": 703043763,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/01-06-2023/PewDiePiesPixelingsIdleRPG_1.41.0_VIPUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-06-2023/PewDiePiesPixelingsIdleRPG_1.41.0_VIPUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIPUnlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outerminds.pixelings.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.outerminds.pixelings.png"
+        },
+        {
             "name": "LegendofPandonia",
             "bundleID": "com.pando.dy.legendpando",
             "bundleIdentifier": "com.pando.dy.legendpando",
