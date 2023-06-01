@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "WABusiness",
+            "bundleID": "net.whatsapp.WhatsAppSMB",
+            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+            "version": "23.10.77",
+            "versionDate": "2023-06-01",
+            "fullDate": "20230601162136",
+            "size": 104454403,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/01-06-2023/WABusiness_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-06-2023/WABusiness_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.1.61 Stalky 4.1.21 OnlineNotify 3.4.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png"
+        },
+        {
+            "name": "WhatsApp",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.10.77",
+            "versionDate": "2023-06-01",
+            "fullDate": "20230601162109",
+            "size": 98343366,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/01-06-2023/WhatsApp_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-06-2023/WhatsApp_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.1.61 Stalky 4.1.21 OnlineNotify 3.4.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "AlightMotion",
             "bundleID": "com.alightcreative.motion",
             "bundleIdentifier": "com.alightcreative.motion",
