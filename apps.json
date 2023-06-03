@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "CrazyPirate",
+            "bundleID": "com.sponge.pirate",
+            "bundleIdentifier": "com.sponge.pirate",
+            "version": "1.917",
+            "versionDate": "2023-06-03",
+            "fullDate": "20230603200829",
+            "size": 100945740,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/CrazyPirate_1.917_GodMod_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/CrazyPirate_1.917_GodMod_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with GodMod",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.sponge.pirate.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.sponge.pirate.png"
+        },
+        {
             "name": "Hajwala4Life",
             "bundleID": "com.ambratorgames.Hajwalahlife",
             "bundleIdentifier": "com.ambratorgames.Hajwalahlife",
