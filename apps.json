@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Hajwala4Life",
+            "bundleID": "com.ambratorgames.Hajwalahlife",
+            "bundleIdentifier": "com.ambratorgames.Hajwalahlife",
+            "version": "1.2.21",
+            "versionDate": "2023-06-03",
+            "fullDate": "20230603184550",
+            "size": 986213002,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/Hajwala4Life_1.2.21_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/Hajwala4Life_1.2.21_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ambratorgames.Hajwalahlife.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ambratorgames.Hajwalahlife.png"
+        },
+        {
+            "name": "DrivingSim",
+            "bundleID": "com.CarGame.DrivingClubSimulator",
+            "bundleIdentifier": "com.CarGame.DrivingClubSimulator",
+            "version": "1.7.60",
+            "versionDate": "2023-06-03",
+            "fullDate": "20230603184500",
+            "size": 133396731,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/DrivingSim_1.7.60_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/DrivingSim_1.7.60_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.CarGame.DrivingClubSimulator.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.CarGame.DrivingClubSimulator.png"
+        },
+        {
             "name": "ShamanKing",
             "bundleID": "jp.co.studioz.shamanking",
             "bundleIdentifier": "jp.co.studioz.shamanking",
