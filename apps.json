@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "VPNERO",
+            "bundleID": "com.appyogi.vpnapp",
+            "bundleIdentifier": "com.appyogi.vpnapp",
+            "version": "1.1.22",
+            "versionDate": "2023-06-04",
+            "fullDate": "20230604170139",
+            "size": 20071290,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/VPNERO_1.1.22_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/VPNERO_1.1.22_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.appyogi.vpnapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.appyogi.vpnapp.png"
+        },
+        {
+            "name": "SixGuns",
+            "bundleID": "com.gameloft.Bullet",
+            "bundleIdentifier": "com.gameloft.Bullet",
+            "version": "3.0.6",
+            "versionDate": "2023-06-04",
+            "fullDate": "20230604170042",
+            "size": 511994462,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/SixGuns_3.0.6_UnlimitedCoinsandStars_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-06-2023/SixGuns_3.0.6_UnlimitedCoinsandStars_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with UnlimitedCoinsandStars",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.gameloft.Bullet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.gameloft.Bullet.png"
+        },
+        {
             "name": "TheEscapists",
             "bundleID": "com.team17.escapists",
             "bundleIdentifier": "com.team17.escapists",
