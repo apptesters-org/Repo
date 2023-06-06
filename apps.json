@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "WhatsApp",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.11.76",
+            "versionDate": "2023-06-06",
+            "fullDate": "20230606123920",
+            "size": 93404909,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/06-06-2023/WhatsApp_23.11.76_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/06-06-2023/WhatsApp_23.11.76_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.1.61 Stalky 4.1.21 OnlineNotify 3.4.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
+            "name": "WABusiness",
+            "bundleID": "net.whatsapp.WhatsAppSMB",
+            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+            "version": "23.11.76",
+            "versionDate": "2023-06-06",
+            "fullDate": "20230606123849",
+            "size": 99296832,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/06-06-2023/WABusiness_23.11.76_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/06-06-2023/WABusiness_23.11.76_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.1.61 Stalky 4.1.21 OnlineNotify 3.4.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png"
+        },
+        {
             "name": "StoryClone",
             "bundleID": "vhsdoor.hady",
             "bundleIdentifier": "vhsdoor.hady",
