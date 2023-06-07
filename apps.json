@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Banish",
+            "bundleID": "pineapplelabs.Banish",
+            "bundleIdentifier": "pineapplelabs.Banish",
+            "version": "1.42",
+            "versionDate": "2023-06-07",
+            "fullDate": "20230607213537",
+            "size": 1319461,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/08-06-2023/Banish_1.42_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-06-2023/Banish_1.42_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/pineapplelabs.Banish.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/pineapplelabs.Banish.png"
+        },
+        {
             "name": "TikTok",
             "bundleID": "com.zhiliaoapp.musically",
             "bundleIdentifier": "com.zhiliaoapp.musically",
