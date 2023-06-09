@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "WhatsApp_23.11.78_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "Unknown",
+            "versionDate": "2023-06-09",
+            "fullDate": "20230609215004",
+            "size": 93406975,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/10-06-2023/WhatsApp_23.11.78_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/10-06-2023/WhatsApp_23.11.78_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "CombatMaster",
             "bundleID": "com.AlfaBravo.nk",
             "bundleIdentifier": "com.AlfaBravo.nk",
