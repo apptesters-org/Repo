@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Photomath",
+            "bundleID": "com.microblink.PhotoMath",
+            "bundleIdentifier": "com.microblink.PhotoMath",
+            "version": "8.25.0",
+            "versionDate": "2023-06-11",
+            "fullDate": "20230611231814",
+            "size": 13939748,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-06-2023/Photomath_8.25.0_Plus_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-06-2023/Photomath_8.25.0_Plus_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.microblink.PhotoMath.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.microblink.PhotoMath.png"
+        },
+        {
             "name": "WhatsApp",
             "bundleID": "net.whatsapp.WhatsApp",
             "bundleIdentifier": "net.whatsapp.WhatsApp",
