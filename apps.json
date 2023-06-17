@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "VideoCompress",
+            "bundleID": "com.rockybrain.videocompressor",
+            "bundleIdentifier": "com.rockybrain.videocompressor",
+            "version": "2.0.1",
+            "versionDate": "2023-06-17",
+            "fullDate": "20230617180006",
+            "size": 15704697,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-06-2023/VideoCompress_2.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-06-2023/VideoCompress_2.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.rockybrain.videocompressor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.rockybrain.videocompressor.png"
+        },
+        {
             "name": "MiniSoccerStar",
             "bundleID": "com.touch2goal.soccer",
             "bundleIdentifier": "com.touch2goal.soccer",
