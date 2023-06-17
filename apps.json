@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "VPNSnake",
+            "bundleID": "com.ivansoft.VPN",
+            "bundleIdentifier": "com.ivansoft.VPN",
+            "version": "2.1",
+            "versionDate": "2023-06-17",
+            "fullDate": "20230617194832",
+            "size": 20804059,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2023/VPNSnake_2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2023/VPNSnake_2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ivansoft.VPN.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ivansoft.VPN.png"
+        },
+        {
+            "name": "VK",
+            "bundleID": "com.vk.vkclient",
+            "bundleIdentifier": "com.vk.vkclient",
+            "version": "8.27",
+            "versionDate": "2023-06-17",
+            "fullDate": "20230617194713",
+            "size": 140270078,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2023/VK_8.27_LazyVK_2.6_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2023/VK_8.27_LazyVK_2.6_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with LazyVK 2.6",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.vk.vkclient.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.vk.vkclient.png"
+        },
+        {
             "name": "VideoStar",
             "bundleID": "com.frontierdesign.videostar",
             "bundleIdentifier": "com.frontierdesign.videostar",
