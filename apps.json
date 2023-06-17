@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Reddit_2023.23.1_Plus_zxcvbn_apptesters.org",
+            "bundleID": "com.reddit.Reddit",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "Unknown",
+            "versionDate": "2023-06-17",
+            "fullDate": "20230617180252",
+            "size": 120293822,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-06-2023/Reddit_2023.23.1_Plus_zxcvbn_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-06-2023/Reddit_2023.23.1_Plus_zxcvbn_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.reddit.Reddit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.reddit.Reddit.png"
+        },
+        {
             "name": "VideoCompress",
             "bundleID": "com.rockybrain.videocompressor",
             "bundleIdentifier": "com.rockybrain.videocompressor",
