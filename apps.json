@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Twitter",
+            "bundleID": "Twitter_9.63_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
+            "bundleIdentifier": "Twitter_9.63_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
+            "version": "9.63",
+            "versionDate": "2023-06-19",
+            "fullDate": "20230619173831",
+            "size": 97336149,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-06-2023/Twitter_9.63_BHTwitter_3.9.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-06-2023/Twitter_9.63_BHTwitter_3.9.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter 3.9.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "Strava",
             "bundleID": "Strava_310.0.1_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Strava_310.0.1_Premium_@thisismanpreets_apptesters.org",
