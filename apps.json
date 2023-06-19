@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Canary",
+            "bundleID": "Canary_4.04_Pro_@asdfzxcvbn0_apptesters.org",
+            "bundleIdentifier": "Canary_4.04_Pro_@asdfzxcvbn0_apptesters.org",
+            "version": "4.04",
+            "versionDate": "2023-06-19",
+            "fullDate": "20230619210801",
+            "size": 56971014,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/20-06-2023/Canary_4.04_Pro_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-06-2023/Canary_4.04_Pro_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.png"
+        },
+        {
             "name": "DeLogo",
             "bundleID": "DeLogo_4.0.5_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DeLogo_4.0.5_Satella_@thisismanpreets_apptesters.org",
