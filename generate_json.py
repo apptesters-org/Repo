@@ -36,7 +36,7 @@ if __name__ == "__main__":
         print(release.title)
 
         for asset in release.get_assets():
-            if (asset.name[-3:] != "ipa"):
+            if not asset.name.endswith(".ipa"):
                 continue
             name = asset.name[:-4]
             date = asset.created_at.strftime("%Y-%m-%d")
@@ -61,8 +61,8 @@ if __name__ == "__main__":
             data["apps"].append(
                 {
                     "name": app_name,
-                    "bundleID": bundle_id,
-                    "bundleIdentifier": bundle_id,
+                    "bundleID": name
+                    "bundleIdentifier": name,
                     "version": version,
                     "versionDate": date,
                     "fullDate": full_date,
