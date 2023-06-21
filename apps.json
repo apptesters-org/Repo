@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "Facebook",
+            "bundleID": "Facebook_420_Wolf_2.1_@thisismanpreets_apptesters.org",
+            "bundleIdentifier": "Facebook_420_Wolf_2.1_@thisismanpreets_apptesters.org",
+            "version": "420",
+            "versionDate": "2023-06-21",
+            "fullDate": "20230621190217",
+            "size": 141521857,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/22-06-2023/Facebook_420_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/22-06-2023/Facebook_420_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Wolf 2.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png"
+        },
+        {
             "name": "GearClicker",
             "bundleID": "GearClicker_7.7.0_FreeGear_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "GearClicker_7.7.0_FreeGear_@thisismanpreets_apptesters.org",
