@@ -8,6 +8,36 @@
     },
     "apps": [
         {
+            "name": "Snapchat",
+            "bundleID": "Snapchat_12.39.0_Falcon_2.0_@thisismanpreets_apptesters.org",
+            "bundleIdentifier": "Snapchat_12.39.0_Falcon_2.0_@thisismanpreets_apptesters.org",
+            "version": "12.39.0",
+            "versionDate": "2023-06-21",
+            "fullDate": "20230621214005",
+            "size": 101940835,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/22-06-2023/Snapchat_12.39.0_Falcon_2.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/22-06-2023/Snapchat_12.39.0_Falcon_2.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Falcon 2.0",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.toyopagroup.picaboo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "Shadowrocket",
+            "bundleID": "Shadowrocket_2.2.32_@asdfzxcvbn0_apptesters.org",
+            "bundleIdentifier": "Shadowrocket_2.2.32_@asdfzxcvbn0_apptesters.org",
+            "version": "2.2.32",
+            "versionDate": "2023-06-21",
+            "fullDate": "20230621192111",
+            "size": 18730331,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/22-06-2023/Shadowrocket_2.2.32_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/22-06-2023/Shadowrocket_2.2.32_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.liguangming.Shadowrocket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.liguangming.Shadowrocket.png"
+        },
+        {
             "name": "WaterPower",
             "bundleID": "WaterPower_1_6_3_InfiniteCurrency_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "WaterPower_1_6_3_InfiniteCurrency_@thisismanpreets_apptesters_org",
