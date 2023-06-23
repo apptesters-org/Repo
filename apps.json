@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "VivaVideo",
+            "realBundleID": "com.quvideo.XiaoYing",
+            "bundleID": "VivaVideo_9.10.5_Premium_@thisismanpreets_apptesters.org",
+            "bundleIdentifier": "VivaVideo_9.10.5_Premium_@thisismanpreets_apptesters.org",
+            "version": "9.10.5",
+            "versionDate": "2023-06-23",
+            "fullDate": "20230623132247",
+            "size": 100637933,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/23-06-2023/VivaVideo_9.10.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/23-06-2023/VivaVideo_9.10.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.quvideo.XiaoYing.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.quvideo.XiaoYing.png"
+        },
+        {
             "name": "ShowMania",
             "realBundleID": "com.showmania.co",
             "bundleID": "ShowMania_1.2_AdBlock_@asdfzxcvbn0_apptesters.org",
