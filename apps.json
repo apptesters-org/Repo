@@ -9,6 +9,7 @@
     "apps": [
         {
             "name": "ShowMania",
+            "realBundleID": "com.showmania.co",
             "bundleID": "ShowMania_1.2_AdBlock_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "ShowMania_1.2_AdBlock_@asdfzxcvbn0_apptesters.org",
             "version": "1.2",
@@ -24,6 +25,7 @@
         },
         {
             "name": "PlantsvsZombies2",
+            "realBundleID": "com.popcap.ios.PvZ2",
             "bundleID": "PlantsvsZombies2_815_UnlimitedCoins_@thisismanpreets_apptesters",
             "bundleIdentifier": "PlantsvsZombies2_815_UnlimitedCoins_@thisismanpreets_apptesters",
             "version": "815",
@@ -39,6 +41,7 @@
         },
         {
             "name": "PewDiePiesPixelingsIdleRPG",
+            "realBundleID": "com.outerminds.pixelings",
             "bundleID": "PewDiePiesPixelingsIdleRPG_1.42.0_VIPUnlocked_@thisismanpreets_apptesters",
             "bundleIdentifier": "PewDiePiesPixelingsIdleRPG_1.42.0_VIPUnlocked_@thisismanpreets_apptesters",
             "version": "1.42.0",
@@ -54,6 +57,7 @@
         },
         {
             "name": "FinalFantasyBe-WOTV",
+            "realBundleID": "com.square-enix.WOTVffbeww",
             "bundleID": "FinalFantasyBe-WOTV_7.3.0_Mods_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "FinalFantasyBe-WOTV_7.3.0_Mods_@thisismanpreets_apptesters_org",
             "version": "7.3.0",
@@ -69,6 +73,7 @@
         },
         {
             "name": "Memrise",
+            "realBundleID": "com.memrise.ios.memrisecompanion",
             "bundleID": "Memrise_2023.6.19_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Memrise_2023.6.19_Premium_@thisismanpreets_apptesters.org",
             "version": "2023.6.19",
@@ -84,6 +89,7 @@
         },
         {
             "name": "Reddit",
+            "realBundleID": "com.reddit.Reddit",
             "bundleID": "Reddit_2023.24.0_RedditFilter_SafariExtension_@thisismanpreets_apptesters",
             "bundleIdentifier": "Reddit_2023.24.0_RedditFilter_SafariExtension_@thisismanpreets_apptesters",
             "version": "2023.24.0",
@@ -99,6 +105,7 @@
         },
         {
             "name": "MyFitnessPal",
+            "realBundleID": "com.myfitnesspal.mfp",
             "bundleID": "MyFitnessPal_23.11.5_Premium_Remove_mobileprovision_profile_@thisismanpreets",
             "bundleIdentifier": "MyFitnessPal_23.11.5_Premium_Remove_mobileprovision_profile_@thisismanpreets",
             "version": "23.11.5",
@@ -114,6 +121,7 @@
         },
         {
             "name": "Snapchat",
+            "realBundleID": "com.toyopagroup.picaboo",
             "bundleID": "Snapchat_12.39.0_Falcon_2.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Snapchat_12.39.0_Falcon_2.0_@thisismanpreets_apptesters.org",
             "version": "12.39.0",
@@ -129,6 +137,7 @@
         },
         {
             "name": "Shadowrocket",
+            "realBundleID": "com.liguangming.Shadowrocket",
             "bundleID": "Shadowrocket_2.2.32_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Shadowrocket_2.2.32_@asdfzxcvbn0_apptesters.org",
             "version": "2.2.32",
@@ -144,6 +153,7 @@
         },
         {
             "name": "WaterPower",
+            "realBundleID": "io.playphoria.waterpower",
             "bundleID": "WaterPower_1.6.3_InfiniteCurrency_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "WaterPower_1.6.3_InfiniteCurrency_@thisismanpreets_apptesters_org",
             "version": "1.6.3",
@@ -159,6 +169,7 @@
         },
         {
             "name": "TheWanderer",
+            "realBundleID": "com.JamieParish.TheWanderer",
             "bundleID": "TheWanderer_7.00090_InfiniteCurrency_@thisismanpreets_apptesters",
             "bundleIdentifier": "TheWanderer_7.00090_InfiniteCurrency_@thisismanpreets_apptesters",
             "version": "7.00090",
@@ -174,6 +185,7 @@
         },
         {
             "name": "TCGCardTycoon",
+            "realBundleID": "com.OPNeon.TCGCardTycoon",
             "bundleID": "TCGCardTycoon_220_InfiniteCurrency_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "TCGCardTycoon_220_InfiniteCurrency_@thisismanpreets_apptesters_org",
             "version": "220",
@@ -189,6 +201,7 @@
         },
         {
             "name": "ProjectCleanEarth",
+            "realBundleID": "com.onenone.ecp",
             "bundleID": "ProjectCleanEarth_1.24_GodMod_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "ProjectCleanEarth_1.24_GodMod_@thisismanpreets_apptesters_org",
             "version": "1.24",
@@ -204,6 +217,7 @@
         },
         {
             "name": "GearClicker",
+            "realBundleID": "com.kb.gearclicker",
             "bundleID": "GearClicker_7.7.0_FreeGear_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "GearClicker_7.7.0_FreeGear_@thisismanpreets_apptesters.org",
             "version": "7.7.0",
@@ -219,6 +233,7 @@
         },
         {
             "name": "CrazyHospital",
+            "realBundleID": "com.smartfunapps.crazyhospital",
             "bundleID": "CrazyHospital_1_0_36_UnlimitedEverything_@thisismanpreets_apptesters",
             "bundleIdentifier": "CrazyHospital_1_0_36_UnlimitedEverything_@thisismanpreets_apptesters",
             "version": "1",
@@ -234,6 +249,7 @@
         },
         {
             "name": "IdleFactory",
+            "realBundleID": "com.fluffyfairygames.idlefactorytycoon",
             "bundleID": "IdleFactory_2_9_0_InfiniteCurrency_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "IdleFactory_2_9_0_InfiniteCurrency_@thisismanpreets_apptesters_org",
             "version": "2",
@@ -249,6 +265,7 @@
         },
         {
             "name": "NinjaSurvivors",
+            "realBundleID": "com.puzzlemonsters.ninjasurvivors",
             "bundleID": "NinjaSurvivors_1_261_NoSkillsCooldown_@thisismanpreets_apptesters",
             "bundleIdentifier": "NinjaSurvivors_1_261_NoSkillsCooldown_@thisismanpreets_apptesters",
             "version": "1",
@@ -264,6 +281,7 @@
         },
         {
             "name": "TanksvsBugs",
+            "realBundleID": "com.redspell.nanotanks",
             "bundleID": "TanksvsBugs_1.1.43_GodMod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TanksvsBugs_1.1.43_GodMod_@thisismanpreets_apptesters.org",
             "version": "1.1.43",
@@ -279,6 +297,7 @@
         },
         {
             "name": "BrickOut",
+            "realBundleID": "com.puzzle1studio.ap.brickoutshoottheball",
             "bundleID": "BrickOut_23.0621.00_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BrickOut_23.0621.00_Mods_@thisismanpreets_apptesters.org",
             "version": "23.0621.00",
@@ -294,6 +313,7 @@
         },
         {
             "name": "Facebook",
+            "realBundleID": "com.facebook.Facebook",
             "bundleID": "Facebook_420_Wolf_2.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Facebook_420_Wolf_2.1_@thisismanpreets_apptesters.org",
             "version": "420",
@@ -309,6 +329,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_30.0.0_LRD_3.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TikTok_30.0.0_LRD_3.0_@thisismanpreets_apptesters.org",
             "version": "30.0.0",
@@ -324,6 +345,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_288.1_Plus_2.50_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instagram_288.1_Plus_2.50_@thisismanpreets_apptesters.org",
             "version": "288.1",
@@ -339,6 +361,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_288.1_Rocket_3.8.9_Plus_2.50_@thisismanpreets_apptesters",
             "bundleIdentifier": "Instagram_288.1_Rocket_3.8.9_Plus_2.50_@thisismanpreets_apptesters",
             "version": "288.1",
@@ -354,6 +377,7 @@
         },
         {
             "name": "Picsart",
+            "realBundleID": "com.picsart.studio",
             "bundleID": "Picsart_22.5.6_Gold_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Picsart_22.5.6_Gold_@asdfzxcvbn0_apptesters.org",
             "version": "22.5.6",
@@ -369,6 +393,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_288.1_Rocket_3.8.9_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_288.1_Rocket_3.8.9_@asdfzxcvbn0_apptesters.org",
             "version": "288.1",
@@ -384,6 +409,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_30.0.0_Dark_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "TikTok_30.0.0_Dark_@asdfzxcvbn0_apptesters.org",
             "version": "30.0.0",
@@ -399,6 +425,7 @@
         },
         {
             "name": "PocketCity2",
+            "realBundleID": "com.codebrewgames.pocketcity2",
             "bundleID": "PocketCity2_1.023_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PocketCity2_1.023_@thisismanpreets_apptesters.org",
             "version": "1.023",
@@ -414,6 +441,7 @@
         },
         {
             "name": "AgeOfWar2",
+            "realBundleID": "com.maxgames.aow2",
             "bundleID": "AgeOfWar2_1.6.6_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AgeOfWar2_1.6.6_Satella_@thisismanpreets_apptesters.org",
             "version": "1.6.6",
@@ -429,6 +457,7 @@
         },
         {
             "name": "DragonBallBLegends",
+            "realBundleID": "jp.co.bandainamcoent.BNEI0334",
             "bundleID": "DragonBallBLegends_4_23_0_Mods_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "DragonBallBLegends_4_23_0_Mods_@thisismanpreets_apptesters_org",
             "version": "4",
@@ -444,6 +473,7 @@
         },
         {
             "name": "Homescapes",
+            "realBundleID": "com.playrix.gardenscapes-sweethome",
             "bundleID": "Homescapes_6.2.4_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Homescapes_6.2.4_Mods_@thisismanpreets_apptesters.org",
             "version": "6.2.4",
@@ -459,6 +489,7 @@
         },
         {
             "name": "NERFSuperblast",
+            "realBundleID": "com.nitrogames.newdawn",
             "bundleID": "NERFSuperblast_1_6_2_UnlimitedAmmo_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "NERFSuperblast_1_6_2_UnlimitedAmmo_@thisismanpreets_apptesters_org",
             "version": "1",
@@ -474,6 +505,7 @@
         },
         {
             "name": "DYSMANTLE",
+            "realBundleID": "com.10tons.DYSMANTLE",
             "bundleID": "DYSMANTLE_1.2.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DYSMANTLE_1.2.2_@thisismanpreets_apptesters.org",
             "version": "1.2.2",
@@ -489,6 +521,7 @@
         },
         {
             "name": "CombatMaster",
+            "realBundleID": "com.AlfaBravo.nk",
             "bundleID": "CombatMaster_0_10_433_NoRecoil_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "CombatMaster_0_10_433_NoRecoil_@thisismanpreets_apptesters_org",
             "version": "0",
@@ -504,6 +537,7 @@
         },
         {
             "name": "WashingtonPost",
+            "realBundleID": "com.pointabout.washingtonpost",
             "bundleID": "WashingtonPost_6_35_0_Premium_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "WashingtonPost_6_35_0_Premium_@thisismanpreets_apptesters_org",
             "version": "6",
@@ -519,6 +553,7 @@
         },
         {
             "name": "Episode",
+            "realBundleID": "com.neonfun.catalog",
             "bundleID": "Episode_24.31_PremiumChoice_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Episode_24.31_PremiumChoice_@thisismanpreets_apptesters.org",
             "version": "24.31",
@@ -534,6 +569,7 @@
         },
         {
             "name": "VPNBucks",
+            "realBundleID": "com.vpn-buck.proxy",
             "bundleID": "VPNBucks_2.1.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VPNBucks_2.1.0_Premium_@thisismanpreets_apptesters.org",
             "version": "2.1.0",
@@ -549,6 +585,7 @@
         },
         {
             "name": "VideoSplitterPro",
+            "realBundleID": "com.lethobinh.cutstory",
             "bundleID": "VideoSplitterPro_CutStory_1_0_Satella_@thisismanpreets_apptesters",
             "bundleIdentifier": "VideoSplitterPro_CutStory_1_0_Satella_@thisismanpreets_apptesters",
             "version": "CutStory",
@@ -564,6 +601,7 @@
         },
         {
             "name": "TextNow",
+            "realBundleID": "com.tinginteractive.usms",
             "bundleID": "TextNow_23.21.0_NoAds_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TextNow_23.21.0_NoAds_@thisismanpreets_apptesters.org",
             "version": "23.21.0",
@@ -579,6 +617,7 @@
         },
         {
             "name": "1V1LOL",
+            "realBundleID": "lol.onevone",
             "bundleID": "1V1LOL_4.42_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "1V1LOL_4.42_Mods_@thisismanpreets_apptesters.org",
             "version": "4.42",
@@ -594,6 +633,7 @@
         },
         {
             "name": "POLYWAR",
+            "realBundleID": "com.nobodyshot.POLYWAR",
             "bundleID": "POLYWAR_2.0.0_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "POLYWAR_2.0.0_Mods_@thisismanpreets_apptesters.org",
             "version": "2.0.0",
@@ -609,6 +649,7 @@
         },
         {
             "name": "CombatMaster",
+            "realBundleID": "com.AlfaBravo.nk",
             "bundleID": "CombatMaster_0.10.433_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CombatMaster_0.10.433_Mods_@thisismanpreets_apptesters.org",
             "version": "0.10.433",
@@ -624,6 +665,7 @@
         },
         {
             "name": "ArmedHeist",
+            "realBundleID": "com.sozap.badmen",
             "bundleID": "ArmedHeist_2.9.7_GodMod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ArmedHeist_2.9.7_GodMod_@thisismanpreets_apptesters.org",
             "version": "2.9.7",
@@ -639,6 +681,7 @@
         },
         {
             "name": "OperateNow",
+            "realBundleID": "com.spilgames.OperateNow2",
             "bundleID": "OperateNow_1_48_7_HeartReward_@thisismanpreets_apptesters_org",
             "bundleIdentifier": "OperateNow_1_48_7_HeartReward_@thisismanpreets_apptesters_org",
             "version": "1",
@@ -654,6 +697,7 @@
         },
         {
             "name": "EnginePistons",
+            "realBundleID": "com.VitaGames.EngineASMR",
             "bundleID": "EnginePistons_7.7.4_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "EnginePistons_7.7.4_Mods_@thisismanpreets_apptesters.org",
             "version": "7.7.4",
@@ -669,6 +713,7 @@
         },
         {
             "name": "Bonasera4",
+            "realBundleID": "com.bladecoder.bonasera4",
             "bundleID": "Bonasera4_1.10_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Bonasera4_1.10_@thisismanpreets_apptesters.org",
             "version": "1.10",
@@ -684,6 +729,7 @@
         },
         {
             "name": "Moment",
+            "realBundleID": "co.momentlens.moment",
             "bundleID": "Moment_4.3.20_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Moment_4.3.20_@thisismanpreets_apptesters.org",
             "version": "4.3.20",
@@ -699,6 +745,7 @@
         },
         {
             "name": "YouTubeMusic",
+            "realBundleID": "com.google.ios.youtubemusic",
             "bundleID": "YouTubeMusic_6.07.1_YTMusicUltimate_1.4.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "YouTubeMusic_6.07.1_YTMusicUltimate_1.4.1_@asdfzxcvbn0_apptesters.org",
             "version": "6.07.1",
@@ -714,6 +761,7 @@
         },
         {
             "name": "iSTB",
+            "realBundleID": "com.na.istb",
             "bundleID": "iSTB_1.25.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "iSTB_1.25.1_@thisismanpreets_apptesters.org",
             "version": "1.25.1",
@@ -729,6 +777,7 @@
         },
         {
             "name": "FILCASLRFilmCamera",
+            "realBundleID": "com.romocam",
             "bundleID": "FILCASLRFilmCamera_1.88_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FILCASLRFilmCamera_1.88_@thisismanpreets_apptesters.org",
             "version": "1.88",
@@ -744,6 +793,7 @@
         },
         {
             "name": "RECProVideoCamera",
+            "realBundleID": "com.latenitesoft.Rec",
             "bundleID": "RECProVideoCamera_5.2.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RECProVideoCamera_5.2.3_@thisismanpreets_apptesters.org",
             "version": "5.2.3",
@@ -759,6 +809,7 @@
         },
         {
             "name": "InShot",
+            "realBundleID": "com.camerasideas.InstaShot",
             "bundleID": "InShot_1.69.1_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "InShot_1.69.1_Pro_@thisismanpreets_apptesters.org",
             "version": "1.69.1",
@@ -774,6 +825,7 @@
         },
         {
             "name": "NinjaSurvivors",
+            "realBundleID": "com.puzzlemonsters.ninjasurvivors",
             "bundleID": "NinjaSurvivors_1.260_NoSkillsCooldown_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "NinjaSurvivors_1.260_NoSkillsCooldown_@thisismanpreets_apptesters.org",
             "version": "1.260",
@@ -789,6 +841,7 @@
         },
         {
             "name": "SummonersGreed-EmpireTD",
+            "realBundleID": "com.pixio.apple.mtd",
             "bundleID": "SummonersGreed-EmpireTD_1.56.5_UnlimitedCurrency_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SummonersGreed-EmpireTD_1.56.5_UnlimitedCurrency_@thisismanpreets_apptesters.org",
             "version": "1.56.5",
@@ -804,6 +857,7 @@
         },
         {
             "name": "PhotoGrid",
+            "realBundleID": "com.YunFang.PhotoGrid",
             "bundleID": "PhotoGrid_8.5.82_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PhotoGrid_8.5.82_Pro_@thisismanpreets_apptesters.org",
             "version": "8.5.82",
@@ -819,6 +873,7 @@
         },
         {
             "name": "Calm",
+            "realBundleID": "com.calm.calmapp",
             "bundleID": "Calm_6.25.2_Premium_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Calm_6.25.2_Premium_@asdfzxcvbn0_apptesters.org",
             "version": "6.25.2",
@@ -834,6 +889,7 @@
         },
         {
             "name": "Canary",
+            "realBundleID": "Mailroom.Canary-iOS",
             "bundleID": "Canary_4.04_Pro_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Canary_4.04_Pro_@asdfzxcvbn0_apptesters.org",
             "version": "4.04",
@@ -849,6 +905,7 @@
         },
         {
             "name": "DeLogo",
+            "realBundleID": "dyy.david.delogo",
             "bundleID": "DeLogo_4.0.5_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DeLogo_4.0.5_Satella_@thisismanpreets_apptesters.org",
             "version": "4.0.5",
@@ -864,6 +921,7 @@
         },
         {
             "name": "Ultralingua",
+            "realBundleID": "com.ultralingua.ios.dictionary",
             "bundleID": "Ultralingua_2.10_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Ultralingua_2.10_Satella_@thisismanpreets_apptesters.org",
             "version": "2.10",
@@ -879,6 +937,7 @@
         },
         {
             "name": "TrueVHS",
+            "realBundleID": "com.cangodev.truevhs",
             "bundleID": "TrueVHS_1.983_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TrueVHS_1.983_Satella_@thisismanpreets_apptesters.org",
             "version": "1.983",
@@ -894,6 +953,7 @@
         },
         {
             "name": "RiddleRoad",
+            "realBundleID": "com.vizor-apps.Solitaire",
             "bundleID": "RiddleRoad_0.33.3_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RiddleRoad_0.33.3_Mods_@thisismanpreets_apptesters.org",
             "version": "0.33.3",
@@ -909,6 +969,7 @@
         },
         {
             "name": "BloonsTD6",
+            "realBundleID": "com.ninjakiwi.bloonstd6",
             "bundleID": "BloonsTD6_37.3_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BloonsTD6_37.3_Mods_@thisismanpreets_apptesters.org",
             "version": "37.3",
@@ -924,6 +985,7 @@
         },
         {
             "name": "Twitter",
+            "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "Twitter_9.63_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Twitter_9.63_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "version": "9.63",
@@ -939,6 +1001,7 @@
         },
         {
             "name": "Strava",
+            "realBundleID": "com.strava.stravaride",
             "bundleID": "Strava_310.0.1_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Strava_310.0.1_Premium_@thisismanpreets_apptesters.org",
             "version": "310.0.1",
@@ -954,6 +1017,7 @@
         },
         {
             "name": "VPNRocket",
+            "realBundleID": "com.vpnmaster.VPNOneTap",
             "bundleID": "VPNRocket_1.5_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VPNRocket_1.5_Premium_@thisismanpreets_apptesters.org",
             "version": "1.5",
@@ -969,6 +1033,7 @@
         },
         {
             "name": "Everpix",
+            "realBundleID": "com.apalto.wallpapers",
             "bundleID": "Everpix_4.3.4_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Everpix_4.3.4_Premium_@thisismanpreets_apptesters.org",
             "version": "4.3.4",
@@ -984,6 +1049,7 @@
         },
         {
             "name": "NetSchool",
+            "realBundleID": "org.reactjs.native.example.EduMobile3",
             "bundleID": "NetSchool_1.2.2_UnlockedRegionRestrictions_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "NetSchool_1.2.2_UnlockedRegionRestrictions_@thisismanpreets_apptesters.org",
             "version": "1.2.2",
@@ -999,6 +1065,7 @@
         },
         {
             "name": "Instories",
+            "realBundleID": "ylee.studio.instories",
             "bundleID": "Instories_5.29.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instories_5.29.0_Premium_@thisismanpreets_apptesters.org",
             "version": "5.29.0",
@@ -1014,6 +1081,7 @@
         },
         {
             "name": "AutologPro-Carmanagement",
+            "realBundleID": "com.sasanian.Auto-Logger-Pro",
             "bundleID": "AutologPro-Carmanagement_1.0.9_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AutologPro-Carmanagement_1.0.9_@thisismanpreets_apptesters.org",
             "version": "1.0.9",
@@ -1029,6 +1097,7 @@
         },
         {
             "name": "PlayNavVideoNavigator",
+            "realBundleID": "com.wetube-app.wetube",
             "bundleID": "PlayNavVideoNavigator_1.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PlayNavVideoNavigator_1.0_@thisismanpreets_apptesters.org",
             "version": "1.0",
@@ -1044,6 +1113,7 @@
         },
         {
             "name": "8playerPro",
+            "realBundleID": "com.8player",
             "bundleID": "8playerPro_6.2.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "8playerPro_6.2.1_@thisismanpreets_apptesters.org",
             "version": "6.2.1",
@@ -1059,6 +1129,7 @@
         },
         {
             "name": "FILCASLRFilmCamera",
+            "realBundleID": "com.romocam",
             "bundleID": "FILCASLRFilmCamera_1.86_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FILCASLRFilmCamera_1.86_@thisismanpreets_apptesters.org",
             "version": "1.86",
@@ -1074,6 +1145,7 @@
         },
         {
             "name": "CalPrintforiPhone",
+            "realBundleID": "com.eurosmartz.mobile.calprint",
             "bundleID": "CalPrintforiPhone_3.9.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CalPrintforiPhone_3.9.2_@thisismanpreets_apptesters.org",
             "version": "3.9.2",
@@ -1089,6 +1161,7 @@
         },
         {
             "name": "WorkOtherAddWatchWorkouts",
+            "realBundleID": "com.sheldon.Workother.WorkOther",
             "bundleID": "WorkOtherAddWatchWorkouts_1.2.6_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WorkOtherAddWatchWorkouts_1.2.6_@thisismanpreets_apptesters.org",
             "version": "1.2.6",
@@ -1104,6 +1177,7 @@
         },
         {
             "name": "monotasker-tasks",
+            "realBundleID": "com.jenniferbush.OneThing",
             "bundleID": "monotasker-tasks_1.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "monotasker-tasks_1.2_@thisismanpreets_apptesters.org",
             "version": "1.2",
@@ -1119,6 +1193,7 @@
         },
         {
             "name": "InstantSave+",
+            "realBundleID": "com.swami.fastrepost",
             "bundleID": "InstantSave+_3.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "InstantSave+_3.2_@thisismanpreets_apptesters.org",
             "version": "3.2",
@@ -1134,6 +1209,7 @@
         },
         {
             "name": "TastingVault-WineTracker",
+            "realBundleID": "com.jenniferbush.Tasting-Vault",
             "bundleID": "TastingVault-WineTracker_1.2.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TastingVault-WineTracker_1.2.3_@thisismanpreets_apptesters.org",
             "version": "1.2.3",
@@ -1149,6 +1225,7 @@
         },
         {
             "name": "GPSTravelJournal",
+            "realBundleID": "com.TinyPurpleGrapes.BushwhackGPS",
             "bundleID": "GPSTravelJournal_1.6_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "GPSTravelJournal_1.6_@thisismanpreets_apptesters.org",
             "version": "1.6",
@@ -1164,6 +1241,7 @@
         },
         {
             "name": "FyTubeYouTubeWithoutAds",
+            "realBundleID": "com.fytube.fytube",
             "bundleID": "FyTubeYouTubeWithoutAds_1.5_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FyTubeYouTubeWithoutAds_1.5_@thisismanpreets_apptesters.org",
             "version": "1.5",
@@ -1179,6 +1257,7 @@
         },
         {
             "name": "SheikoWorkoutRoutines",
+            "realBundleID": "com.weightliftingapp.Sheiko",
             "bundleID": "SheikoWorkoutRoutines_3.0.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SheikoWorkoutRoutines_3.0.3_@thisismanpreets_apptesters.org",
             "version": "3.0.3",
@@ -1194,6 +1273,7 @@
         },
         {
             "name": "NizoVideoCameraEditor",
+            "realBundleID": "au.com.imagemechanics.nizo",
             "bundleID": "NizoVideoCameraEditor_1.0.19_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "NizoVideoCameraEditor_1.0.19_@thisismanpreets_apptesters.org",
             "version": "1.0.19",
@@ -1209,6 +1289,7 @@
         },
         {
             "name": "AeroPadsPads-Soundscapes",
+            "realBundleID": "com.aerospaceaudio.AeroPads",
             "bundleID": "AeroPadsPads-Soundscapes_1.38_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AeroPadsPads-Soundscapes_1.38_@thisismanpreets_apptesters.org",
             "version": "1.38",
@@ -1224,6 +1305,7 @@
         },
         {
             "name": "PicTrim",
+            "realBundleID": "com.softdd.Picture-Crop",
             "bundleID": "PicTrim_3.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PicTrim_3.0_@thisismanpreets_apptesters.org",
             "version": "3.0",
@@ -1239,6 +1321,7 @@
         },
         {
             "name": "IncusTraining",
+            "realBundleID": "engineer.frequencies.Incus-Training",
             "bundleID": "IncusTraining_1.1.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "IncusTraining_1.1.1_@thisismanpreets_apptesters.org",
             "version": "1.1.1",
@@ -1254,6 +1337,7 @@
         },
         {
             "name": "MAVIS-ProCamera",
+            "realBundleID": "com.drphilsapps.Mavis",
             "bundleID": "MAVIS-ProCamera_6.1.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MAVIS-ProCamera_6.1.0_@thisismanpreets_apptesters.org",
             "version": "6.1.0",
@@ -1269,6 +1353,7 @@
         },
         {
             "name": "YaoYaoJumpRope",
+            "realBundleID": "hltek.YaoYao",
             "bundleID": "YaoYaoJumpRope_3.6.9_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "YaoYaoJumpRope_3.6.9_@thisismanpreets_apptesters.org",
             "version": "3.6.9",
@@ -1284,6 +1369,7 @@
         },
         {
             "name": "LanseHuo",
+            "realBundleID": "Jason-Hu.Lanse.Huo",
             "bundleID": "LanseHuo_2.5.5_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "LanseHuo_2.5.5_@thisismanpreets_apptesters.org",
             "version": "2.5.5",
@@ -1299,6 +1385,7 @@
         },
         {
             "name": "Doppi",
+            "realBundleID": "com.ondalabs.doppi",
             "bundleID": "Doppi_4.5.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Doppi_4.5.2_@thisismanpreets_apptesters.org",
             "version": "4.5.2",
@@ -1314,6 +1401,7 @@
         },
         {
             "name": "BeyondScanOCRPDFScanner",
+            "realBundleID": "com.zzsoft.beyondscan",
             "bundleID": "BeyondScanOCRPDFScanner_2.5.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BeyondScanOCRPDFScanner_2.5.1_@thisismanpreets_apptesters.org",
             "version": "2.5.1",
@@ -1329,6 +1417,7 @@
         },
         {
             "name": "picn2kcamera",
+            "realBundleID": "eyu.on.pica",
             "bundleID": "picn2kcamera_3.5.7_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "picn2kcamera_3.5.7_@thisismanpreets_apptesters.org",
             "version": "3.5.7",
@@ -1344,6 +1433,7 @@
         },
         {
             "name": "BlurBorder",
+            "realBundleID": "com.softdd.BlurBorder",
             "bundleID": "BlurBorder_2.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BlurBorder_2.0_@thisismanpreets_apptesters.org",
             "version": "2.0",
@@ -1359,6 +1449,7 @@
         },
         {
             "name": "AppDesigntoCode",
+            "realBundleID": "com.toolbox.uecreator",
             "bundleID": "AppDesigntoCode_2.7.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AppDesigntoCode_2.7.1_@thisismanpreets_apptesters.org",
             "version": "2.7.1",
@@ -1374,6 +1465,7 @@
         },
         {
             "name": "BINOCULARS35XGPSSTAMP",
+            "realBundleID": "com.tigran.binoculars",
             "bundleID": "BINOCULARS35XGPSSTAMP_2.2.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BINOCULARS35XGPSSTAMP_2.2.1_@thisismanpreets_apptesters.org",
             "version": "2.2.1",
@@ -1389,6 +1481,7 @@
         },
         {
             "name": "PrintCentralProforiPhone",
+            "realBundleID": "com.eurosmartz.printcentralproa",
             "bundleID": "PrintCentralProforiPhone_5.7.6_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PrintCentralProforiPhone_5.7.6_@thisismanpreets_apptesters.org",
             "version": "5.7.6",
@@ -1404,6 +1497,7 @@
         },
         {
             "name": "iNetProNetworkScanner",
+            "realBundleID": "com.bananaglue.iNet",
             "bundleID": "iNetProNetworkScanner_3.8.91_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "iNetProNetworkScanner_3.8.91_@thisismanpreets_apptesters.org",
             "version": "3.8.91",
@@ -1419,6 +1513,7 @@
         },
         {
             "name": "BackWay",
+            "realBundleID": "com.seodoa.backway",
             "bundleID": "BackWay_3.0.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BackWay_3.0.2_@thisismanpreets_apptesters.org",
             "version": "3.0.2",
@@ -1434,6 +1529,7 @@
         },
         {
             "name": "Wipr",
+            "realBundleID": "com.giorgiocalderolla.Wipr",
             "bundleID": "Wipr_1.41_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Wipr_1.41_@thisismanpreets_apptesters.org",
             "version": "1.41",
@@ -1449,6 +1545,7 @@
         },
         {
             "name": "MyTracks-GPSRecorder",
+            "realBundleID": "com.zero.app.gpsplus",
             "bundleID": "MyTracks-GPSRecorder_4.7_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MyTracks-GPSRecorder_4.7_@thisismanpreets_apptesters.org",
             "version": "4.7",
@@ -1464,6 +1561,7 @@
         },
         {
             "name": "Mindustry",
+            "realBundleID": "io.anuke.mindustry",
             "bundleID": "Mindustry_7.144.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Mindustry_7.144.2_@thisismanpreets_apptesters.org",
             "version": "7.144.2",
@@ -1479,6 +1577,7 @@
         },
         {
             "name": "TocaKitchen",
+            "realBundleID": "com.tocaboca.tocakitchen2",
             "bundleID": "TocaKitchen_2_2.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TocaKitchen_2_2.1_@thisismanpreets_apptesters.org",
             "version": "2",
@@ -1494,6 +1593,7 @@
         },
         {
             "name": "TapTitans2",
+            "realBundleID": "com.gamehivecorp.taptitans2",
             "bundleID": "TapTitans2_5.30.0_FreezeGold_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TapTitans2_5.30.0_FreezeGold_@thisismanpreets_apptesters.org",
             "version": "5.30.0",
@@ -1509,6 +1609,7 @@
         },
         {
             "name": "PlagueInc",
+            "realBundleID": "com.ndemiccreations.plagueinc",
             "bundleID": "PlagueInc_1.19.2_DLCUnlocked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PlagueInc_1.19.2_DLCUnlocked_@thisismanpreets_apptesters.org",
             "version": "1.19.2",
@@ -1524,6 +1625,7 @@
         },
         {
             "name": "Questopia",
+            "realBundleID": "com.sozap.questopia",
             "bundleID": "Questopia_1.0.3_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Questopia_1.0.3_Mods_@thisismanpreets_apptesters.org",
             "version": "1.0.3",
@@ -1539,6 +1641,7 @@
         },
         {
             "name": "RagdollDismounting",
+            "realBundleID": "com.vicenter.stickman.ragdoll.dismounting",
             "bundleID": "RagdollDismounting_1.42_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RagdollDismounting_1.42_Satella_@thisismanpreets_apptesters.org",
             "version": "1.42",
@@ -1554,6 +1657,7 @@
         },
         {
             "name": "HiTVPro",
+            "realBundleID": "com.luojuntv.seekseek",
             "bundleID": "HiTVPro_1.3.1_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "HiTVPro_1.3.1_Satella_@thisismanpreets_apptesters.org",
             "version": "1.3.1",
@@ -1569,6 +1673,7 @@
         },
         {
             "name": "ReelsApp",
+            "realBundleID": "com.nextgen.reelsapp",
             "bundleID": "ReelsApp_4.8_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ReelsApp_4.8_Premium_@thisismanpreets_apptesters.org",
             "version": "4.8",
@@ -1584,6 +1689,7 @@
         },
         {
             "name": "StoryChic",
+            "realBundleID": "insta.ig.story.unfold",
             "bundleID": "StoryChic_5.4.2_VIP_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "StoryChic_5.4.2_VIP_@thisismanpreets_apptesters.org",
             "version": "5.4.2",
@@ -1599,6 +1705,7 @@
         },
         {
             "name": "Calm",
+            "realBundleID": "com.calm.calmapp",
             "bundleID": "Calm_6.25_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Calm_6.25_Premium_@thisismanpreets_apptesters.org",
             "version": "6.25",
@@ -1614,6 +1721,7 @@
         },
         {
             "name": "RadioRecord",
+            "realBundleID": "com.cronos.recordplayer",
             "bundleID": "RadioRecord_2.4.4_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RadioRecord_2.4.4_Premium_@thisismanpreets_apptesters.org",
             "version": "2.4.4",
@@ -1629,6 +1737,7 @@
         },
         {
             "name": "Brite",
+            "realBundleID": "io.konveier.timo",
             "bundleID": "Brite_21.0.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Brite_21.0.0_Premium_@thisismanpreets_apptesters.org",
             "version": "21.0.0",
@@ -1644,6 +1753,7 @@
         },
         {
             "name": "UniDream",
+            "realBundleID": "com.thirteenleafclover.art.generator",
             "bundleID": "UniDream_3.6.2_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "UniDream_3.6.2_Premium_@thisismanpreets_apptesters.org",
             "version": "3.6.2",
@@ -1659,6 +1769,7 @@
         },
         {
             "name": "MinimaList",
+            "realBundleID": "com.davetech.todo",
             "bundleID": "MinimaList_2.20.5_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MinimaList_2.20.5_Pro_@thisismanpreets_apptesters.org",
             "version": "2.20.5",
@@ -1674,6 +1785,7 @@
         },
         {
             "name": "intoLive",
+            "realBundleID": "me.imgbase.intolive",
             "bundleID": "intoLive_4.0.7_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "intoLive_4.0.7_Pro_@thisismanpreets_apptesters.org",
             "version": "4.0.7",
@@ -1689,6 +1801,7 @@
         },
         {
             "name": "VPNSnake",
+            "realBundleID": "com.ivansoft.VPN",
             "bundleID": "VPNSnake_2.1_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VPNSnake_2.1_Premium_@thisismanpreets_apptesters.org",
             "version": "2.1",
@@ -1704,6 +1817,7 @@
         },
         {
             "name": "VK",
+            "realBundleID": "com.vk.vkclient",
             "bundleID": "VK_8.27_LazyVK_2.6_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VK_8.27_LazyVK_2.6_@thisismanpreets_apptesters.org",
             "version": "8.27",
@@ -1719,6 +1833,7 @@
         },
         {
             "name": "VideoStar",
+            "realBundleID": "com.frontierdesign.videostar",
             "bundleID": "VideoStar_12.1.4_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VideoStar_12.1.4_Premium_@thisismanpreets_apptesters.org",
             "version": "12.1.4",
@@ -1734,6 +1849,7 @@
         },
         {
             "name": "PremiereRush",
+            "realBundleID": "com.adobe.rush",
             "bundleID": "PremiereRush_2.5_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PremiereRush_2.5_Satella_@thisismanpreets_apptesters.org",
             "version": "2.5",
@@ -1749,6 +1865,7 @@
         },
         {
             "name": "CarbonBrowser",
+            "realBundleID": "website.carbon.ios.browser",
             "bundleID": "CarbonBrowser_6.9.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CarbonBrowser_6.9.3_@thisismanpreets_apptesters.org",
             "version": "6.9.3",
@@ -1764,6 +1881,7 @@
         },
         {
             "name": "iSTB",
+            "realBundleID": "com.na.istb",
             "bundleID": "iSTB_1.25.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "iSTB_1.25.0_@thisismanpreets_apptesters.org",
             "version": "1.25.0",
@@ -1779,6 +1897,7 @@
         },
         {
             "name": "BuzzArab",
+            "realBundleID": "com.buzzapps.BuzzArab",
             "bundleID": "BuzzArab_349_NoAds_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BuzzArab_349_NoAds_@thisismanpreets_apptesters.org",
             "version": "349",
@@ -1794,6 +1913,7 @@
         },
         {
             "name": "Colorfy",
+            "realBundleID": "com.fungames.colorfy",
             "bundleID": "Colorfy_6.18_Activated_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Colorfy_6.18_Activated_@thisismanpreets_apptesters.org",
             "version": "6.18",
@@ -1809,6 +1929,7 @@
         },
         {
             "name": "Cafeland",
+            "realBundleID": "com.gamegos.mobile.cafeland",
             "bundleID": "Cafeland_2.3.13_Hacked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Cafeland_2.3.13_Hacked_@thisismanpreets_apptesters.org",
             "version": "2.3.13",
@@ -1824,6 +1945,7 @@
         },
         {
             "name": "StitchItPro",
+            "realBundleID": "com.stitchitapp.Y7",
             "bundleID": "StitchItPro_2.5.7_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "StitchItPro_2.5.7_Satella_@thisismanpreets_apptesters.org",
             "version": "2.5.7",
@@ -1839,6 +1961,7 @@
         },
         {
             "name": "SubwaySurf",
+            "realBundleID": "com.kiloo.subwaysurfers",
             "bundleID": "SubwaySurf_3.13.2_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SubwaySurf_3.13.2_Mods_@thisismanpreets_apptesters.org",
             "version": "3.13.2",
@@ -1854,6 +1977,7 @@
         },
         {
             "name": "VivaCut",
+            "realBundleID": "com.vivacut.videoeditor",
             "bundleID": "VivaCut_3.3.1_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VivaCut_3.3.1_Pro_@thisismanpreets_apptesters.org",
             "version": "3.3.1",
@@ -1869,6 +1993,7 @@
         },
         {
             "name": "Reddit",
+            "realBundleID": "com.reddit.Reddit",
             "bundleID": "Reddit_2023.23.1_Plus_@zxcvbn_apptesters.org",
             "bundleIdentifier": "Reddit_2023.23.1_Plus_@zxcvbn_apptesters.org",
             "version": "2023.23.1",
@@ -1884,6 +2009,7 @@
         },
         {
             "name": "VideoCompress",
+            "realBundleID": "com.rockybrain.videocompressor",
             "bundleID": "VideoCompress_2.0.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VideoCompress_2.0.1_@thisismanpreets_apptesters.org",
             "version": "2.0.1",
@@ -1899,6 +2025,7 @@
         },
         {
             "name": "MiniSoccerStar",
+            "realBundleID": "com.touch2goal.soccer",
             "bundleID": "MiniSoccerStar_0.78_UnlimitedCoins_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MiniSoccerStar_0.78_UnlimitedCoins_@thisismanpreets_apptesters.org",
             "version": "0.78",
@@ -1914,6 +2041,7 @@
         },
         {
             "name": "DuetCats",
+            "realBundleID": "com.amanotes.gs.g06",
             "bundleID": "DuetCats_1.1.19_AllCatsUnlocked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DuetCats_1.1.19_AllCatsUnlocked_@thisismanpreets_apptesters.org",
             "version": "1.1.19",
@@ -1929,6 +2057,7 @@
         },
         {
             "name": "X2Blocks",
+            "realBundleID": "com.inspiredsquare.blocks",
             "bundleID": "X2Blocks_293_NoAds_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "X2Blocks_293_NoAds_@thisismanpreets_apptesters.org",
             "version": "293",
@@ -1944,6 +2073,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_29.9.0_LRD_3.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TikTok_29.9.0_LRD_3.0_@thisismanpreets_apptesters.org",
             "version": "29.9.0",
@@ -1959,6 +2089,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_29.9.0_LRD_2.8_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "TikTok_29.9.0_LRD_2.8_@asdfzxcvbn0_apptesters.org",
             "version": "29.9.0",
@@ -1974,6 +2105,7 @@
         },
         {
             "name": "StitchItPro",
+            "realBundleID": "com.stitchitapp.Y7",
             "bundleID": "StitchItPro_2.5.3_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "StitchItPro_2.5.3_Satella_@thisismanpreets_apptesters.org",
             "version": "2.5.3",
@@ -1989,6 +2121,7 @@
         },
         {
             "name": "DBRespawned",
+            "realBundleID": "com.netflix.NGP.DungeonBossNewFrontiers",
             "bundleID": "DBRespawned_0.5.16565_NoSkillsCooldown_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DBRespawned_0.5.16565_NoSkillsCooldown_@thisismanpreets_apptesters.org",
             "version": "0.5.16565",
@@ -2004,6 +2137,7 @@
         },
         {
             "name": "ZombieTowers",
+            "realBundleID": "com.edenap.z2",
             "bundleID": "ZombieTowers_13.1.76_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ZombieTowers_13.1.76_Mods_@thisismanpreets_apptesters.org",
             "version": "13.1.76",
@@ -2019,6 +2153,7 @@
         },
         {
             "name": "Lumy",
+            "realBundleID": "com.appatakkars.lumy",
             "bundleID": "Lumy_4.9.17_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Lumy_4.9.17_@thisismanpreets_apptesters.org",
             "version": "4.9.17",
@@ -2034,6 +2169,7 @@
         },
         {
             "name": "VoiceChanger",
+            "realBundleID": "studio.onepixel.voice-changer",
             "bundleID": "VoiceChanger_1.1.1_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VoiceChanger_1.1.1_Satella_@thisismanpreets_apptesters.org",
             "version": "1.1.1",
@@ -2049,6 +2185,7 @@
         },
         {
             "name": "AirBrush",
+            "realBundleID": "com.magicv.AirBrush",
             "bundleID": "AirBrush_5.5.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AirBrush_5.5.0_Premium_@thisismanpreets_apptesters.org",
             "version": "5.5.0",
@@ -2064,6 +2201,7 @@
         },
         {
             "name": "APNAssistant",
+            "realBundleID": "jp.co.JchanKchan.ApnAssister2",
             "bundleID": "APNAssistant_5.0.1.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "APNAssistant_5.0.1.1_@thisismanpreets_apptesters.org",
             "version": "5.0.1.1",
@@ -2079,6 +2217,7 @@
         },
         {
             "name": "Friendly+",
+            "realBundleID": "com.oecoway.friendly",
             "bundleID": "Friendly+_8.9.25.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Friendly+_8.9.25.1_@thisismanpreets_apptesters.org",
             "version": "8.9.25.1",
@@ -2094,6 +2233,7 @@
         },
         {
             "name": "Twitch",
+            "realBundleID": "tv.twitch",
             "bundleID": "Twitch_15.4_Adblock_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Twitch_15.4_Adblock_@thisismanpreets_apptesters.org",
             "version": "15.4",
@@ -2109,6 +2249,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_29.9.0_Dark_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "TikTok_29.9.0_Dark_@asdfzxcvbn0_apptesters.org",
             "version": "29.9.0",
@@ -2124,6 +2265,7 @@
         },
         {
             "name": "YouTubeMusic",
+            "realBundleID": "com.google.ios.youtubemusic",
             "bundleID": "YouTubeMusic_6.06.3_YTMusicUltimate_1.4.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "YouTubeMusic_6.06.3_YTMusicUltimate_1.4.1_@asdfzxcvbn0_apptesters.org",
             "version": "6.06.3",
@@ -2139,6 +2281,7 @@
         },
         {
             "name": "Facebook",
+            "realBundleID": "com.facebook.Facebook",
             "bundleID": "Facebook_419.0_Wolf_2.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Facebook_419.0_Wolf_2.1_@thisismanpreets_apptesters.org",
             "version": "419.0",
@@ -2154,6 +2297,7 @@
         },
         {
             "name": "Twitter",
+            "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "Twitter_9.62.1_BHTwitter_3.9.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Twitter_9.62.1_BHTwitter_3.9.1_@thisismanpreets_apptesters.org",
             "version": "9.62.1",
@@ -2169,6 +2313,7 @@
         },
         {
             "name": "Hero-AdventureActionRPG",
+            "realBundleID": "com.pgstudio.heroadventure",
             "bundleID": "Hero-AdventureActionRPG_0.40.1_InfiniteCoins_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Hero-AdventureActionRPG_0.40.1_InfiniteCoins_@thisismanpreets_apptesters.org",
             "version": "0.40.1",
@@ -2184,6 +2329,7 @@
         },
         {
             "name": "AutogunHeroesRunGun",
+            "realBundleID": "com.nitrogames.autoblaster",
             "bundleID": "AutogunHeroesRunGun_1.0.1_InfiniteEnergy_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AutogunHeroesRunGun_1.0.1_InfiniteEnergy_@thisismanpreets_apptesters.org",
             "version": "1.0.1",
@@ -2199,6 +2345,7 @@
         },
         {
             "name": "Mergedom",
+            "realBundleID": "com.mergedomhomedesign.game",
             "bundleID": "Mergedom_Home.Design_2.9.2_FreezeCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Mergedom_Home.Design_2.9.2_FreezeCurrencies_@thisismanpreets_apptesters.org",
             "version": "Home.Design",
@@ -2214,6 +2361,7 @@
         },
         {
             "name": "Snapchat",
+            "realBundleID": "com.toyopagroup.picaboo",
             "bundleID": "Snapchat_12.38.1_Falcon_2.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Snapchat_12.38.1_Falcon_2.0_@thisismanpreets_apptesters.org",
             "version": "12.38.1",
@@ -2229,6 +2377,7 @@
         },
         {
             "name": "HeroWars",
+            "realBundleID": "com.nexters.titanhunters",
             "bundleID": "HeroWars_1.172.000_SkillEnergyIncrease_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "HeroWars_1.172.000_SkillEnergyIncrease_@thisismanpreets_apptesters.org",
             "version": "1.172.000",
@@ -2244,6 +2393,7 @@
         },
         {
             "name": "VampireSurvivors",
+            "realBundleID": "com.poncle.VampireSurvivors",
             "bundleID": "VampireSurvivors_1.1.105_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VampireSurvivors_1.1.105_Satella_@thisismanpreets_apptesters.org",
             "version": "1.1.105",
@@ -2259,6 +2409,7 @@
         },
         {
             "name": "X-Plane",
+            "realBundleID": "com.laminarresearch.X-Plane10",
             "bundleID": "X-Plane_12.0.1_AllPlanesUnlocked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "X-Plane_12.0.1_AllPlanesUnlocked_@thisismanpreets_apptesters.org",
             "version": "12.0.1",
@@ -2274,6 +2425,7 @@
         },
         {
             "name": "UniDream",
+            "realBundleID": "com.thirteenleafclover.art.generator",
             "bundleID": "UniDream_2.5_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "UniDream_2.5_Premium_@thisismanpreets_apptesters.org",
             "version": "2.5",
@@ -2289,6 +2441,7 @@
         },
         {
             "name": "SpaceSurvivor",
+            "realBundleID": "gemini.space.survivor",
             "bundleID": "SpaceSurvivor_1.8.8_NoAds_GodMod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SpaceSurvivor_1.8.8_NoAds_GodMod_@thisismanpreets_apptesters.org",
             "version": "1.8.8",
@@ -2304,6 +2457,7 @@
         },
         {
             "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
             "bundleID": "WhatsApp_23.12.71_Watusi_1.1.62_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WhatsApp_23.12.71_Watusi_1.1.62_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "version": "23.12.71",
@@ -2319,6 +2473,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_287.0_Rocket_3.8.9_Plus_2.50_OIIExtension_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instagram_287.0_Rocket_3.8.9_Plus_2.50_OIIExtension_@thisismanpreets_apptesters.org",
             "version": "287.0",
@@ -2334,6 +2489,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_287.0_Rocket_3.8.9_OpenInInstagramExtension_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_287.0_Rocket_3.8.9_OpenInInstagramExtension_@asdfzxcvbn0_apptesters.org",
             "version": "287.0",
@@ -2349,6 +2505,7 @@
         },
         {
             "name": "Twitter",
+            "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "Twitter_9.62_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Twitter_9.62_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "version": "9.62",
@@ -2364,6 +2521,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_287.0_Rocket_3.8.8_Open_In_Instagram_Extension_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_287.0_Rocket_3.8.8_Open_In_Instagram_Extension_@asdfzxcvbn0_apptesters.org",
             "version": "287.0",
@@ -2379,6 +2537,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_287.0_Rocket_3.8.8_Plus_2.50_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instagram_287.0_Rocket_3.8.8_Plus_2.50_@thisismanpreets_apptesters.org",
             "version": "287.0",
@@ -2394,6 +2553,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_287.0_Rocket_3.8.8_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instagram_287.0_Rocket_3.8.8_@thisismanpreets_apptesters.org",
             "version": "287.0",
@@ -2409,6 +2569,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_287.0_Plus_2.50_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instagram_287.0_Plus_2.50_@thisismanpreets_apptesters.org",
             "version": "287.0",
@@ -2424,6 +2585,7 @@
         },
         {
             "name": "Photomath",
+            "realBundleID": "com.microblink.PhotoMath",
             "bundleID": "Photomath_8.25.0_Plus_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Photomath_8.25.0_Plus_@asdfzxcvbn0_apptesters.org",
             "version": "8.25.0",
@@ -2439,6 +2601,7 @@
         },
         {
             "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
             "bundleID": "WhatsApp_23.11.80_Watusi_1.1.62_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WhatsApp_23.11.80_Watusi_1.1.62_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "version": "23.11.80",
@@ -2454,6 +2617,7 @@
         },
         {
             "name": "WABusiness",
+            "realBundleID": "net.whatsapp.WhatsAppSMB",
             "bundleID": "WABusiness_23.11.80_Watusi_1.1.62_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WABusiness_23.11.80_Watusi_1.1.62_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "version": "23.11.80",
@@ -2469,6 +2633,7 @@
         },
         {
             "name": "Nicegram",
+            "realBundleID": "app.nicegram",
             "bundleID": "Nicegram_1.3.2_Premium_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Nicegram_1.3.2_Premium_@asdfzxcvbn0_apptesters.org",
             "version": "1.3.2",
@@ -2484,6 +2649,7 @@
         },
         {
             "name": "Spotify",
+            "realBundleID": "com.spotify.client",
             "bundleID": "Spotify_8.8.42_Spotilife_1.8_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Spotify_8.8.42_Spotilife_1.8_@asdfzxcvbn0_apptesters.org",
             "version": "8.8.42",
@@ -2499,6 +2665,7 @@
         },
         {
             "name": "BeReal",
+            "realBundleID": "AlexisBarreyat.BeReal",
             "bundleID": "BeReal_1.4.1_Bea_1.2_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "BeReal_1.4.1_Bea_1.2_@asdfzxcvbn0_apptesters.org",
             "version": "1.4.1",
@@ -2514,6 +2681,7 @@
         },
         {
             "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
             "bundleID": "WhatsApp_23.11.78_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WhatsApp_23.11.78_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "version": "23.11.78",
@@ -2529,6 +2697,7 @@
         },
         {
             "name": "CombatMaster",
+            "realBundleID": "com.AlfaBravo.nk",
             "bundleID": "CombatMaster_0.9.402_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CombatMaster_0.9.402_Mods_@thisismanpreets_apptesters.org",
             "version": "0.9.402",
@@ -2544,6 +2713,7 @@
         },
         {
             "name": "CriticalOPS",
+            "realBundleID": "com.criticalforceentertainment.criticalops",
             "bundleID": "CriticalOPS_1.39.2_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CriticalOPS_1.39.2_Mods_@thisismanpreets_apptesters.org",
             "version": "1.39.2",
@@ -2559,6 +2729,7 @@
         },
         {
             "name": "Minecraft",
+            "realBundleID": "com.mojang.minecraftpe",
             "bundleID": "Minecraft_1.20.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Minecraft_1.20.0_@thisismanpreets_apptesters.org",
             "version": "1.20.0",
@@ -2574,6 +2745,7 @@
         },
         {
             "name": "TheWanderer",
+            "realBundleID": "com.JamieParish.TheWanderer",
             "bundleID": "TheWanderer_7.00087_InfiniteCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TheWanderer_7.00087_InfiniteCurrencies_@thisismanpreets_apptesters.org",
             "version": "7.00087",
@@ -2589,6 +2761,7 @@
         },
         {
             "name": "BloonsTD6",
+            "realBundleID": "com.ninjakiwi.bloonstd6",
             "bundleID": "BloonsTD6_37.0_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BloonsTD6_37.0_Mods_@thisismanpreets_apptesters.org",
             "version": "37.0",
@@ -2604,6 +2777,7 @@
         },
         {
             "name": "IdleBillionaire",
+            "realBundleID": "com.playhardlab.rich",
             "bundleID": "IdleBillionaire_1.12.27_FreezeCurrency_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "IdleBillionaire_1.12.27_FreezeCurrency_@thisismanpreets_apptesters.org",
             "version": "1.12.27",
@@ -2619,6 +2793,7 @@
         },
         {
             "name": "Archero",
+            "realBundleID": "com.habby.archero",
             "bundleID": "Archero_4.14.0_OneHitKill_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Archero_4.14.0_OneHitKill_@thisismanpreets_apptesters.org",
             "version": "4.14.0",
@@ -2634,6 +2809,7 @@
         },
         {
             "name": "WarRobotsPvP",
+            "realBundleID": "com.pixonic.wwr",
             "bundleID": "WarRobotsPvP_9.1.1_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WarRobotsPvP_9.1.1_Mods_@thisismanpreets_apptesters.org",
             "version": "9.1.1",
@@ -2649,6 +2825,7 @@
         },
         {
             "name": "EnginePistons",
+            "realBundleID": "com.VitaGames.EngineASMR",
             "bundleID": "EnginePistons_7.7.4_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "EnginePistons_7.7.4_Mods_@thisismanpreets_apptesters.org",
             "version": "7.7.4",
@@ -2664,6 +2841,7 @@
         },
         {
             "name": "MiniTennis",
+            "realBundleID": "com.miniclip.minitennis",
             "bundleID": "MiniTennis_1.2.0_DumbOpponents_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MiniTennis_1.2.0_DumbOpponents_@thisismanpreets_apptesters.org",
             "version": "1.2.0",
@@ -2679,6 +2857,7 @@
         },
         {
             "name": "PocketLand",
+            "realBundleID": "gs.hadi.pocketisland",
             "bundleID": "PocketLand_0.46.1_FreezeCurrency_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PocketLand_0.46.1_FreezeCurrency_@thisismanpreets_apptesters.org",
             "version": "0.46.1",
@@ -2694,6 +2873,7 @@
         },
         {
             "name": "TruckSimulator",
+            "realBundleID": "com.zuuks.truck.simulator.ultimate",
             "bundleID": "TruckSimulator_v1.2.6_InfiniteCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TruckSimulator_v1.2.6_InfiniteCurrencies_@thisismanpreets_apptesters.org",
             "version": "v1.2.6",
@@ -2709,6 +2889,7 @@
         },
         {
             "name": "Burnout",
+            "realBundleID": "com.RoadburnGames.BurnoutMasters",
             "bundleID": "Burnout_1.0042_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Burnout_1.0042_Satella_@thisismanpreets_apptesters.org",
             "version": "1.0042",
@@ -2724,6 +2905,7 @@
         },
         {
             "name": "PDFExpert",
+            "realBundleID": "com.readdle.PDFExpert5",
             "bundleID": "PDFExpert_7.16.1_Satella_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "PDFExpert_7.16.1_Satella_@asdfzxcvbn0_apptesters.org",
             "version": "7.16.1",
@@ -2739,6 +2921,7 @@
         },
         {
             "name": "BistroHeroes",
+            "realBundleID": "com.tapas.heroesrestaurant",
             "bundleID": "BistroHeroes_4.15.0_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BistroHeroes_4.15.0_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "version": "4.15.0",
@@ -2754,6 +2937,7 @@
         },
         {
             "name": "BASEBALL9",
+            "realBundleID": "us.kr.baseballnine",
             "bundleID": "BASEBALL9_3.1.2_UnlimitedEverything_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BASEBALL9_3.1.2_UnlimitedEverything_@thisismanpreets_apptesters.org",
             "version": "3.1.2",
@@ -2769,6 +2953,7 @@
         },
         {
             "name": "TombRaiderReloaded",
+            "realBundleID": "com.squareenix.oko",
             "bundleID": "TombRaiderReloaded_1.2.1_AllChaptersUnlocked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TombRaiderReloaded_1.2.1_AllChaptersUnlocked_@thisismanpreets_apptesters.org",
             "version": "1.2.1",
@@ -2784,6 +2969,7 @@
         },
         {
             "name": "FamilyGuy",
+            "realBundleID": "com.sgn.familyguy",
             "bundleID": "FamilyGuy_2.54.4_UnlimitedEverything_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FamilyGuy_2.54.4_UnlimitedEverything_@thisismanpreets_apptesters.org",
             "version": "2.54.4",
@@ -2799,6 +2985,7 @@
         },
         {
             "name": "SwordArtOnline",
+            "realBundleID": "jp.co.bandainamcoent.BNEI0409",
             "bundleID": "SwordArtOnline_1.1.3_NoSkillCountdown_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SwordArtOnline_1.1.3_NoSkillCountdown_@thisismanpreets_apptesters.org",
             "version": "1.1.3",
@@ -2814,6 +3001,7 @@
         },
         {
             "name": "MyDearFarm",
+            "realBundleID": "com.hyperbeard.mydearfarm",
             "bundleID": "MyDearFarm_1.8.4_UnlimitedMoney_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MyDearFarm_1.8.4_UnlimitedMoney_@thisismanpreets_apptesters.org",
             "version": "1.8.4",
@@ -2829,6 +3017,7 @@
         },
         {
             "name": "StarTrek",
+            "realBundleID": "com.eastsidegames.lowerdecks",
             "bundleID": "StarTrek_1.12.3_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "StarTrek_1.12.3_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "version": "1.12.3",
@@ -2844,6 +3033,7 @@
         },
         {
             "name": "MarvelPuzzleQuest",
+            "realBundleID": "com.d3p.yorkMPQ",
             "bundleID": "MarvelPuzzleQuest_279.640181_OneHitKill_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MarvelPuzzleQuest_279.640181_OneHitKill_@thisismanpreets_apptesters.org",
             "version": "279.640181",
@@ -2859,6 +3049,7 @@
         },
         {
             "name": "YouTubeMusic",
+            "realBundleID": "com.google.ios.youtubemusic",
             "bundleID": "YouTubeMusic_6.05.1_YTMusicUltimate_1.4.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "YouTubeMusic_6.05.1_YTMusicUltimate_1.4.1_@thisismanpreets_apptesters.org",
             "version": "6.05.1",
@@ -2874,6 +3065,7 @@
         },
         {
             "name": "Homescapes",
+            "realBundleID": "com.playrix.gardenscapes-sweethome",
             "bundleID": "Homescapes_6.2.2_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Homescapes_6.2.2_Mods_@thisismanpreets_apptesters.org",
             "version": "6.2.2",
@@ -2889,6 +3081,7 @@
         },
         {
             "name": "MrAutofire",
+            "realBundleID": "games.lightheart.mrautofire",
             "bundleID": "MrAutofire_2.5.3_FreeStore_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MrAutofire_2.5.3_FreeStore_@thisismanpreets_apptesters.org",
             "version": "2.5.3",
@@ -2904,6 +3097,7 @@
         },
         {
             "name": "LumberInc",
+            "realBundleID": "com.lumber.inc",
             "bundleID": "LumberInc_1.7.3_FreezeCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "LumberInc_1.7.3_FreezeCurrencies_@thisismanpreets_apptesters.org",
             "version": "1.7.3",
@@ -2919,6 +3113,7 @@
         },
         {
             "name": "CrazyPirate",
+            "realBundleID": "com.sponge.pirate",
             "bundleID": "CrazyPirate_1.918_GodMod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CrazyPirate_1.918_GodMod_@thisismanpreets_apptesters.org",
             "version": "1.918",
@@ -2934,6 +3129,7 @@
         },
         {
             "name": "MergeFriends",
+            "realBundleID": "com.skunkworksgames.mergefriends",
             "bundleID": "MergeFriends_1.17.3_UnlimitedMoney_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MergeFriends_1.17.3_UnlimitedMoney_@thisismanpreets_apptesters.org",
             "version": "1.17.3",
@@ -2949,6 +3145,7 @@
         },
         {
             "name": "FarmingFever",
+            "realBundleID": "com.matryoshka.farminggame",
             "bundleID": "FarmingFever_0.28.3_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FarmingFever_0.28.3_Mods_@thisismanpreets_apptesters.org",
             "version": "0.28.3",
@@ -2964,6 +3161,7 @@
         },
         {
             "name": "Wearfit",
+            "realBundleID": "com.hth.wearUp",
             "bundleID": "Wearfit_4.06.01_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Wearfit_4.06.01_Pro_@thisismanpreets_apptesters.org",
             "version": "4.06.01",
@@ -2979,6 +3177,7 @@
         },
         {
             "name": "SoundLab",
+            "realBundleID": "com.castpeer.audioroom.ios",
             "bundleID": "SoundLab_2.7.6_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SoundLab_2.7.6_Premium_@thisismanpreets_apptesters.org",
             "version": "2.7.6",
@@ -2994,6 +3193,7 @@
         },
         {
             "name": "RainViewer",
+            "realBundleID": "com.lucky-apps.RainViewer",
             "bundleID": "RainViewer_3.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RainViewer_3.0_Premium_@thisismanpreets_apptesters.org",
             "version": "3.0",
@@ -3009,6 +3209,7 @@
         },
         {
             "name": "Flightradar24",
+            "realBundleID": "se.resenatverket.FlightRadar24-Free",
             "bundleID": "Flightradar24_9.6.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Flightradar24_9.6.0_Premium_@thisismanpreets_apptesters.org",
             "version": "9.6.0",
@@ -3024,6 +3225,7 @@
         },
         {
             "name": "SmartTVRemote",
+            "realBundleID": "com.companjenapps.tvremotesamsung",
             "bundleID": "SmartTVRemote_1.7_NoAds_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SmartTVRemote_1.7_NoAds_@thisismanpreets_apptesters.org",
             "version": "1.7",
@@ -3039,6 +3241,7 @@
         },
         {
             "name": "IconThemer",
+            "realBundleID": "co.vulcanlabs.iconmaker",
             "bundleID": "IconThemer_8.8_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "IconThemer_8.8_@thisismanpreets_apptesters.org",
             "version": "8.8",
@@ -3054,6 +3257,7 @@
         },
         {
             "name": "CrazyHelium",
+            "realBundleID": "com.appkruti.videofunfree",
             "bundleID": "CrazyHelium_46.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CrazyHelium_46.0_Premium_@thisismanpreets_apptesters.org",
             "version": "46.0",
@@ -3069,6 +3273,7 @@
         },
         {
             "name": "BeautyPlus",
+            "realBundleID": "com.commsource.BeautyPlus",
             "bundleID": "BeautyPlus_7.6.030_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BeautyPlus_7.6.030_Premium_@thisismanpreets_apptesters.org",
             "version": "7.6.030",
@@ -3084,6 +3289,7 @@
         },
         {
             "name": "PhotoTranslator",
+            "realBundleID": "com.inversemetric.artranslator",
             "bundleID": "PhotoTranslator_3.05_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PhotoTranslator_3.05_Premium_@thisismanpreets_apptesters.org",
             "version": "3.05",
@@ -3099,6 +3305,7 @@
         },
         {
             "name": "InShot",
+            "realBundleID": "com.camerasideas.InstaShot",
             "bundleID": "InShot_1.69.0_Pro_@thisismanpreets_apptesters",
             "bundleIdentifier": "InShot_1.69.0_Pro_@thisismanpreets_apptesters",
             "version": "1.69.0",
@@ -3114,6 +3321,7 @@
         },
         {
             "name": "HomeWorkout",
+            "realBundleID": "com.abishkking.maleworkout",
             "bundleID": "HomeWorkout_1.16.7_Premium_@thisismanpreets_apptesters",
             "bundleIdentifier": "HomeWorkout_1.16.7_Premium_@thisismanpreets_apptesters",
             "version": "1.16.7",
@@ -3129,6 +3337,7 @@
         },
         {
             "name": "Bazaart",
+            "realBundleID": "co.bazaart.app",
             "bundleID": "Bazaart_9.8.1_Premium_@thisismanpreets_apptesters",
             "bundleIdentifier": "Bazaart_9.8.1_Premium_@thisismanpreets_apptesters",
             "version": "9.8.1",
@@ -3144,6 +3353,7 @@
         },
         {
             "name": "RobberyBob",
+            "realBundleID": "com.chillingo.robberybob",
             "bundleID": "RobberyBob_1.21.9_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RobberyBob_1.21.9_Mods_@thisismanpreets_apptesters.org",
             "version": "1.21.9",
@@ -3159,6 +3369,7 @@
         },
         {
             "name": "365Scores",
+            "realBundleID": "com.365scores.365scroesapp",
             "bundleID": "365Scores_5.8.15_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "365Scores_5.8.15_Premium_@thisismanpreets_apptesters.org",
             "version": "5.8.15",
@@ -3174,6 +3385,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_286.1_Rocket_3.8.8_Plus_2.50_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_286.1_Rocket_3.8.8_Plus_2.50_@asdfzxcvbn0_apptesters.org",
             "version": "286.1",
@@ -3189,6 +3401,7 @@
         },
         {
             "name": "Banish",
+            "realBundleID": "pineapplelabs.Banish",
             "bundleID": "Banish_1.42_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Banish_1.42_@asdfzxcvbn0_apptesters.org",
             "version": "1.42",
@@ -3204,6 +3417,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_29.8.0_LRD_2.8_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TikTok_29.8.0_LRD_2.8_@thisismanpreets_apptesters.org",
             "version": "29.8.0",
@@ -3219,6 +3433,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_286.1_Rocket_3.8.8_Open_In_Instagram_Extension_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_286.1_Rocket_3.8.8_Open_In_Instagram_Extension_@asdfzxcvbn0_apptesters.org",
             "version": "286.1",
@@ -3234,6 +3449,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_29.8.0_Dark_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "TikTok_29.8.0_Dark_@asdfzxcvbn0_apptesters.org",
             "version": "29.8.0",
@@ -3249,6 +3465,7 @@
         },
         {
             "name": "Infuse",
+            "realBundleID": "com.firecore.infuse",
             "bundleID": "Infuse_7.5.6_Suffuse_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Infuse_7.5.6_Suffuse_@asdfzxcvbn0_apptesters.org",
             "version": "7.5.6",
@@ -3264,6 +3481,7 @@
         },
         {
             "name": "Canary",
+            "realBundleID": "Mailroom.Canary-iOS",
             "bundleID": "Canary_4.01_Pro_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Canary_4.01_Pro_@asdfzxcvbn0_apptesters.org",
             "version": "4.01",
@@ -3279,6 +3497,7 @@
         },
         {
             "name": "MightyParty",
+            "realBundleID": "com.panoramik.forgeofgodsblitz",
             "bundleID": "MightyParty_2.28.20_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MightyParty_2.28.20_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "version": "2.28.20",
@@ -3294,6 +3513,7 @@
         },
         {
             "name": "CriticalOPS",
+            "realBundleID": "com.criticalforceentertainment.criticalops",
             "bundleID": "CriticalOPS_v1.39.2_ColoredEnemy_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CriticalOPS_v1.39.2_ColoredEnemy_@thisismanpreets_apptesters.org",
             "version": "v1.39.2",
@@ -3309,6 +3529,7 @@
         },
         {
             "name": "TreasureCruise",
+            "realBundleID": "jp.co.bandainamcogames.BNGI0218",
             "bundleID": "TreasureCruise_13.0.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TreasureCruise_13.0.3_@thisismanpreets_apptesters.org",
             "version": "13.0.3",
@@ -3324,6 +3545,7 @@
         },
         {
             "name": "CarDetailingSimulator",
+            "realBundleID": "com.dmg.cds",
             "bundleID": "CarDetailingSimulator_1.2.46_UnlimitedGold_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CarDetailingSimulator_1.2.46_UnlimitedGold_@thisismanpreets_apptesters.org",
             "version": "1.2.46",
@@ -3339,6 +3561,7 @@
         },
         {
             "name": "TheWolf",
+            "realBundleID": "com.swiftappskom.thewolfrpg",
             "bundleID": "TheWolf_3.0.0_FreeShopping_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TheWolf_3.0.0_FreeShopping_@thisismanpreets_apptesters.org",
             "version": "3.0.0",
@@ -3354,6 +3577,7 @@
         },
         {
             "name": "AlightMotion",
+            "realBundleID": "com.alightcreative.motion",
             "bundleID": "AlightMotion_5.0.1_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AlightMotion_5.0.1_Premium_@thisismanpreets_apptesters.org",
             "version": "5.0.1",
@@ -3369,6 +3593,7 @@
         },
         {
             "name": "UltimateGolf",
+            "realBundleID": "com.hypgames.ultimategolf",
             "bundleID": "UltimateGolf_4.06.08_PerfectShot_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "UltimateGolf_4.06.08_PerfectShot_@thisismanpreets_apptesters.org",
             "version": "4.06.08",
@@ -3384,6 +3609,7 @@
         },
         {
             "name": "MightyDOOM",
+            "realBundleID": "com.bethsoft.ubu",
             "bundleID": "MightyDOOM_1.2.1_GodMod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MightyDOOM_1.2.1_GodMod_@thisismanpreets_apptesters.org",
             "version": "1.2.1",
@@ -3399,6 +3625,7 @@
         },
         {
             "name": "HouseFlipper",
+            "realBundleID": "com.imaginalis.HouseFlipperMobile",
             "bundleID": "HouseFlipper_1.291_UnlimitedCash_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "HouseFlipper_1.291_UnlimitedCash_@thisismanpreets_apptesters.org",
             "version": "1.291",
@@ -3414,6 +3641,7 @@
         },
         {
             "name": "RetroBowl",
+            "realBundleID": "com.newstargames.retrobowl",
             "bundleID": "RetroBowl_1.5.88_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RetroBowl_1.5.88_Satella_@thisismanpreets_apptesters.org",
             "version": "1.5.88",
@@ -3429,6 +3657,7 @@
         },
         {
             "name": "CookingWonder",
+            "realBundleID": "com.wonderlegend.cookingwonder",
             "bundleID": "CookingWonder_1.12.0_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CookingWonder_1.12.0_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "version": "1.12.0",
@@ -3444,6 +3673,7 @@
         },
         {
             "name": "DoctorWho",
+            "realBundleID": "com.eastsidegames.doctorwho",
             "bundleID": "DoctorWho_1.5.5_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DoctorWho_1.5.5_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "version": "1.5.5",
@@ -3459,6 +3689,7 @@
         },
         {
             "name": "JurassicDinosaur",
+            "realBundleID": "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
             "bundleID": "JurassicDinosaur_1.1.1_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "JurassicDinosaur_1.1.1_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "version": "1.1.1",
@@ -3474,6 +3705,7 @@
         },
         {
             "name": "RoyalRevolt2",
+            "realBundleID": "com.flaregames.royalrevoltonline",
             "bundleID": "RoyalRevolt2_9.1.1_NeverKill_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RoyalRevolt2_9.1.1_NeverKill_@thisismanpreets_apptesters.org",
             "version": "9.1.1",
@@ -3489,6 +3721,7 @@
         },
         {
             "name": "RoyalMatch",
+            "realBundleID": "com.dreamgames.royalmatch",
             "bundleID": "RoyalMatch_15285_UnlimitedMods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RoyalMatch_15285_UnlimitedMods_@thisismanpreets_apptesters.org",
             "version": "15285",
@@ -3504,6 +3737,7 @@
         },
         {
             "name": "ManorCafe",
+            "realBundleID": "com.gamegos.mobile.manorcafe",
             "bundleID": "ManorCafe_1.162.19_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ManorCafe_1.162.19_Mods_@thisismanpreets_apptesters.org",
             "version": "1.162.19",
@@ -3519,6 +3753,7 @@
         },
         {
             "name": "SummonersGreed",
+            "realBundleID": "com.pixio.apple.mtd",
             "bundleID": "SummonersGreed_1.56.1_UnlimitedMoney_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SummonersGreed_1.56.1_UnlimitedMoney_@thisismanpreets_apptesters.org",
             "version": "1.56.1",
@@ -3534,6 +3769,7 @@
         },
         {
             "name": "Solitaire",
+            "realBundleID": "com.gsn.ios.tripeaks2",
             "bundleID": "Solitaire_11.6.0_UnlimitedCoins_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Solitaire_11.6.0_UnlimitedCoins_@thisismanpreets_apptesters.org",
             "version": "11.6.0",
@@ -3549,6 +3785,7 @@
         },
         {
             "name": "TheNom",
+            "realBundleID": "com.finallygames.thenom",
             "bundleID": "TheNom_6.2.2_GodMod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TheNom_6.2.2_GodMod_@thisismanpreets_apptesters.org",
             "version": "6.2.2",
@@ -3564,6 +3801,7 @@
         },
         {
             "name": "PhotoRoom",
+            "realBundleID": "com.dr1ven.eraser",
             "bundleID": "PhotoRoom_5.3.8_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PhotoRoom_5.3.8_Premium_@thisismanpreets_apptesters.org",
             "version": "5.3.8",
@@ -3579,6 +3817,7 @@
         },
         {
             "name": "RACE",
+            "realBundleID": "com.smokokoltd.race",
             "bundleID": "RACE_1.1.26_iGameGod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RACE_1.1.26_iGameGod_@thisismanpreets_apptesters.org",
             "version": "1.1.26",
@@ -3594,6 +3833,7 @@
         },
         {
             "name": "Episode",
+            "realBundleID": "com.neonfun.catalog",
             "bundleID": "Episode_24.22_PremiumChoices@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Episode_24.22_PremiumChoices@thisismanpreets_apptesters.org",
             "version": "24.22",
@@ -3609,6 +3849,7 @@
         },
         {
             "name": "HelloNeighbor",
+            "realBundleID": "com.tinybuildgames.helloneighbor",
             "bundleID": "HelloNeighbor_2.3.8_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "HelloNeighbor_2.3.8_Satella_@thisismanpreets_apptesters.org",
             "version": "2.3.8",
@@ -3624,6 +3865,7 @@
         },
         {
             "name": "Sierra7",
+            "realBundleID": "com.simonhasondesign.sierra7",
             "bundleID": "Sierra7_Satella_0.0.323_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Sierra7_Satella_0.0.323_@thisismanpreets_apptesters.org",
             "version": "Satella",
@@ -3639,6 +3881,7 @@
         },
         {
             "name": "Quartet1",
+            "realBundleID": "ukmusicapps.Quartet1",
             "bundleID": "Quartet1_1.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Quartet1_1.0_@thisismanpreets_apptesters.org",
             "version": "1.0",
@@ -3654,6 +3897,7 @@
         },
         {
             "name": "LingoDeer",
+            "realBundleID": "com.lingodeer",
             "bundleID": "LingoDeer_2.8.61_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "LingoDeer_2.8.61_Premium_@thisismanpreets_apptesters.org",
             "version": "2.8.61",
@@ -3669,6 +3913,7 @@
         },
         {
             "name": "Duolingo",
+            "realBundleID": "com.duolingo.DuolingoMobile",
             "bundleID": "Duolingo_6.196.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Duolingo_6.196.0_Premium_@thisismanpreets_apptesters.org",
             "version": "6.196.0",
@@ -3684,6 +3929,7 @@
         },
         {
             "name": "CutTheRope2",
+            "realBundleID": "com.zeptolab.ctr2",
             "bundleID": "CutTheRope2_1.6.9_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CutTheRope2_1.6.9_@thisismanpreets_apptesters.org",
             "version": "1.6.9",
@@ -3699,6 +3945,7 @@
         },
         {
             "name": "Facetune",
+            "realBundleID": "com.lightricks.Facetune2",
             "bundleID": "Facetune_3.24_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Facetune_3.24_@thisismanpreets_apptesters.org",
             "version": "3.24",
@@ -3714,6 +3961,7 @@
         },
         {
             "name": "GettingOverIt",
+            "realBundleID": "net.Foddy.GettingOverIt",
             "bundleID": "GettingOverIt_1.14_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "GettingOverIt_1.14_@thisismanpreets_apptesters.org",
             "version": "1.14",
@@ -3729,6 +3977,7 @@
         },
         {
             "name": "iTorrent",
+            "realBundleID": "ru.nonamedude.iTorrent",
             "bundleID": "iTorrent_1.9_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "iTorrent_1.9_@thisismanpreets_apptesters.org",
             "version": "1.9",
@@ -3744,6 +3993,7 @@
         },
         {
             "name": "PlantvsZombies2",
+            "realBundleID": "com.popcap.ios.PvZ2",
             "bundleID": "PlantvsZombies2_791_UnlockedEverything_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PlantvsZombies2_791_UnlockedEverything_@thisismanpreets_apptesters.org",
             "version": "791",
@@ -3759,6 +4009,7 @@
         },
         {
             "name": "Tripscout",
+            "realBundleID": "co.tripscout.tripscout",
             "bundleID": "Tripscout_73.0_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Tripscout_73.0_Satella_@thisismanpreets_apptesters.org",
             "version": "73.0",
@@ -3774,6 +4025,7 @@
         },
         {
             "name": "Reface",
+            "realBundleID": "com.neocortext.doublicatapp",
             "bundleID": "Reface_3.33.0_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Reface_3.33.0_Pro_@thisismanpreets_apptesters.org",
             "version": "3.33.0",
@@ -3789,6 +4041,7 @@
         },
         {
             "name": "AIArta",
+            "realBundleID": "com.aiby.aiart",
             "bundleID": "AIArta_2.8_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AIArta_2.8_Premium_@thisismanpreets_apptesters.org",
             "version": "2.8",
@@ -3804,6 +4057,7 @@
         },
         {
             "name": "UniDreamAI",
+            "realBundleID": "com.thirteenleafclover.art.generator",
             "bundleID": "UniDreamAI_3.4_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "UniDreamAI_3.4_Premium_@thisismanpreets_apptesters.org",
             "version": "3.4",
@@ -3819,6 +4073,7 @@
         },
         {
             "name": "EnhanceFox",
+            "realBundleID": "com.risingcabbage.enhancefox",
             "bundleID": "EnhanceFox_6.3.1_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "EnhanceFox_6.3.1_Premium_@thisismanpreets_apptesters.org",
             "version": "6.3.1",
@@ -3834,6 +4089,7 @@
         },
         {
             "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
             "bundleID": "WhatsApp_23.11.76_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WhatsApp_23.11.76_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "version": "23.11.76",
@@ -3849,6 +4105,7 @@
         },
         {
             "name": "WABusiness",
+            "realBundleID": "net.whatsapp.WhatsAppSMB",
             "bundleID": "WABusiness_23.11.76_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WABusiness_23.11.76_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "version": "23.11.76",
@@ -3864,6 +4121,7 @@
         },
         {
             "name": "StoryClone",
+            "realBundleID": "vhsdoor.hady",
             "bundleID": "StoryClone_1.3_Adblock_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "StoryClone_1.3_Adblock_@asdfzxcvbn0_apptesters.org",
             "version": "1.3",
@@ -3879,6 +4137,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_286.0_Rocket_3.8.8_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_286.0_Rocket_3.8.8_@asdfzxcvbn0_apptesters.org",
             "version": "286.0",
@@ -3894,6 +4153,7 @@
         },
         {
             "name": "Twitter",
+            "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "Twitter_9.61_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Twitter_9.61_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "version": "9.61",
@@ -3909,6 +4169,7 @@
         },
         {
             "name": "TanksaLot",
+            "realBundleID": "com.boombitgames.TanksALot",
             "bundleID": "TanksaLot_5.300_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TanksaLot_5.300_Mods_@thisismanpreets_apptesters.org",
             "version": "5.300",
@@ -3924,6 +4185,7 @@
         },
         {
             "name": "YouTube",
+            "realBundleID": "com.google.ios.youtube",
             "bundleID": "YouTube_18.22.9_DLTube_Reborn_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "YouTube_18.22.9_DLTube_Reborn_@thisismanpreets_apptesters.org",
             "version": "18.22.9",
@@ -3939,6 +4201,7 @@
         },
         {
             "name": "AdobePremiereRush",
+            "realBundleID": "com.adobe.rush",
             "bundleID": "AdobePremiereRush_2.5_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AdobePremiereRush_2.5_Premium_@thisismanpreets_apptesters.org",
             "version": "2.5",
@@ -3954,6 +4217,7 @@
         },
         {
             "name": "SubwaySurfers",
+            "realBundleID": "com.kiloo.subwaysurfers",
             "bundleID": "SubwaySurfers_3.13.0_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SubwaySurfers_3.13.0_Mods_@thisismanpreets_apptesters.org",
             "version": "3.13.0",
@@ -3969,6 +4233,7 @@
         },
         {
             "name": "WormsZone",
+            "realBundleID": "com.wildspike.wormszone",
             "bundleID": "WormsZone_4.5.2_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WormsZone_4.5.2_Mods_@thisismanpreets_apptesters.org",
             "version": "4.5.2",
@@ -3984,6 +4249,7 @@
         },
         {
             "name": "AltosAdventure-LostCity",
+            "realBundleID": "com.snowman.altos-odyssey.lost-city",
             "bundleID": "AltosAdventure-LostCity_1.1.6_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AltosAdventure-LostCity_1.1.6_@thisismanpreets_apptesters.org",
             "version": "1.1.6",
@@ -3999,6 +4265,7 @@
         },
         {
             "name": "FruitNinjaClassic+",
+            "realBundleID": "com.halfbrick.fruitninjaapplearcade",
             "bundleID": "FruitNinjaClassic+_1.13.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FruitNinjaClassic+_1.13.0_@thisismanpreets_apptesters.org",
             "version": "1.13.0",
@@ -4014,6 +4281,7 @@
         },
         {
             "name": "NinjaArashi2",
+            "realBundleID": "com.blackpanther.ninjaarashi2",
             "bundleID": "NinjaArashi2_1.0_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "NinjaArashi2_1.0_Satella_@thisismanpreets_apptesters.org",
             "version": "1.0",
@@ -4029,6 +4297,7 @@
         },
         {
             "name": "SneakySasquatch",
+            "realBundleID": "com.rac7.SneakySasquatch",
             "bundleID": "SneakySasquatch_1.9.3_InfiniteGold_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SneakySasquatch_1.9.3_InfiniteGold_@thisismanpreets_apptesters.org",
             "version": "1.9.3",
@@ -4044,6 +4313,7 @@
         },
         {
             "name": "StarVPN",
+            "realBundleID": "com.peach.app",
             "bundleID": "StarVPN_3.7.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "StarVPN_3.7.0_Premium_@thisismanpreets_apptesters.org",
             "version": "3.7.0",
@@ -4059,6 +4329,7 @@
         },
         {
             "name": "VPNERO",
+            "realBundleID": "com.appyogi.vpnapp",
             "bundleID": "VPNERO_1.1.22_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VPNERO_1.1.22_Pro_@thisismanpreets_apptesters.org",
             "version": "1.1.22",
@@ -4074,6 +4345,7 @@
         },
         {
             "name": "SixGuns",
+            "realBundleID": "com.gameloft.Bullet",
             "bundleID": "SixGuns_3.0.6_UnlimitedCoinsandStars_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SixGuns_3.0.6_UnlimitedCoinsandStars_@thisismanpreets_apptesters.org",
             "version": "3.0.6",
@@ -4089,6 +4361,7 @@
         },
         {
             "name": "TheEscapists",
+            "realBundleID": "com.team17.escapists",
             "bundleID": "TheEscapists_1.1.8_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TheEscapists_1.1.8_Satella_@thisismanpreets_apptesters.org",
             "version": "1.1.8",
@@ -4104,6 +4377,7 @@
         },
         {
             "name": "Perfect365",
+            "realBundleID": "com.arcsoft.Perfect365",
             "bundleID": "Perfect365_9.36.15_Plus_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Perfect365_9.36.15_Plus_@thisismanpreets_apptesters.org",
             "version": "9.36.15",
@@ -4119,6 +4393,7 @@
         },
         {
             "name": "BudFarm-MunchieMatch",
+            "realBundleID": "com.LDRLY.budmatch",
             "bundleID": "BudFarm-MunchieMatch_1.22.20_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BudFarm-MunchieMatch_1.22.20_Mods_@thisismanpreets_apptesters.org",
             "version": "1.22.20",
@@ -4134,6 +4409,7 @@
         },
         {
             "name": "RoadRedemption-Mobile",
+            "realBundleID": "com.PixelDashStudios.RoadRedemption",
             "bundleID": "RoadRedemption-Mobile_0.22751_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RoadRedemption-Mobile_0.22751_Premium_@thisismanpreets_apptesters.org",
             "version": "0.22751",
@@ -4149,6 +4425,7 @@
         },
         {
             "name": "SquadAlpha",
+            "realBundleID": "com.game.missioncrit",
             "bundleID": "SquadAlpha_1.6.25_UnlimitedHealth_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SquadAlpha_1.6.25_UnlimitedHealth_@thisismanpreets_apptesters.org",
             "version": "1.6.25",
@@ -4164,6 +4441,7 @@
         },
         {
             "name": "PuzzleDragons",
+            "realBundleID": "jp.gungho.padEN",
             "bundleID": "PuzzleDragons_20.6.0_GodMod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PuzzleDragons_20.6.0_GodMod_@thisismanpreets_apptesters.org",
             "version": "20.6.0",
@@ -4179,6 +4457,7 @@
         },
         {
             "name": "HeadBasketball",
+            "realBundleID": "com.dnddream.headbasketball",
             "bundleID": "HeadBasketball_4.1.0_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "HeadBasketball_4.1.0_Satella_@thisismanpreets_apptesters.org",
             "version": "4.1.0",
@@ -4194,6 +4473,7 @@
         },
         {
             "name": "JetpackJoyride",
+            "realBundleID": "com.halfbrick.jetpack",
             "bundleID": "JetpackJoyride_1.77.3_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "JetpackJoyride_1.77.3_Satella_@thisismanpreets_apptesters.org",
             "version": "1.77.3",
@@ -4209,6 +4489,7 @@
         },
         {
             "name": "Nox-EscapeGames",
+            "realBundleID": "com.everbytestudio.escape.room.puzzle.games",
             "bundleID": "Nox-EscapeGames_1.3.0_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Nox-EscapeGames_1.3.0_Satella_@thisismanpreets_apptesters.org",
             "version": "1.3.0",
@@ -4224,6 +4505,7 @@
         },
         {
             "name": "VSCO",
+            "realBundleID": "co.visualsupply.cam",
             "bundleID": "VSCO_323.0.0_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VSCO_323.0.0_Pro_@thisismanpreets_apptesters.org",
             "version": "323.0.0",
@@ -4239,6 +4521,7 @@
         },
         {
             "name": "RentPlease",
+            "realBundleID": "com.shimmergames.tenants.gb.en",
             "bundleID": "RentPlease_1.2.3_InfiniteCurrency_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RentPlease_1.2.3_InfiniteCurrency_@thisismanpreets_apptesters.org",
             "version": "1.2.3",
@@ -4254,6 +4537,7 @@
         },
         {
             "name": "WeedInc-Tycoon",
+            "realBundleID": "com.metamoki.weed",
             "bundleID": "WeedInc-Tycoon_3.14.6_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WeedInc-Tycoon_3.14.6_Mods_@thisismanpreets_apptesters.org",
             "version": "3.14.6",
@@ -4269,6 +4553,7 @@
         },
         {
             "name": "PsychicIdle",
+            "realBundleID": "com.mobirix.pi",
             "bundleID": "PsychicIdle_1.48.2_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PsychicIdle_1.48.2_Mods_@thisismanpreets_apptesters.org",
             "version": "1.48.2",
@@ -4284,6 +4569,7 @@
         },
         {
             "name": "MadSkillsMX",
+            "realBundleID": "com.turborilla.MadSkillsMotocross2",
             "bundleID": "MadSkillsMX_2.35.4544_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MadSkillsMX_2.35.4544_Satella_@thisismanpreets_apptesters.org",
             "version": "2.35.4544",
@@ -4299,6 +4585,7 @@
         },
         {
             "name": "MadSkillsMX2",
+            "realBundleID": "com.turborilla.MadSkillsMotocross2",
             "bundleID": "MadSkillsMX2_2.35.4544_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MadSkillsMX2_2.35.4544_Satella_@thisismanpreets_apptesters.org",
             "version": "2.35.4544",
@@ -4314,6 +4601,7 @@
         },
         {
             "name": "MyFitnessPal",
+            "realBundleID": "com.myfitnesspal.mfp",
             "bundleID": "MyFitnessPal_23.10.5_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MyFitnessPal_23.10.5_Premium_@thisismanpreets_apptesters.org",
             "version": "23.10.5",
@@ -4329,6 +4617,7 @@
         },
         {
             "name": "Reddit",
+            "realBundleID": "com.reddit.Reddit",
             "bundleID": "Reddit_2023.21.0_Reddit.Filter_OtherMods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Reddit_2023.21.0_Reddit.Filter_OtherMods_@thisismanpreets_apptesters.org",
             "version": "2023.21.0",
@@ -4344,6 +4633,7 @@
         },
         {
             "name": "NBALIVE",
+            "realBundleID": "com.ea.ios.nbamobile",
             "bundleID": "NBALIVE_7.2.01_AlwaysPerfectScore_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "NBALIVE_7.2.01_AlwaysPerfectScore_@thisismanpreets_apptesters.org",
             "version": "7.2.01",
@@ -4359,6 +4649,7 @@
         },
         {
             "name": "Prequel",
+            "realBundleID": "com.aiarlabs.prequel",
             "bundleID": "Prequel_2.34.0_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Prequel_2.34.0_Satella_@thisismanpreets_apptesters.org",
             "version": "2.34.0",
@@ -4374,6 +4665,7 @@
         },
         {
             "name": "ToonBlast",
+            "realBundleID": "net.peakgames.toonblast",
             "bundleID": "ToonBlast_10405_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ToonBlast_10405_Mods_@thisismanpreets_apptesters.org",
             "version": "10405",
@@ -4389,6 +4681,7 @@
         },
         {
             "name": "CrazyPirate",
+            "realBundleID": "com.sponge.pirate",
             "bundleID": "CrazyPirate_1.917_GodMod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CrazyPirate_1.917_GodMod_@thisismanpreets_apptesters.org",
             "version": "1.917",
@@ -4404,6 +4697,7 @@
         },
         {
             "name": "Hajwala4Life",
+            "realBundleID": "com.ambratorgames.Hajwalahlife",
             "bundleID": "Hajwala4Life_1.2.21_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Hajwala4Life_1.2.21_Satella_@thisismanpreets_apptesters.org",
             "version": "1.2.21",
@@ -4419,6 +4713,7 @@
         },
         {
             "name": "DrivingSim",
+            "realBundleID": "com.CarGame.DrivingClubSimulator",
             "bundleID": "DrivingSim_1.7.60_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DrivingSim_1.7.60_@thisismanpreets_apptesters.org",
             "version": "1.7.60",
@@ -4434,6 +4729,7 @@
         },
         {
             "name": "ShamanKing",
+            "realBundleID": "jp.co.studioz.shamanking",
             "bundleID": "ShamanKing_1.9.000_GodMod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ShamanKing_1.9.000_GodMod_@thisismanpreets_apptesters.org",
             "version": "1.9.000",
@@ -4449,6 +4745,7 @@
         },
         {
             "name": "MergeManor-SunnyHouse",
+            "realBundleID": "com.cookapps.interiors.home.design.merge.sunnyhouse",
             "bundleID": "MergeManor-SunnyHouse_1.1.86_FreezeCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MergeManor-SunnyHouse_1.1.86_FreezeCurrencies_@thisismanpreets_apptesters.org",
             "version": "1.1.86",
@@ -4464,6 +4761,7 @@
         },
         {
             "name": "GermanRoadRacer",
+            "realBundleID": "com.avecreation.germanroadracer",
             "bundleID": "GermanRoadRacer_1.081_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "GermanRoadRacer_1.081_Satella_@thisismanpreets_apptesters.org",
             "version": "1.081",
@@ -4479,6 +4777,7 @@
         },
         {
             "name": "Timberman",
+            "realBundleID": "com.dm.timberfree",
             "bundleID": "Timberman_1.1.94_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Timberman_1.1.94_Mods_@thisismanpreets_apptesters.org",
             "version": "1.1.94",
@@ -4494,6 +4793,7 @@
         },
         {
             "name": "AgeofMagic",
+            "realBundleID": "com.playkot.ageofmagic",
             "bundleID": "AgeofMagic_2.8.2_AlwaysWin_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AgeofMagic_2.8.2_AlwaysWin_@thisismanpreets_apptesters.org",
             "version": "2.8.2",
@@ -4509,6 +4809,7 @@
         },
         {
             "name": "UltimateRobotFighting",
+            "realBundleID": "com.reliancegames.urf",
             "bundleID": "UltimateRobotFighting_1.5.101_FreezeMoney_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "UltimateRobotFighting_1.5.101_FreezeMoney_@thisismanpreets_apptesters.org",
             "version": "1.5.101",
@@ -4524,6 +4825,7 @@
         },
         {
             "name": "PDFExpert",
+            "realBundleID": "com.readdle.PDFExpert5",
             "bundleID": "PDFExpert_7.11.3_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PDFExpert_7.11.3_Premium_@thisismanpreets_apptesters.org",
             "version": "7.11.3",
@@ -4539,6 +4841,7 @@
         },
         {
             "name": "JohnnyTrigger",
+            "realBundleID": "com.time.trigger",
             "bundleID": "JohnnyTrigger_Mods_1.12.24_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "JohnnyTrigger_Mods_1.12.24_@thisismanpreets_apptesters.org",
             "version": "Mods",
@@ -4554,6 +4857,7 @@
         },
         {
             "name": "Cafeland",
+            "realBundleID": "com.gamegos.mobile.cafeland",
             "bundleID": "Cafeland_2.3.10_iGameGod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Cafeland_2.3.10_iGameGod_@thisismanpreets_apptesters.org",
             "version": "2.3.10",
@@ -4569,6 +4873,7 @@
         },
         {
             "name": "ParkingMaster",
+            "realBundleID": "com.SpektraGames.ParkingMasterMultiplayerCarGame",
             "bundleID": "ParkingMaster_1.7.7_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ParkingMaster_1.7.7_Satella_@thisismanpreets_apptesters.org",
             "version": "1.7.7",
@@ -4584,6 +4889,7 @@
         },
         {
             "name": "DesertSurvival",
+            "realBundleID": "desert.raft.survival.simulator",
             "bundleID": "DesertSurvival_0.33.4_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DesertSurvival_0.33.4_Mods_@thisismanpreets_apptesters.org",
             "version": "0.33.4",
@@ -4599,6 +4905,7 @@
         },
         {
             "name": "Zooba-ZooBattleRoyale",
+            "realBundleID": "com.fungames.battleroyale",
             "bundleID": "Zooba-ZooBattleRoyale_4.13.0_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Zooba-ZooBattleRoyale_4.13.0_Mods_@thisismanpreets_apptesters.org",
             "version": "4.13.0",
@@ -4614,6 +4921,7 @@
         },
         {
             "name": "1v1LOL",
+            "realBundleID": "lol.onevone",
             "bundleID": "1v1LOL_4.41_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "1v1LOL_4.41_Mods_@thisismanpreets_apptesters.org",
             "version": "4.41",
@@ -4629,6 +4937,7 @@
         },
         {
             "name": "Screens-RemoteDesktop",
+            "realBundleID": "com.edovia.screens.3.ios",
             "bundleID": "Screens-RemoteDesktop_4.12.12_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Screens-RemoteDesktop_4.12.12_Satella_@thisismanpreets_apptesters.org",
             "version": "4.12.12",
@@ -4644,6 +4953,7 @@
         },
         {
             "name": "MarvisPro",
+            "realBundleID": "com.adityarajveer.Marvis",
             "bundleID": "MarvisPro_9.0.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MarvisPro_9.0.1_@thisismanpreets_apptesters.org",
             "version": "9.0.1",
@@ -4659,6 +4969,7 @@
         },
         {
             "name": "SonicDash+",
+            "realBundleID": "com.sega.sonicdashplus",
             "bundleID": "SonicDash+_2.4.0_iGameGod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SonicDash+_2.4.0_iGameGod_@thisismanpreets_apptesters.org",
             "version": "2.4.0",
@@ -4674,6 +4985,7 @@
         },
         {
             "name": "CrossyRoad",
+            "realBundleID": "com.hipsterwhale.crossy",
             "bundleID": "CrossyRoad_5.2.1_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CrossyRoad_5.2.1_Satella_@thisismanpreets_apptesters.org",
             "version": "5.2.1",
@@ -4689,6 +5001,7 @@
         },
         {
             "name": "CarXRally",
+            "realBundleID": "com.carxtech.rally",
             "bundleID": "CarXRally_21101_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CarXRally_21101_Satella_@thisismanpreets_apptesters.org",
             "version": "21101",
@@ -4704,6 +5017,7 @@
         },
         {
             "name": "WallPaperCentral",
+            "realBundleID": "com.ispazio.Wallpapers-Central",
             "bundleID": "WallPaperCentral_1.5.5_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WallPaperCentral_1.5.5_Premium_@thisismanpreets_apptesters.org",
             "version": "1.5.5",
@@ -4719,6 +5033,7 @@
         },
         {
             "name": "Picsart",
+            "realBundleID": "com.picsart.studio",
             "bundleID": "Picsart_22.4.4_Gold_@zxcvbn_apptesters.org",
             "bundleIdentifier": "Picsart_22.4.4_Gold_@zxcvbn_apptesters.org",
             "version": "22.4.4",
@@ -4734,6 +5049,7 @@
         },
         {
             "name": "FoundIt",
+            "realBundleID": "games.urmobi.found.it",
             "bundleID": "FoundIt_1.7.406_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FoundIt_1.7.406_Satella_@thisismanpreets_apptesters.org",
             "version": "1.7.406",
@@ -4749,6 +5065,7 @@
         },
         {
             "name": "KingdomRush",
+            "realBundleID": "com.armorgames.kingdomrushiphone",
             "bundleID": "KingdomRush_5.8.08_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "KingdomRush_5.8.08_Satella_@thisismanpreets_apptesters.org",
             "version": "5.8.08",
@@ -4764,6 +5081,7 @@
         },
         {
             "name": "EarthquakeAlerts",
+            "realBundleID": "org.tranquilli.Earthquake",
             "bundleID": "EarthquakeAlerts_4.6.8_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "EarthquakeAlerts_4.6.8_Satella_@thisismanpreets_apptesters.org",
             "version": "4.6.8",
@@ -4779,6 +5097,7 @@
         },
         {
             "name": "NodeVideo",
+            "realBundleID": "com.shallwaystudio.nodevideo",
             "bundleID": "NodeVideo_6.2.0_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "NodeVideo_6.2.0_Satella_@thisismanpreets_apptesters.org",
             "version": "6.2.0",
@@ -4794,6 +5113,7 @@
         },
         {
             "name": "PSExpress",
+            "realBundleID": "com.adobe.PSMobile",
             "bundleID": "PSExpress_22.30.0_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PSExpress_22.30.0_Premium_@thisismanpreets_apptesters.org",
             "version": "22.30.0",
@@ -4809,6 +5129,7 @@
         },
         {
             "name": "SoulKnight",
+            "realBundleID": "com.ChillyRoom.DungeonShooter",
             "bundleID": "SoulKnight_5.2.2_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SoulKnight_5.2.2_Mods_@thisismanpreets_apptesters.org",
             "version": "5.2.2",
@@ -4824,6 +5145,7 @@
         },
         {
             "name": "TomTimeRush",
+            "realBundleID": "com.outfit7.talkingtomtimerush",
             "bundleID": "TomTimeRush_1.0.42_SpeedHack_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TomTimeRush_1.0.42_SpeedHack_@thisismanpreets_apptesters.org",
             "version": "1.0.42",
@@ -4839,6 +5161,7 @@
         },
         {
             "name": "CookingDiary",
+            "realBundleID": "com.mytonallc.cookingdiary",
             "bundleID": "CookingDiary_2.14.2_UnlimitedCurrency_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CookingDiary_2.14.2_UnlimitedCurrency_@thisismanpreets_apptesters.org",
             "version": "2.14.2",
@@ -4854,6 +5177,7 @@
         },
         {
             "name": "MrAutofire",
+            "realBundleID": "games.lightheart.mrautofire",
             "bundleID": "MrAutofire_2.5.2_FreeStore_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MrAutofire_2.5.2_FreeStore_@thisismanpreets_apptesters.org",
             "version": "2.5.2",
@@ -4869,6 +5193,7 @@
         },
         {
             "name": "PixelCombat",
+            "realBundleID": "com.gsgames.pixel.combat",
             "bundleID": "PixelCombat_3.9.6_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PixelCombat_3.9.6_Mods_@thisismanpreets_apptesters.org",
             "version": "3.9.6",
@@ -4884,6 +5209,7 @@
         },
         {
             "name": "RaceMaster",
+            "realBundleID": "com.easygames.race",
             "bundleID": "RaceMaster_3.6.1_UnlimitedCurrency_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RaceMaster_3.6.1_UnlimitedCurrency_@thisismanpreets_apptesters.org",
             "version": "3.6.1",
@@ -4899,6 +5225,7 @@
         },
         {
             "name": "Facebook",
+            "realBundleID": "com.facebook.Facebook",
             "bundleID": "Facebook_417.0_Wolf_2.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Facebook_417.0_Wolf_2.1_@asdfzxcvbn0_apptesters.org",
             "version": "417.0",
@@ -4914,6 +5241,7 @@
         },
         {
             "name": "WABusiness",
+            "realBundleID": "net.whatsapp.WhatsAppSMB",
             "bundleID": "WABusiness_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WABusiness_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "version": "23.10.77",
@@ -4929,6 +5257,7 @@
         },
         {
             "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
             "bundleID": "WhatsApp_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WhatsApp_23.10.77_Watusi_1.1.61_Stalky_4.1.21_OnlineNotify_3.4.3_@thisismanpreets_apptesters.org",
             "version": "23.10.77",
@@ -4944,6 +5273,7 @@
         },
         {
             "name": "AlightMotion",
+            "realBundleID": "com.alightcreative.motion",
             "bundleID": "AlightMotion_5.0.1_Premium_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "AlightMotion_5.0.1_Premium_@asdfzxcvbn0_apptesters.org",
             "version": "5.0.1",
@@ -4959,6 +5289,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_29.7.0_Dark_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "TikTok_29.7.0_Dark_@asdfzxcvbn0_apptesters.org",
             "version": "29.7.0",
@@ -4974,6 +5305,7 @@
         },
         {
             "name": "Twitch",
+            "realBundleID": "tv.twitch",
             "bundleID": "Twitch_15.3_AdBlock_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Twitch_15.3_AdBlock_@asdfzxcvbn0_apptesters.org",
             "version": "15.3",
@@ -4989,6 +5321,7 @@
         },
         {
             "name": "T3Arena",
+            "realBundleID": "com.xd.t3.global",
             "bundleID": "T3Arena_1.35_ESPMods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "T3Arena_1.35_ESPMods_@thisismanpreets_apptesters.org",
             "version": "1.35",
@@ -5004,6 +5337,7 @@
         },
         {
             "name": "Monopoly",
+            "realBundleID": "com.marmalade.monopoly",
             "bundleID": "Monopoly_1.9.0_EverythingUnlocked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Monopoly_1.9.0_EverythingUnlocked_@thisismanpreets_apptesters.org",
             "version": "1.9.0",
@@ -5019,6 +5353,7 @@
         },
         {
             "name": "Repost+",
+            "realBundleID": "com.livintis.repostplusapp",
             "bundleID": "Repost+_15.08_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Repost+_15.08_Premium_@thisismanpreets_apptesters.org",
             "version": "15.08",
@@ -5034,6 +5369,7 @@
         },
         {
             "name": "TowerWar",
+            "realBundleID": "games.vaveda.militaryoverturn",
             "bundleID": "TowerWar_1.17.3_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TowerWar_1.17.3_Mods_@thisismanpreets_apptesters.org",
             "version": "1.17.3",
@@ -5049,6 +5385,7 @@
         },
         {
             "name": "CelebrityVoiceChanger",
+            "realBundleID": "celebrity.voice.changer.best.voice.fx.funny.effects.soundboard.free",
             "bundleID": "CelebrityVoiceChanger_2.0.21_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CelebrityVoiceChanger_2.0.21_@thisismanpreets_apptesters.org",
             "version": "2.0.21",
@@ -5064,6 +5401,7 @@
         },
         {
             "name": "BladesofBRIM",
+            "realBundleID": "com.sybogames.brim",
             "bundleID": "BladesofBRIM_2.19.60_Gold_Essence_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BladesofBRIM_2.19.60_Gold_Essence_@thisismanpreets_apptesters.org",
             "version": "2.19.60",
@@ -5079,6 +5417,7 @@
         },
         {
             "name": "monotasker",
+            "realBundleID": "com.jenniferbush.OneThing",
             "bundleID": "monotasker_1.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "monotasker_1.2_@thisismanpreets_apptesters.org",
             "version": "1.2",
@@ -5094,6 +5433,7 @@
         },
         {
             "name": "TastingVaultWineTracker",
+            "realBundleID": "com.jenniferbush.Tasting-Vault",
             "bundleID": "TastingVaultWineTracker_1.2.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TastingVaultWineTracker_1.2.3_@thisismanpreets_apptesters.org",
             "version": "1.2.3",
@@ -5109,6 +5449,7 @@
         },
         {
             "name": "FILCASLRFilmCamera",
+            "realBundleID": "com.romocam",
             "bundleID": "FILCASLRFilmCamera_2.47_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FILCASLRFilmCamera_2.47_@thisismanpreets_apptesters.org",
             "version": "2.47",
@@ -5124,6 +5465,7 @@
         },
         {
             "name": "NumberShield",
+            "realBundleID": "com.AlanKinnaman.Number-Shield",
             "bundleID": "NumberShield_3.1.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "NumberShield_3.1.1_@thisismanpreets_apptesters.org",
             "version": "3.1.1",
@@ -5139,6 +5481,7 @@
         },
         {
             "name": "PewDiePiesPixelingsIdleRPG",
+            "realBundleID": "com.outerminds.pixelings",
             "bundleID": "PewDiePiesPixelingsIdleRPG_1.41.0_VIPUnlocked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PewDiePiesPixelingsIdleRPG_1.41.0_VIPUnlocked_@thisismanpreets_apptesters.org",
             "version": "1.41.0",
@@ -5154,6 +5497,7 @@
         },
         {
             "name": "LegendofPandonia",
+            "realBundleID": "com.pando.dy.legendpando",
             "bundleID": "LegendofPandonia_1.5.302_AutoWin_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "LegendofPandonia_1.5.302_AutoWin_@thisismanpreets_apptesters.org",
             "version": "1.5.302",
@@ -5169,6 +5513,7 @@
         },
         {
             "name": "CoverFire",
+            "realBundleID": "com.generagames.resistance",
             "bundleID": "CoverFire_1.23.31_UnlimitedEverything_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CoverFire_1.23.31_UnlimitedEverything_@thisismanpreets_apptesters.org",
             "version": "1.23.31",
@@ -5184,6 +5529,7 @@
         },
         {
             "name": "FiLMiCPro",
+            "realBundleID": "com.cinegenix.filmic.pro",
             "bundleID": "FiLMiCPro_6.19.5_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FiLMiCPro_6.19.5_Pro_@thisismanpreets_apptesters.org",
             "version": "6.19.5",
@@ -5199,6 +5545,7 @@
         },
         {
             "name": "DeadAhead-ZombieWarfare",
+            "realBundleID": "com.mobirate.DeadAheadTactics",
             "bundleID": "DeadAhead-ZombieWarfare_8.0_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DeadAhead-ZombieWarfare_8.0_Mods_@thisismanpreets_apptesters.org",
             "version": "8.0",
@@ -5214,6 +5561,7 @@
         },
         {
             "name": "WpsOffice",
+            "realBundleID": "com.kingsoft.office.g.wpsoffice",
             "bundleID": "WpsOffice_11.33.0_VIPUnlocked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WpsOffice_11.33.0_VIPUnlocked_@thisismanpreets_apptesters.org",
             "version": "11.33.0",
@@ -5229,6 +5577,7 @@
         },
         {
             "name": "Townscaper",
+            "realBundleID": "com.rawfury.townscaper",
             "bundleID": "Townscaper_1.03_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Townscaper_1.03_@thisismanpreets_apptesters.org",
             "version": "1.03",
@@ -5244,6 +5593,7 @@
         },
         {
             "name": "InstantSave+",
+            "realBundleID": "com.swami.fastrepost",
             "bundleID": "InstantSave+_3.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "InstantSave+_3.2_@thisismanpreets_apptesters.org",
             "version": "3.2",
@@ -5259,6 +5609,7 @@
         },
         {
             "name": "AirDiskPro",
+            "realBundleID": "com.app2pro.AirDisk",
             "bundleID": "AirDiskPro_7.7.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AirDiskPro_7.7.0_@thisismanpreets_apptesters.org",
             "version": "7.7.0",
@@ -5274,6 +5625,7 @@
         },
         {
             "name": "BlockCityWars",
+            "realBundleID": "qwe.qwe.sdd",
             "bundleID": "BlockCityWars_7.2.2_Mods@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BlockCityWars_7.2.2_Mods@thisismanpreets_apptesters.org",
             "version": "7.2.2",
@@ -5289,6 +5641,7 @@
         },
         {
             "name": "DeadTrigger2",
+            "realBundleID": "com.madfingergames.deadtrigger2",
             "bundleID": "DeadTrigger2_1.8.25_Mods@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DeadTrigger2_1.8.25_Mods@thisismanpreets_apptesters.org",
             "version": "1.8.25",
@@ -5304,6 +5657,7 @@
         },
         {
             "name": "BeautyPlus",
+            "realBundleID": "com.commsource.BeautyPlus",
             "bundleID": "BeautyPlus_7.6.021_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BeautyPlus_7.6.021_Premium_@thisismanpreets_apptesters.org",
             "version": "7.6.021",
@@ -5319,6 +5673,7 @@
         },
         {
             "name": "TheEscapists",
+            "realBundleID": "com.team17.escapists",
             "bundleID": "TheEscapists_1.1.8_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TheEscapists_1.1.8_@thisismanpreets_apptesters.org",
             "version": "1.1.8",
@@ -5334,6 +5689,7 @@
         },
         {
             "name": "Forager",
+            "realBundleID": "com.humblebundle.Forager",
             "bundleID": "Forager_1.0.5_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Forager_1.0.5_@thisismanpreets_apptesters.org",
             "version": "1.0.5",
@@ -5349,6 +5705,7 @@
         },
         {
             "name": "MadSkillsMX",
+            "realBundleID": "com.turborilla.MadSkillsMotocross2",
             "bundleID": "MadSkillsMX_2.35.4544_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MadSkillsMX_2.35.4544_@thisismanpreets_apptesters.org",
             "version": "2.35.4544",
@@ -5364,6 +5721,7 @@
         },
         {
             "name": "Wordscapes",
+            "realBundleID": "com.peoplefun.wordcross",
             "bundleID": "Wordscapes_2.5.0_InfinityCoins_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Wordscapes_2.5.0_InfinityCoins_@thisismanpreets_apptesters.org",
             "version": "2.5.0",
@@ -5379,6 +5737,7 @@
         },
         {
             "name": "JurassicDinosaur",
+            "realBundleID": "com.sparklingsocietytycoon.jurassicdinosaurprehistoricpark",
             "bundleID": "JurassicDinosaur_1.0.0_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "JurassicDinosaur_1.0.0_UnlimitedCurrencies_@thisismanpreets_apptesters.org",
             "version": "1.0.0",
@@ -5394,6 +5753,7 @@
         },
         {
             "name": "LegendOfAce",
+            "realBundleID": "com.funcube.loa",
             "bundleID": "LegendOfAce_1.67.0_MapHack_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "LegendOfAce_1.67.0_MapHack_@thisismanpreets_apptesters.org",
             "version": "1.67.0",
@@ -5409,6 +5769,7 @@
         },
         {
             "name": "Twitter",
+            "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "Twitter_9.60_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Twitter_9.60_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "version": "9.60",
@@ -5424,6 +5785,7 @@
         },
         {
             "name": "Shadowrocket",
+            "realBundleID": "com.liguangming.Shadowrocket",
             "bundleID": "Shadowrocket_2.2.31_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Shadowrocket_2.2.31_@asdfzxcvbn0_apptesters.org",
             "version": "2.2.31",
@@ -5439,6 +5801,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_285.0_Rocket_3.8.8_Plus_2.50_@zxcvbn_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instagram_285.0_Rocket_3.8.8_Plus_2.50_@zxcvbn_@thisismanpreets_apptesters.org",
             "version": "285.0",
@@ -5454,6 +5817,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_285.0_Rocket_3.8.8_@zxcvbn_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instagram_285.0_Rocket_3.8.8_@zxcvbn_@thisismanpreets_apptesters.org",
             "version": "285.0",
@@ -5469,6 +5833,7 @@
         },
         {
             "name": "Infuse",
+            "realBundleID": "com.firecore.infuse",
             "bundleID": "Infuse_7.5.5_Pro_@zxcvbn_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Infuse_7.5.5_Pro_@zxcvbn_@thisismanpreets_apptesters.org",
             "version": "7.5.5",
@@ -5484,6 +5849,7 @@
         },
         {
             "name": "Facebook",
+            "realBundleID": "com.facebook.Facebook",
             "bundleID": "Facebook_416.0_Wolf_2.1_@zxcvbn_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Facebook_416.0_Wolf_2.1_@zxcvbn_@thisismanpreets_apptesters.org",
             "version": "416.0",
@@ -5499,6 +5865,7 @@
         },
         {
             "name": "YouTubeMusic",
+            "realBundleID": "com.google.ios.youtubemusic",
             "bundleID": "YouTubeMusic_6.04_YTMusicUltimate_1.4.1_@zxcvbn_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "YouTubeMusic_6.04_YTMusicUltimate_1.4.1_@zxcvbn_@thisismanpreets_apptesters.org",
             "version": "6.04",
@@ -5514,6 +5881,7 @@
         },
         {
             "name": "MegaIPTV",
+            "realBundleID": "com.MarcoLopes98.MegaIPTV",
             "bundleID": "MegaIPTV_1.9.8_Hacked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MegaIPTV_1.9.8_Hacked_@thisismanpreets_apptesters.org",
             "version": "1.9.8",
@@ -5529,6 +5897,7 @@
         },
         {
             "name": "TrafficRider",
+            "realBundleID": "com.skgames.motor",
             "bundleID": "TrafficRider_1.94_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TrafficRider_1.94_Mods_@thisismanpreets_apptesters.org",
             "version": "1.94",
@@ -5544,6 +5913,7 @@
         },
         {
             "name": "Inkwork",
+            "realBundleID": "com.codeorgana.inkwork",
             "bundleID": "Inkwork_1.4.4_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Inkwork_1.4.4_@thisismanpreets_apptesters.org",
             "version": "1.4.4",
@@ -5559,6 +5929,7 @@
         },
         {
             "name": "Streamer",
+            "realBundleID": "com.streamer.ios",
             "bundleID": "Streamer_1.2.17_NoAds_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Streamer_1.2.17_NoAds_@thisismanpreets_apptesters.org",
             "version": "1.2.17",
@@ -5574,6 +5945,7 @@
         },
         {
             "name": "BlackHole",
+            "realBundleID": "com.shadow.blackhole1157.ios",
             "bundleID": "BlackHole_1.15.6_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BlackHole_1.15.6_@thisismanpreets_apptesters.org",
             "version": "1.15.6",
@@ -5589,6 +5961,7 @@
         },
         {
             "name": "Spotify",
+            "realBundleID": "com.spotify.client",
             "bundleID": "Spotify_8.5.60_Working_Spotilife_1.8_and_Sposify_8.5.52_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Spotify_8.5.60_Working_Spotilife_1.8_and_Sposify_8.5.52_@asdfzxcvbn0_apptesters.org",
             "version": "8.5.60",
@@ -5604,6 +5977,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_29.6.0_Dark_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "TikTok_29.6.0_Dark_@asdfzxcvbn0_apptesters.org",
             "version": "29.6.0",
@@ -5619,6 +5993,7 @@
         },
         {
             "name": "CARROTWeather",
+            "realBundleID": "com.grailr.CARROTweather",
             "bundleID": "CARROTWeather_5.11.2_Ultra_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "CARROTWeather_5.11.2_Ultra_@asdfzxcvbn0_apptesters.org",
             "version": "5.11.2",
@@ -5634,6 +6009,7 @@
         },
         {
             "name": "Shadowrocket",
+            "realBundleID": "com.liguangming.Shadowrocket",
             "bundleID": "Shadowrocket_2.2.30_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Shadowrocket_2.2.30_@asdfzxcvbn0_apptesters.org",
             "version": "2.2.30",
@@ -5649,6 +6025,7 @@
         },
         {
             "name": "Picsart",
+            "realBundleID": "com.picsart.studio",
             "bundleID": "Picsart_22.3.5_Gold_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Picsart_22.3.5_Gold_@asdfzxcvbn0_apptesters.org",
             "version": "22.3.5",
@@ -5664,6 +6041,7 @@
         },
         {
             "name": "Nicegram",
+            "realBundleID": "app.nicegram",
             "bundleID": "Nicegram_1.3.1_Premium_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Nicegram_1.3.1_Premium_@asdfzxcvbn0_apptesters.org",
             "version": "1.3.1",
@@ -5679,6 +6057,7 @@
         },
         {
             "name": "Canary",
+            "realBundleID": "Mailroom.Canary-iOS",
             "bundleID": "Canary_4.0_Pro_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Canary_4.0_Pro_@asdfzxcvbn0_apptesters.org",
             "version": "4.0",
@@ -5694,6 +6073,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_284.0_Rocket_3.8.8_Plus_2.50_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_284.0_Rocket_3.8.8_Plus_2.50_@asdfzxcvbn0_apptesters.org",
             "version": "284.0",
@@ -5709,6 +6089,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_284.0_Rocket_3.8.8_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_284.0_Rocket_3.8.8_@asdfzxcvbn0_apptesters.org",
             "version": "284.0",
@@ -5724,6 +6105,7 @@
         },
         {
             "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "TikTok_29.6.0_LRD_2.8_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TikTok_29.6.0_LRD_2.8_@thisismanpreets_apptesters.org",
             "version": "29.6.0",
@@ -5739,6 +6121,7 @@
         },
         {
             "name": "Twitter",
+            "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "Twitter_9.59_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Twitter_9.59_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "version": "9.59",
@@ -5754,6 +6137,7 @@
         },
         {
             "name": "zTranslate",
+            "realBundleID": "asia.zsoft.ztranslate1",
             "bundleID": "zTranslate_1.0.12_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "zTranslate_1.0.12_Premium_@thisismanpreets_apptesters.org",
             "version": "1.0.12",
@@ -5769,6 +6153,7 @@
         },
         {
             "name": "VivaCut",
+            "realBundleID": "com.vivacut.videoeditor",
             "bundleID": "VivaCut_3.2.4_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VivaCut_3.2.4_Pro_@thisismanpreets_apptesters.org",
             "version": "3.2.4",
@@ -5784,6 +6169,7 @@
         },
         {
             "name": "Djay",
+            "realBundleID": "com.algoriddim.djay-iphone-free",
             "bundleID": "Djay_4.1.7_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Djay_4.1.7_Pro_@thisismanpreets_apptesters.org",
             "version": "4.1.7",
@@ -5799,6 +6185,7 @@
         },
         {
             "name": "AlookBrowser",
+            "realBundleID": "com.ld.TakeBrowser",
             "bundleID": "AlookBrowser_17.7_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AlookBrowser_17.7_@thisismanpreets_apptesters.org",
             "version": "17.7",
@@ -5814,6 +6201,7 @@
         },
         {
             "name": "AlightMotion",
+            "realBundleID": "com.alightcreative.motion",
             "bundleID": "AlightMotion_4.5.12_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AlightMotion_4.5.12_Premium_@thisismanpreets_apptesters.org",
             "version": "4.5.12",
@@ -5829,6 +6217,7 @@
         },
         {
             "name": "BoosterUp.",
+            "realBundleID": "com.msalihkocak.boosterup",
             "bundleID": "BoosterUp._1.0.7_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BoosterUp._1.0.7_Mods_@thisismanpreets_apptesters.org",
             "version": "1.0.7",
@@ -5844,6 +6233,7 @@
         },
         {
             "name": "Flightradar24",
+            "realBundleID": "se.resenatverket.FlightRadar24-Free",
             "bundleID": "Flightradar24_9.5.0_Gold_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Flightradar24_9.5.0_Gold_@thisismanpreets_apptesters.org",
             "version": "9.5.0",
@@ -5859,6 +6249,7 @@
         },
         {
             "name": "Photomath",
+            "realBundleID": "com.microblink.PhotoMath",
             "bundleID": "Photomath_8.24.0_Plus_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Photomath_8.24.0_Plus_@asdfzxcvbn0_apptesters.org",
             "version": "8.24.0",
@@ -5874,6 +6265,7 @@
         },
         {
             "name": "Videoleap++",
+            "realBundleID": "com.lightricks.Enlight-Video",
             "bundleID": "Videoleap++_1.24.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Videoleap++_1.24.2_@thisismanpreets_apptesters.org",
             "version": "1.24.2",
@@ -5889,6 +6281,7 @@
         },
         {
             "name": "Survivor.io",
+            "realBundleID": "com.dxx.firenow",
             "bundleID": "Survivor.io_1.13.1_Hacked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Survivor.io_1.13.1_Hacked_@thisismanpreets_apptesters.org",
             "version": "1.13.1",
@@ -5904,6 +6297,7 @@
         },
         {
             "name": "ACDseePro",
+            "realBundleID": "com.acmi.acdsee-pro",
             "bundleID": "ACDseePro_4.5.4_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ACDseePro_4.5.4_@thisismanpreets_apptesters.org",
             "version": "4.5.4",
@@ -5919,6 +6313,7 @@
         },
         {
             "name": "PocketCity2",
+            "realBundleID": "com.codebrewgames.pocketcity2",
             "bundleID": "PocketCity2_1.023_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PocketCity2_1.023_@thisismanpreets_apptesters.org",
             "version": "1.023",
@@ -5934,6 +6329,7 @@
         },
         {
             "name": "iAWriter",
+            "realBundleID": "pro.writer",
             "bundleID": "iAWriter_6.0.10_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "iAWriter_6.0.10_@thisismanpreets_apptesters.org",
             "version": "6.0.10",
@@ -5949,6 +6345,7 @@
         },
         {
             "name": "ThumbnailMaker",
+            "realBundleID": "com.contentarcade.ThumbnailMaker",
             "bundleID": "ThumbnailMaker_11.1_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ThumbnailMaker_11.1_Premium_@thisismanpreets_apptesters.org",
             "version": "11.1",
@@ -5964,6 +6361,7 @@
         },
         {
             "name": "iTranslate",
+            "realBundleID": "com.outerspaceapps.itranslate",
             "bundleID": "iTranslate_15.1.4_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "iTranslate_15.1.4_Pro_@thisismanpreets_apptesters.org",
             "version": "15.1.4",
@@ -5979,6 +6377,7 @@
         },
         {
             "name": "CounterAttack",
+            "realBundleID": "com.mgrigorov.3dShooter",
             "bundleID": "CounterAttack_1.2.85_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CounterAttack_1.2.85_Mods_@thisismanpreets_apptesters.org",
             "version": "1.2.85",
@@ -5994,6 +6393,7 @@
         },
         {
             "name": "CARROTWeather",
+            "realBundleID": "com.grailr.CARROTweather",
             "bundleID": "CARROTWeather_5.11.1_Ultra_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "CARROTWeather_5.11.1_Ultra_@asdfzxcvbn0_apptesters.org",
             "version": "5.11.1",
@@ -6009,6 +6409,7 @@
         },
         {
             "name": "SuperVPN",
+            "realBundleID": "mobi.mobilejump.freevpn",
             "bundleID": "SuperVPN_1.9.6_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "SuperVPN_1.9.6_Premium_@thisismanpreets_apptesters.org",
             "version": "1.9.6",
@@ -6024,6 +6425,7 @@
         },
         {
             "name": "Roblox",
+            "realBundleID": "com.roblox.robloxmobile",
             "bundleID": "Roblox_2.575.425_ScriptExecutor_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Roblox_2.575.425_ScriptExecutor_@thisismanpreets_apptesters.org",
             "version": "2.575.425",
@@ -6039,6 +6441,7 @@
         },
         {
             "name": "NomadSculpt",
+            "realBundleID": "com.stephaneginier.Nomad",
             "bundleID": "NomadSculpt_1.76_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "NomadSculpt_1.76_@thisismanpreets_apptesters.org",
             "version": "1.76",
@@ -6054,6 +6457,7 @@
         },
         {
             "name": "AlightMotion",
+            "realBundleID": "com.alightcreative.motion",
             "bundleID": "AlightMotion_4.5.12_Premium_@zxcvbn_apptesters.org",
             "bundleIdentifier": "AlightMotion_4.5.12_Premium_@zxcvbn_apptesters.org",
             "version": "4.5.12",
@@ -6069,6 +6473,7 @@
         },
         {
             "name": "DeviceMonitor2",
+            "realBundleID": "org.fastdevsproject.altervista.Device-Monitor",
             "bundleID": "DeviceMonitor2_7.2.0_Satella_@zxcvbn_apptesters.org",
             "bundleIdentifier": "DeviceMonitor2_7.2.0_Satella_@zxcvbn_apptesters.org",
             "version": "7.2.0",
@@ -6084,6 +6489,7 @@
         },
         {
             "name": "DragonBallLegendsVIP",
+            "realBundleID": "jp.co.bandainamcoent.BNEI0334",
             "bundleID": "DragonBallLegendsVIP_4.20.0_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DragonBallLegendsVIP_4.20.0_Mods_@thisismanpreets_apptesters.org",
             "version": "4.20.0",
@@ -6099,6 +6505,7 @@
         },
         {
             "name": "MatchingtonMansion",
+            "realBundleID": "com.matchington.mansion",
             "bundleID": "MatchingtonMansion_1.135.0_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MatchingtonMansion_1.135.0_Mods_@thisismanpreets_apptesters.org",
             "version": "1.135.0",
@@ -6114,6 +6521,7 @@
         },
         {
             "name": "RealSteelWRB",
+            "realBundleID": "com.jumpgames.rswrb",
             "bundleID": "RealSteelWRB_76.76.113_UnlimitedCurrency_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "RealSteelWRB_76.76.113_UnlimitedCurrency_@thisismanpreets_apptesters.org",
             "version": "76.76.113",
@@ -6129,6 +6537,7 @@
         },
         {
             "name": "Mahjong",
+            "realBundleID": "com.kristanix.arcade.mahjongtitan",
             "bundleID": "Mahjong_2.6.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Mahjong_2.6.2_@thisismanpreets_apptesters.org",
             "version": "2.6.2",
@@ -6144,6 +6553,7 @@
         },
         {
             "name": "Octodad",
+            "realBundleID": "com.younghorses.octodadplus",
             "bundleID": "Octodad_1.0.35_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Octodad_1.0.35_@thisismanpreets_apptesters.org",
             "version": "1.0.35",
@@ -6159,6 +6569,7 @@
         },
         {
             "name": "AnimeFilter",
+            "realBundleID": "com.tapuniverse.animefilter",
             "bundleID": "AnimeFilter_v2.0.6_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AnimeFilter_v2.0.6_@thisismanpreets_apptesters.org",
             "version": "v2.0.6",
@@ -6174,6 +6585,7 @@
         },
         {
             "name": "OldMan",
+            "realBundleID": "es.brokenrul.oldmansjourney.plus",
             "bundleID": "OldMan_1.18_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "OldMan_1.18_@thisismanpreets_apptesters.org",
             "version": "1.18",
@@ -6189,6 +6601,7 @@
         },
         {
             "name": "Nicegram",
+            "realBundleID": "app.nicegram",
             "bundleID": "Nicegram_1.2.9_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Nicegram_1.2.9_Premium_@thisismanpreets_apptesters.org",
             "version": "1.2.9",
@@ -6204,6 +6617,7 @@
         },
         {
             "name": "HumanFallFlat",
+            "realBundleID": "com.games505.Humanfallflatarcade",
             "bundleID": "HumanFallFlat_1.12_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "HumanFallFlat_1.12_@thisismanpreets_apptesters.org",
             "version": "1.12",
@@ -6219,6 +6633,7 @@
         },
         {
             "name": "PhotoRetouch",
+            "realBundleID": "com.biggerlens.photoretouch",
             "bundleID": "PhotoRetouch_3.8_Premium_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PhotoRetouch_3.8_Premium_@thisismanpreets_apptesters.org",
             "version": "3.8",
@@ -6234,6 +6649,7 @@
         },
         {
             "name": "StepsApp",
+            "realBundleID": "com.gunthermarktl.stepapp",
             "bundleID": "StepsApp_6.7.10_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "StepsApp_6.7.10_Pro_@thisismanpreets_apptesters.org",
             "version": "6.7.10",
@@ -6249,6 +6665,7 @@
         },
         {
             "name": "KMPlayer+",
+            "realBundleID": "com.kmplayer.d",
             "bundleID": "KMPlayer+_32.02.210_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "KMPlayer+_32.02.210_@thisismanpreets_apptesters.org",
             "version": "32.02.210",
@@ -6264,6 +6681,7 @@
         },
         {
             "name": "VNEditor",
+            "realBundleID": "com.frontrow.vlog",
             "bundleID": "VNEditor_1.65.1_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VNEditor_1.65.1_Pro_@thisismanpreets_apptesters.org",
             "version": "1.65.1",
@@ -6279,6 +6697,7 @@
         },
         {
             "name": "MyBowling3D",
+            "realBundleID": "asg.iwaredesigns.bowling3d",
             "bundleID": "MyBowling3D_1.35_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MyBowling3D_1.35_@thisismanpreets_apptesters.org",
             "version": "1.35",
@@ -6294,6 +6713,7 @@
         },
         {
             "name": "IronMarines",
+            "realBundleID": "com.ironhidegames.ironmarines.universal.premium",
             "bundleID": "IronMarines_1.0.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "IronMarines_1.0.1_@thisismanpreets_apptesters.org",
             "version": "1.0.1",
@@ -6309,6 +6729,7 @@
         },
         {
             "name": "LIMBO",
+            "realBundleID": "com.playdeadgames.limbo.arcade",
             "bundleID": "LIMBO_1.0.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "LIMBO_1.0.1_@thisismanpreets_apptesters.org",
             "version": "1.0.1",
@@ -6324,6 +6745,7 @@
         },
         {
             "name": "Twitch",
+            "realBundleID": "tv.twitch",
             "bundleID": "Twitch_15.2.1_Adblock_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Twitch_15.2.1_Adblock_@asdfzxcvbn0_apptesters.org",
             "version": "15.2.1",
@@ -6339,6 +6761,7 @@
         },
         {
             "name": "Picsart",
+            "realBundleID": "com.picsart.studio",
             "bundleID": "Picsart_22.3.3_Gold_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Picsart_22.3.3_Gold_@asdfzxcvbn0_apptesters.org",
             "version": "22.3.3",
@@ -6354,6 +6777,7 @@
         },
         {
             "name": "YouTube",
+            "realBundleID": "com.google.ios.youtube",
             "bundleID": "YouTube_18.19.1_uYouPlus_3.0_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "YouTube_18.19.1_uYouPlus_3.0_@asdfzxcvbn0_apptesters.org",
             "version": "18.19.1",
@@ -6369,6 +6793,7 @@
         },
         {
             "name": "ExpertGolf-iGolfrules",
+            "realBundleID": "com.iphonewizard.iGolf",
             "bundleID": "ExpertGolf-iGolfrules_9.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ExpertGolf-iGolfrules_9.1_@thisismanpreets_apptesters.org",
             "version": "9.1",
@@ -6384,6 +6809,7 @@
         },
         {
             "name": "CamScanner+",
+            "realBundleID": "com.intsig.CamScanner",
             "bundleID": "CamScanner+_5.26.5_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CamScanner+_5.26.5_@thisismanpreets_apptesters.org",
             "version": "5.26.5",
@@ -6399,6 +6825,7 @@
         },
         {
             "name": "ProcreatePocket",
+            "realBundleID": "au.com.savageinteractive.procreate-pocket",
             "bundleID": "ProcreatePocket_4.0.9_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ProcreatePocket_4.0.9_@thisismanpreets_apptesters.org",
             "version": "4.0.9",
@@ -6414,6 +6841,7 @@
         },
         {
             "name": "GlossWire",
+            "realBundleID": "com.barzze",
             "bundleID": "GlossWire_3.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "GlossWire_3.2_@thisismanpreets_apptesters.org",
             "version": "3.2",
@@ -6429,6 +6857,7 @@
         },
         {
             "name": "BinboxMessenger",
+            "realBundleID": "com.arnexa.binbox",
             "bundleID": "BinboxMessenger_1.2.7_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BinboxMessenger_1.2.7_@thisismanpreets_apptesters.org",
             "version": "1.2.7",
@@ -6444,6 +6873,7 @@
         },
         {
             "name": "AsoScanner",
+            "realBundleID": "limbo.naiso.aisaoma",
             "bundleID": "AsoScanner_1.0.4_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AsoScanner_1.0.4_@thisismanpreets_apptesters.org",
             "version": "1.0.4",
@@ -6459,6 +6889,7 @@
         },
         {
             "name": "CallRecorder",
+            "realBundleID": "com.answersolutions.recordacall.ACallRecorder",
             "bundleID": "CallRecorder_1.6_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CallRecorder_1.6_@thisismanpreets_apptesters.org",
             "version": "1.6",
@@ -6474,6 +6905,7 @@
         },
         {
             "name": "MemoCalcPro",
+            "realBundleID": "com.superdg.MemoCalc",
             "bundleID": "MemoCalcPro_1.0.4_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MemoCalcPro_1.0.4_@thisismanpreets_apptesters.org",
             "version": "1.0.4",
@@ -6489,6 +6921,7 @@
         },
         {
             "name": "InShot",
+            "realBundleID": "com.camerasideas.InstaShot",
             "bundleID": "InShot_1.68.0_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "InShot_1.68.0_Pro_@thisismanpreets_apptesters.org",
             "version": "1.68.0",
@@ -6504,6 +6937,7 @@
         },
         {
             "name": "TileBusters",
+            "realBundleID": "com.spyke.tilebusters",
             "bundleID": "TileBusters_2.13.2_UnlimitedBoost_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TileBusters_2.13.2_UnlimitedBoost_@thisismanpreets_apptesters.org",
             "version": "2.13.2",
@@ -6519,6 +6953,7 @@
         },
         {
             "name": "Zooba",
+            "realBundleID": "com.fungames.battleroyale",
             "bundleID": "Zooba_4.11.0_MapHacks_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Zooba_4.11.0_MapHacks_@thisismanpreets_apptesters.org",
             "version": "4.11.0",
@@ -6534,6 +6969,7 @@
         },
         {
             "name": "GoingBalls",
+            "realBundleID": "com.pronetis.ironballride2",
             "bundleID": "GoingBalls_1.1.76_iGameGod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "GoingBalls_1.1.76_iGameGod_@thisismanpreets_apptesters.org",
             "version": "1.1.76",
@@ -6549,6 +6985,7 @@
         },
         {
             "name": "PocketChess",
+            "realBundleID": "com.dkxqzbfkjt.pocketchess",
             "bundleID": "PocketChess_0.23.3_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PocketChess_0.23.3_Satella_@thisismanpreets_apptesters.org",
             "version": "0.23.3",
@@ -6564,6 +7001,7 @@
         },
         {
             "name": "Mimo",
+            "realBundleID": "com.getmimo.mimo",
             "bundleID": "Mimo_6.0.0_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Mimo_6.0.0_Pro_@thisismanpreets_apptesters.org",
             "version": "6.0.0",
@@ -6579,6 +7017,7 @@
         },
         {
             "name": "Monsters",
+            "realBundleID": "es.socialpoint.MonsterCity",
             "bundleID": "Monsters_15.1_AutoWin_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Monsters_15.1_AutoWin_@thisismanpreets_apptesters.org",
             "version": "15.1",
@@ -6594,6 +7033,7 @@
         },
         {
             "name": "TappedOut",
+            "realBundleID": "com.ea.simpsonssocial.bv2",
             "bundleID": "TappedOut_4.61.5_FreeStore@thisismanpreets_apptesters.org",
             "bundleIdentifier": "TappedOut_4.61.5_FreeStore@thisismanpreets_apptesters.org",
             "version": "4.61.5",
@@ -6609,6 +7049,7 @@
         },
         {
             "name": "FishingClash",
+            "realBundleID": "com.tensquaregames.letsfish2",
             "bundleID": "FishingClash_1.0.221_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "FishingClash_1.0.221_Mods_@thisismanpreets_apptesters.org",
             "version": "1.0.221",
@@ -6624,6 +7065,7 @@
         },
         {
             "name": "Episode",
+            "realBundleID": "com.neonfun.catalog",
             "bundleID": "Episode_24.12_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Episode_24.12_Mods_@thisismanpreets_apptesters.org",
             "version": "24.12",
@@ -6639,6 +7081,7 @@
         },
         {
             "name": "Infuse",
+            "realBundleID": "com.firecore.infuse",
             "bundleID": "Infuse_7.5.4_Suffuse_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Infuse_7.5.4_Suffuse_@asdfzxcvbn0_apptesters.org",
             "version": "7.5.4",
@@ -6654,6 +7097,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_283.0_Rocket_3.8.8_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_283.0_Rocket_3.8.8_@asdfzxcvbn0_apptesters.org",
             "version": "283.0",
@@ -6669,6 +7113,7 @@
         },
         {
             "name": "Twitter",
+            "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "Twitter_9.58.1_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Twitter_9.58.1_BHTwitter_3.9.1_@asdfzxcvbn0_apptesters.org",
             "version": "9.58.1",
@@ -6684,6 +7129,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_283.0_Rocket_3.8.8_Plus_2.50_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_283.0_Rocket_3.8.8_Plus_2.50_@asdfzxcvbn0_apptesters.org",
             "version": "283.0",
@@ -6699,6 +7145,7 @@
         },
         {
             "name": "Facebook",
+            "realBundleID": "com.facebook.Facebook",
             "bundleID": "Facebook_414.0_Wolf_2.1_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Facebook_414.0_Wolf_2.1_@asdfzxcvbn0_apptesters.org",
             "version": "414.0",
@@ -6714,6 +7161,7 @@
         },
         {
             "name": "Discord",
+            "realBundleID": "com.hammerandchisel.discord",
             "bundleID": "Discord_177.1_Enmity_2.2.6_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Discord_177.1_Enmity_2.2.6_@asdfzxcvbn0_apptesters.org",
             "version": "177.1",
@@ -6729,6 +7177,7 @@
         },
         {
             "name": "YouTubeMusic",
+            "realBundleID": "com.google.ios.youtubemusic",
             "bundleID": "YouTubeMusic_6.01.2_YTMusicUltimate_1.3.7_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "YouTubeMusic_6.01.2_YTMusicUltimate_1.3.7_@asdfzxcvbn0_apptesters.org",
             "version": "6.01.2",
@@ -6744,6 +7193,7 @@
         },
         {
             "name": "Discord",
+            "realBundleID": "com.hammerandchisel.discord",
             "bundleID": "Discord_177.1_Enmity_2.2.5_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Discord_177.1_Enmity_2.2.5_@asdfzxcvbn0_apptesters.org",
             "version": "177.1",
@@ -6759,6 +7209,7 @@
         },
         {
             "name": "Infuse",
+            "realBundleID": "com.firecore.infuse",
             "bundleID": "Infuse_7.5.3_Suffuse_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Infuse_7.5.3_Suffuse_@asdfzxcvbn0_apptesters.org",
             "version": "7.5.3",
@@ -6774,6 +7225,7 @@
         },
         {
             "name": "Nicegram",
+            "realBundleID": "app.nicegram",
             "bundleID": "Nicegram_1.2.8_Premium_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Nicegram_1.2.8_Premium_@asdfzxcvbn0_apptesters.org",
             "version": "1.2.8",
@@ -6789,6 +7241,7 @@
         },
         {
             "name": "WhatsAppOriginal",
+            "realBundleID": "net.whatsapp.WhatsApp",
             "bundleID": "WhatsAppOriginal_23.9.77_Watusi_1.1.55_Stalky_4.1.19_OnlineNotify_3.4.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WhatsAppOriginal_23.9.77_Watusi_1.1.55_Stalky_4.1.19_OnlineNotify_3.4.1_@thisismanpreets_apptesters.org",
             "version": "23.9.77",
@@ -6804,6 +7257,7 @@
         },
         {
             "name": "WhatsAppBusiness",
+            "realBundleID": "net.whatsapp.WhatsAppSMB",
             "bundleID": "WhatsAppBusiness_23.9.77_Watusi_1.1.55_Stalky_4.1.19_OnlineNotify_3.4.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WhatsAppBusiness_23.9.77_Watusi_1.1.55_Stalky_4.1.19_OnlineNotify_3.4.1_@thisismanpreets_apptesters.org",
             "version": "23.9.77",
@@ -6819,6 +7273,7 @@
         },
         {
             "name": "DeviceMonitor2",
+            "realBundleID": "org.fastdevsproject.altervista.Device-Monitor",
             "bundleID": "DeviceMonitor2_7.1.0_Satella_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "DeviceMonitor2_7.1.0_Satella_@asdfzxcvbn0_apptesters.org",
             "version": "7.1.0",
@@ -6834,6 +7289,7 @@
         },
         {
             "name": "Photomath",
+            "realBundleID": "com.microblink.PhotoMath",
             "bundleID": "Photomath_8.23.0_Plus_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Photomath_8.23.0_Plus_@asdfzxcvbn0_apptesters.org",
             "version": "8.23.0",
@@ -6849,6 +7305,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_282.0_Rocket_3.8.8_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Instagram_282.0_Rocket_3.8.8_@asdfzxcvbn0_apptesters.org",
             "version": "282.0",
@@ -6864,6 +7321,7 @@
         },
         {
             "name": "YouTube",
+            "realBundleID": "com.google.ios.youtube",
             "bundleID": "YouTube_18.18.2_uYouPlus_3.0_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "YouTube_18.18.2_uYouPlus_3.0_@asdfzxcvbn0_apptesters.org",
             "version": "18.18.2",
@@ -6879,6 +7337,7 @@
         },
         {
             "name": "YouTube",
+            "realBundleID": "com.google.ios.youtube",
             "bundleID": "YouTube_18.17.2_uYouPlus_3.0_Reborn_4.0.9_YouMute_YTETA_YTClassicVideoQuality_YouAreThere_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "YouTube_18.17.2_uYouPlus_3.0_Reborn_4.0.9_YouMute_YTETA_YTClassicVideoQuality_YouAreThere_@asdfzxcvbn0_apptesters.org",
             "version": "18.17.2",
@@ -6894,6 +7353,7 @@
         },
         {
             "name": "YouTube",
+            "realBundleID": "com.google.ios.youtube",
             "bundleID": "YouTube_18.17.2_uYouPlus_3.0_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "YouTube_18.17.2_uYouPlus_3.0_@asdfzxcvbn0_apptesters.org",
             "version": "18.17.2",
@@ -6909,6 +7369,7 @@
         },
         {
             "name": "Picsart",
+            "realBundleID": "com.picsart.studio",
             "bundleID": "Picsart_22.2.5_Gold_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Picsart_22.2.5_Gold_@asdfzxcvbn0_apptesters.org",
             "version": "22.2.5",
@@ -6924,6 +7385,7 @@
         },
         {
             "name": "YouTubeMusic",
+            "realBundleID": "com.google.ios.youtubemusic",
             "bundleID": "YouTubeMusic_6.01.2_YTMusicUltimate_1.3.6_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "YouTubeMusic_6.01.2_YTMusicUltimate_1.3.6_@asdfzxcvbn0_apptesters.org",
             "version": "6.01.2",
@@ -6939,6 +7401,7 @@
         },
         {
             "name": "Picsart",
+            "realBundleID": "com.picsart.studio",
             "bundleID": "Picsart_22.2.3_1.0_@asdfzxcvbn0_apptesters.org",
             "bundleIdentifier": "Picsart_22.2.3_1.0_@asdfzxcvbn0_apptesters.org",
             "version": "22.2.3",
@@ -6954,6 +7417,7 @@
         },
         {
             "name": "iNetProNetworkScanner",
+            "realBundleID": "com.bananaglue.iNet",
             "bundleID": "iNetProNetworkScanner_3.8.90_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "iNetProNetworkScanner_3.8.90_@thisismanpreets_apptesters.org",
             "version": "3.8.90",
@@ -6969,6 +7433,7 @@
         },
         {
             "name": "Facebook",
+            "realBundleID": "com.facebook.Facebook",
             "bundleID": "Facebook_413.1_Wolf_2.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Facebook_413.1_Wolf_2.1_@thisismanpreets_apptesters.org",
             "version": "413.1",
@@ -6984,6 +7449,7 @@
         },
         {
             "name": "WhatsAppBusinessBeta",
+            "realBundleID": "net.whatsapp.WhatsAppSMB",
             "bundleID": "WhatsAppBusinessBeta_23.9.0_Watusi_1.1.55_Stalky_4.1.19_OnlineNotify_3.4.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "WhatsAppBusinessBeta_23.9.0_Watusi_1.1.55_Stalky_4.1.19_OnlineNotify_3.4.1_@thisismanpreets_apptesters.org",
             "version": "23.9.0",
@@ -6999,6 +7465,7 @@
         },
         {
             "name": "Twitter",
+            "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "Twitter_9.56.1_BHTwitter_3.9.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Twitter_9.56.1_BHTwitter_3.9.1_@thisismanpreets_apptesters.org",
             "version": "9.56.1",
@@ -7014,6 +7481,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_281.0_Rocket_3.8.8_@thisismanpreets_apptesters.org.ipa",
             "bundleIdentifier": "Instagram_281.0_Rocket_3.8.8_@thisismanpreets_apptesters.org.ipa",
             "version": "281.0",
@@ -7029,6 +7497,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_281.0_Rocket_3.8.8_Plus_2.50_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instagram_281.0_Rocket_3.8.8_Plus_2.50_@thisismanpreets_apptesters.org",
             "version": "281.0",
@@ -7044,6 +7513,7 @@
         },
         {
             "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
             "bundleID": "Instagram_281.0_Plus_2.50_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Instagram_281.0_Plus_2.50_@thisismanpreets_apptesters.org",
             "version": "281.0",
@@ -7059,6 +7529,7 @@
         },
         {
             "name": "YouTubeMusic",
+            "realBundleID": "com.google.ios.youtubemusic",
             "bundleID": "YouTubeMusic_5.55_YTMusicUltimate_1.33_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "YouTubeMusic_5.55_YTMusicUltimate_1.33_@thisismanpreets_apptesters.org",
             "version": "5.55",
@@ -7074,6 +7545,7 @@
         },
         {
             "name": "VisualRuler",
+            "realBundleID": "me.bayar.VisualRuler",
             "bundleID": "VisualRuler_2.0_Cracked_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VisualRuler_2.0_Cracked_@thisismanpreets_apptesters.org",
             "version": "2.0",
@@ -7089,6 +7561,7 @@
         },
         {
             "name": "CapCut",
+            "realBundleID": "com.lemon.lvoverseas",
             "bundleID": "CapCut_8.1.1_Pro_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CapCut_8.1.1_Pro_@thisismanpreets_apptesters.org",
             "version": "8.1.1",
@@ -7104,6 +7577,7 @@
         },
         {
             "name": "EasyFiles",
+            "realBundleID": "com.nch.EZTransfer",
             "bundleID": "EasyFiles_1.6.4_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "EasyFiles_1.6.4_Satella_@thisismanpreets_apptesters.org",
             "version": "1.6.4",
@@ -7119,6 +7593,7 @@
         },
         {
             "name": "DolphiniOS",
+            "realBundleID": "me.oatmealdome.DolphiniOS-njb",
             "bundleID": "DolphiniOS_3.2.1_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "DolphiniOS_3.2.1_@thisismanpreets_apptesters.org",
             "version": "3.2.1",
@@ -7134,6 +7609,7 @@
         },
         {
             "name": "VectorConverter",
+            "realBundleID": "com.ghostmobile.The-Vector-Converter",
             "bundleID": "VectorConverter_12.5.4_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "VectorConverter_12.5.4_Satella_@thisismanpreets_apptesters.org",
             "version": "12.5.4",
@@ -7149,6 +7625,7 @@
         },
         {
             "name": "BattleFaith",
+            "realBundleID": "com.gamestar.dh",
             "bundleID": "BattleFaith_1.6.8_DumbEnemies_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "BattleFaith_1.6.8_DumbEnemies_@thisismanpreets_apptesters.org",
             "version": "1.6.8",
@@ -7164,6 +7641,7 @@
         },
         {
             "name": "Bad2Bad-Apocalypse",
+            "realBundleID": "com.dawinstone.b2ba",
             "bundleID": "Bad2Bad-Apocalypse_1.2.3_UnlimitedAmmo_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Bad2Bad-Apocalypse_1.2.3_UnlimitedAmmo_@thisismanpreets_apptesters.org",
             "version": "1.2.3",
@@ -7179,6 +7657,7 @@
         },
         {
             "name": "Limbo",
+            "realBundleID": "com.playdeadgames.limbo.ios",
             "bundleID": "Limbo_1.2.2_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Limbo_1.2.2_@thisismanpreets_apptesters.org",
             "version": "1.2.2",
@@ -7194,6 +7673,7 @@
         },
         {
             "name": "AutogunHeroes-Run.Gun",
+            "realBundleID": "com.nitrogames.autoblaster",
             "bundleID": "AutogunHeroes-Run.Gun_0.16.1_GodMode_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "AutogunHeroes-Run.Gun_0.16.1_GodMode_@thisismanpreets_apptesters.org",
             "version": "0.16.1",
@@ -7209,6 +7689,7 @@
         },
         {
             "name": "LEGO",
+            "realBundleID": "com.thunderful.legobricktales",
             "bundleID": "LEGO_1.5.484_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "LEGO_1.5.484_@thisismanpreets_apptesters.org",
             "version": "1.5.484",
@@ -7224,6 +7705,7 @@
         },
         {
             "name": "PortalMushroomsPro",
+            "realBundleID": "com.reddstudios.PortalMushroomsPro",
             "bundleID": "PortalMushroomsPro_1.0.5_iGameGod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PortalMushroomsPro_1.0.5_iGameGod_@thisismanpreets_apptesters.org",
             "version": "1.0.5",
@@ -7239,6 +7721,7 @@
         },
         {
             "name": "LetterSchool-LearntoWrite.",
+            "realBundleID": "com.boreaal.LetterSchool.lite.en-US",
             "bundleID": "LetterSchool-LearntoWrite._2.3.0_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "LetterSchool-LearntoWrite._2.3.0_Satella_@thisismanpreets_apptesters.org",
             "version": "2.3.0",
@@ -7254,6 +7737,7 @@
         },
         {
             "name": "CuteCUTPro",
+            "realBundleID": "com.mobivio.cutecutpro",
             "bundleID": "CuteCUTPro_2.3_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "CuteCUTPro_2.3_@thisismanpreets_apptesters.org",
             "version": "2.3",
@@ -7269,6 +7753,7 @@
         },
         {
             "name": "ZombieWaves",
+            "realBundleID": "com.ddup.zombiewaves.zw",
             "bundleID": "ZombieWaves_1.3.7_iGameGod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "ZombieWaves_1.3.7_iGameGod_@thisismanpreets_apptesters.org",
             "version": "1.3.7",
@@ -7284,6 +7769,7 @@
         },
         {
             "name": "HorizonChase2",
+            "realBundleID": "com.aquiris.hc2",
             "bundleID": "HorizonChase2_1.3.0_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "HorizonChase2_1.3.0_@thisismanpreets_apptesters.org",
             "version": "1.3.0",
@@ -7299,6 +7785,7 @@
         },
         {
             "name": "MiniFootball",
+            "realBundleID": "com.miniclip.minifootball",
             "bundleID": "MiniFootball_1.9.8_Mods_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MiniFootball_1.9.8_Mods_@thisismanpreets_apptesters.org",
             "version": "1.9.8",
@@ -7314,6 +7801,7 @@
         },
         {
             "name": "HomeEscape",
+            "realBundleID": "com.playrix.gardenscapes-sweethome",
             "bundleID": "HomeEscape_6.1.5_Infinite_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "HomeEscape_6.1.5_Infinite_@thisismanpreets_apptesters.org",
             "version": "6.1.5",
@@ -7329,6 +7817,7 @@
         },
         {
             "name": "HouseFlipper",
+            "realBundleID": "com.imaginalis.HouseFlipperMobile",
             "bundleID": "HouseFlipper_1.280_Unlimited_Coins_._Cash_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "HouseFlipper_1.280_Unlimited_Coins_._Cash_@thisismanpreets_apptesters.org",
             "version": "1.280",
@@ -7344,6 +7833,7 @@
         },
         {
             "name": "MouseTrap",
+            "realBundleID": "com.marmalade.mousetrap",
             "bundleID": "MouseTrap_1.0.4_iGameGod_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MouseTrap_1.0.4_iGameGod_@thisismanpreets_apptesters.org",
             "version": "1.0.4",
@@ -7359,6 +7849,7 @@
         },
         {
             "name": "MyTopFollowersTwitter",
+            "realBundleID": "com.dixapp.mytopfansprotwitter",
             "bundleID": "MyTopFollowersTwitter_2.6_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MyTopFollowersTwitter_2.6_Satella_@thisismanpreets_apptesters.org",
             "version": "2.6",
@@ -7374,6 +7865,7 @@
         },
         {
             "name": "MyTopFollowersFB",
+            "realBundleID": "com.dixapp.mytopfans",
             "bundleID": "MyTopFollowersFB_5.3_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "MyTopFollowersFB_5.3_Satella_@thisismanpreets_apptesters.org",
             "version": "5.3",
@@ -7389,6 +7881,7 @@
         },
         {
             "name": "PicsArt",
+            "realBundleID": "com.picsart.studio",
             "bundleID": "PicsArt_22.1.7_Gold_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "PicsArt_22.1.7_Gold_@thisismanpreets_apptesters.org",
             "version": "22.1.7",
@@ -7404,6 +7897,7 @@
         },
         {
             "name": "Stellarium",
+            "realBundleID": "com.noctuasoftware.stellarium-mobile-plus",
             "bundleID": "Stellarium_1.11.1_Premium@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Stellarium_1.11.1_Premium@thisismanpreets_apptesters.org",
             "version": "1.11.1",
@@ -7419,6 +7913,7 @@
         },
         {
             "name": "Reversee",
+            "realBundleID": "com.jogos12.Reversee",
             "bundleID": "Reversee_5.3.8_Satella_@thisismanpreets_apptesters.org",
             "bundleIdentifier": "Reversee_5.3.8_Satella_@thisismanpreets_apptesters.org",
             "version": "5.3.8",
