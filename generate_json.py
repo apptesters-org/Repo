@@ -61,6 +61,7 @@ if __name__ == "__main__":
             data["apps"].append(
                 {
                     "name": app_name,
+                    "realBundleID": bundle_id,
                     "bundleID": name,
                     "bundleIdentifier": name,
                     "version": version,
