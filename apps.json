@@ -8,6 +8,21 @@
     },
     "apps": [
         {
+            "name": "ShowMania",
+            "bundleID": "ShowMania_1.2_AdBlock_@asdfzxcvbn0_apptesters.org",
+            "bundleIdentifier": "ShowMania_1.2_AdBlock_@asdfzxcvbn0_apptesters.org",
+            "version": "1.2",
+            "versionDate": "2023-06-23",
+            "fullDate": "20230623064333",
+            "size": 12618518,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/23-06-2023/ShowMania_1.2_AdBlock_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/23-06-2023/ShowMania_1.2_AdBlock_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with AdBlock",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.showmania.co.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.showmania.co.png"
+        },
+        {
             "name": "PlantsvsZombies2",
             "bundleID": "PlantsvsZombies2_815_UnlimitedCoins_@thisismanpreets_apptesters",
             "bundleIdentifier": "PlantsvsZombies2_815_UnlimitedCoins_@thisismanpreets_apptesters",
