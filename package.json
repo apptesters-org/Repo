@@ -1,0 +1,28 @@
+{
+  "name": "apptesters-esign-repo",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "Welcome to eSign Tools, a collection of utilities for managing and enhancing your app releases. This repository includes two main components: Cleaner and Releaser. Follow the instructions below to utilize these tools effectively.",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "bash ./src/esign/release-new-ipas.sh",
+    "convert": "bash ./src/esign/update-old-apps-json.sh",
+    "format": "yarn prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^7.2.1",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "prettier": "2.8.8"
+  }
+}
