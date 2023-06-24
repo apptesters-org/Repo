@@ -1,0 +1,7 @@
+build
+coverage
+crash
+iosqueuebot_session
+node_modules
+ipa-files
+yarn.lock
