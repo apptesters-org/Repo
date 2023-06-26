@@ -62,8 +62,8 @@ if __name__ == "__main__":
                 {
                     "name": app_name,
                     "realBundleID": bundle_id,
-                    "bundleID": name,
-                    "bundleIdentifier": name,
+                    "bundleID": bundle_id,
+                    "bundleIdentifier": bundle_id,
                     "version": version,
                     "versionDate": date,
                     "fullDate": full_date,
