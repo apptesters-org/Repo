@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
+            "bundleID": "com.zhiliaoapp.musically",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "30.1.0",
+            "versionDate": "2023-06-30",
+            "fullDate": "20230630140633",
+            "size": 231882743,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/30-06-2023/TikTok_30.1.0_LRD_3.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-06-2023/TikTok_30.1.0_LRD_3.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with LRD 3.0",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "Infuse",
             "realBundleID": "com.firecore.infuse",
             "bundleID": "com.firecore.infuse",
