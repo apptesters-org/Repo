@@ -8,6 +8,38 @@
     },
     "apps": [
         {
+            "name": "CapCut",
+            "realBundleID": "com.lemon.lvoverseas",
+            "bundleID": "com.lemon.lvoverseas",
+            "bundleIdentifier": "com.lemon.lvoverseas",
+            "version": "8.7.1",
+            "versionDate": "2023-07-13",
+            "fullDate": "20230713233233",
+            "size": 142030495,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/CapCut_8.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/CapCut_8.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lemon.lvoverseas.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lemon.lvoverseas.png"
+        },
+        {
+            "name": "YouTube",
+            "realBundleID": "com.google.ios.youtube",
+            "bundleID": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.27.3",
+            "versionDate": "2023-07-13",
+            "fullDate": "20230713233233",
+            "size": 131418013,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/YouTube_18.27.3_uYou_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/YouTube_18.27.3_uYou_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with uYou",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "Remini",
             "realBundleID": "com.bigwinepot.nwdn.international",
             "bundleID": "com.bigwinepot.nwdn.international",
