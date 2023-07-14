@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "Roblox",
+            "realBundleID": "com.roblox.robloxmobile",
+            "bundleID": "com.roblox.robloxmobile",
+            "bundleIdentifier": "com.roblox.robloxmobile",
+            "version": "2.579.402",
+            "versionDate": "2023-07-14",
+            "fullDate": "20230714045019",
+            "size": 111169003,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/Roblox_2.579.402_Scriptware_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/Roblox_2.579.402_Scriptware_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Scriptware",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.roblox.robloxmobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.roblox.robloxmobile.png"
+        },
+        {
             "name": "Djay",
             "realBundleID": "com.algoriddim.djay-iphone-free",
             "bundleID": "com.algoriddim.djay-iphone-free",
@@ -598,38 +614,6 @@
             "localizedDescription": "Injected with Gold",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.picsart.studio.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.picsart.studio.png"
-        },
-        {
-            "name": "Roblox",
-            "realBundleID": "com.roblox.robloxmobile",
-            "bundleID": "com.roblox.robloxmobile",
-            "bundleIdentifier": "com.roblox.robloxmobile",
-            "version": "2.583.1069",
-            "versionDate": "2023-07-13",
-            "fullDate": "20230713224700",
-            "size": 111180434,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/Roblox_2.583.1069_ScriptExecutor_%40zxcvbn_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/Roblox_2.583.1069_ScriptExecutor_%40zxcvbn_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with ScriptExecutor",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.roblox.robloxmobile.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.roblox.robloxmobile.png"
-        },
-        {
-            "name": "Roblox",
-            "realBundleID": "com.roblox.robloxmobile",
-            "bundleID": "com.roblox.robloxmobile",
-            "bundleIdentifier": "com.roblox.robloxmobile",
-            "version": "2.582.400",
-            "versionDate": "2023-07-13",
-            "fullDate": "20230713224115",
-            "size": 113470746,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/Roblox_2.582.400_ScriptExecutor_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/Roblox_2.582.400_ScriptExecutor_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with ScriptExecutor",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.roblox.robloxmobile.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.roblox.robloxmobile.png"
         },
         {
             "name": "Survivor.io",
