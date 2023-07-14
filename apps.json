@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "RemoteMouseandKeyboardPro",
+            "realBundleID": "com.cherpake.macrc.adsfree",
+            "bundleID": "com.cherpake.macrc.adsfree",
+            "bundleIdentifier": "com.cherpake.macrc.adsfree",
+            "version": "2023.32",
+            "versionDate": "2023-07-14",
+            "fullDate": "20230714150434",
+            "size": 16057533,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/RemoteMouseandKeyboardPro_2023.32_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/RemoteMouseandKeyboardPro_2023.32_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cherpake.macrc.adsfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cherpake.macrc.adsfree.png"
+        },
+        {
             "name": "YouTubeMusic",
             "realBundleID": "com.google.ios.youtubemusic",
             "bundleID": "com.google.ios.youtubemusic",
