@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "YouTubeMusic",
+            "realBundleID": "com.google.ios.youtubemusic",
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "6.10.1",
+            "versionDate": "2023-07-14",
+            "fullDate": "20230714145004",
+            "size": 66404774,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/YouTubeMusic_6.10.1_YTMusicUltimate_1.4.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/YouTubeMusic_6.10.1_YTMusicUltimate_1.4.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimate 1.4.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "Cytus",
             "realBundleID": "com.rayark.Cytus.full",
             "bundleID": "com.rayark.Cytus.full",
