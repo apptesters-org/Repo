@@ -8,6 +8,38 @@
     },
     "apps": [
         {
+            "name": "ForestFocus",
+            "realBundleID": "com.forestapp.Forest",
+            "bundleID": "com.forestapp.Forest",
+            "bundleIdentifier": "com.forestapp.Forest",
+            "version": "4.69.1",
+            "versionDate": "2023-07-14",
+            "fullDate": "20230714115452",
+            "size": 174234747,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/ForestFocus_4.69.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/ForestFocus_4.69.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.forestapp.Forest.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.forestapp.Forest.png"
+        },
+        {
+            "name": "Lapse",
+            "realBundleID": "com.cornagostefano.lapse",
+            "bundleID": "com.cornagostefano.lapse",
+            "bundleIdentifier": "com.cornagostefano.lapse",
+            "version": "1.6",
+            "versionDate": "2023-07-14",
+            "fullDate": "20230714115452",
+            "size": 25663865,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/Lapse_1.6_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/Lapse_1.6_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cornagostefano.lapse.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.cornagostefano.lapse.png"
+        },
+        {
             "name": "AlohaBrowser",
             "realBundleID": "com.alohabrowser.alohabrowser",
             "bundleID": "com.alohabrowser.alohabrowser",
