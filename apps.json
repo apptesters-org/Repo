@@ -72,7 +72,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.chillingo.thequest.png"
         },
         {
-            "name": "BeyondScan-OCR.PDFScanner",
+            "name": "BeyondScan-OCRPDFScanner",
             "realBundleID": "com.zzsoft.beyondscan",
             "bundleID": "com.zzsoft.beyondscan",
             "bundleIdentifier": "com.zzsoft.beyondscan",
@@ -80,8 +80,8 @@
             "versionDate": "2023-07-15",
             "fullDate": "20230715122628",
             "size": 8004507,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/15-07-2023/BeyondScan-OCR.PDFScanner_2.7.0_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-07-2023/BeyondScan-OCR.PDFScanner_2.7.0_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-07-2023/BeyondScan-OCRPDFScanner_2.7.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-07-2023/BeyondScan-OCRPDFScanner_2.7.0_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zzsoft.beyondscan.png",
@@ -136,7 +136,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/momently.app.png"
         },
         {
-            "name": "MySpeedSpeedometer.Fuel",
+            "name": "MySpeedSpeedometer-Fuel",
             "realBundleID": "com.baguaapps.myspeed",
             "bundleID": "com.baguaapps.myspeed",
             "bundleIdentifier": "com.baguaapps.myspeed",
@@ -144,8 +144,8 @@
             "versionDate": "2023-07-15",
             "fullDate": "20230715122619",
             "size": 421869,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/15-07-2023/MySpeedSpeedometer.Fuel_1.0_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-07-2023/MySpeedSpeedometer.Fuel_1.0_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-07-2023/MySpeedSpeedometer-Fuel_1.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-07-2023/MySpeedSpeedometer-Fuel_1.0_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.baguaapps.myspeed.png",
