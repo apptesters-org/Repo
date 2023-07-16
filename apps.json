@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "VSCO",
+            "realBundleID": "co.visualsupply.cam",
+            "bundleID": "co.visualsupply.cam",
+            "bundleIdentifier": "co.visualsupply.cam",
+            "version": "329.0.0",
+            "versionDate": "2023-07-16",
+            "fullDate": "20230716200110",
+            "size": 105246345,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-07-2023/VSCO_329.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-07-2023/VSCO_329.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.visualsupply.cam.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.visualsupply.cam.png"
+        },
+        {
             "name": "CarTube",
             "realBundleID": "com.avangelista.CarTube",
             "bundleID": "com.avangelista.CarTube",
