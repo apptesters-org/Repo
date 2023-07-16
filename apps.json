@@ -16,10 +16,10 @@
             "versionDate": "2023-07-16",
             "fullDate": "20230716161757",
             "size": 574441,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/16-07-2023/CarTube_1.3_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-07-2023/CarTube_1.3_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/16-07-2023/CarTube_1.3_Supports_14.0_to_15.4.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-07-2023/CarTube_1.3_Supports_14.0_to_15.4.1_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "",
+            "localizedDescription": "Injected with Supports 14.0 to 15.4.1",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.avangelista.CarTube.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.avangelista.CarTube.png"
         },
