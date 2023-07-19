@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "YouTubeMusic",
+            "realBundleID": "com.google.ios.youtubemusic",
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "6.11.2",
+            "versionDate": "2023-07-19",
+            "fullDate": "20230719224344",
+            "size": 67988475,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/20-07-2023/YouTubeMusic_6.11.2_YTMusicUltimate_1.4.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-07-2023/YouTubeMusic_6.11.2_YTMusicUltimate_1.4.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimate 1.4.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "TikTok",
             "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "com.zhiliaoapp.musically",
