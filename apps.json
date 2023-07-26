@@ -8,6 +8,38 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "293.1",
+            "versionDate": "2023-07-26",
+            "fullDate": "20230726134707",
+            "size": 134609621,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/26-07-2023/Instagram_293.1_NYX_1.0.5_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/26-07-2023/Instagram_293.1_NYX_1.0.5_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with NYX 1.0.5",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "DocumentsPlus-8.4.10-zxcvbn",
+            "realBundleID": "com.readdle.ReaddleDocsIPad",
+            "bundleID": "com.readdle.ReaddleDocsIPad",
+            "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+            "version": "Unknown",
+            "versionDate": "2023-07-25",
+            "fullDate": "20230725155952",
+            "size": 100650998,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/25-07-2023/DocumentsPlus-8.4.10-zxcvbn.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/25-07-2023/DocumentsPlus-8.4.10-zxcvbn.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.readdle.ReaddleDocsIPad.png"
+        },
+        {
             "name": "Gemini",
             "realBundleID": "com.macpaw.iosgemini",
             "bundleID": "com.macpaw.iosgemini",
