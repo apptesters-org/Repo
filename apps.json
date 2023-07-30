@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "Roblox",
+            "realBundleID": "com.roblox.robloxmobile",
+            "bundleID": "com.roblox.robloxmobile",
+            "bundleIdentifier": "com.roblox.robloxmobile",
+            "version": "2.586.0",
+            "versionDate": "2023-07-30",
+            "fullDate": "20230730010352",
+            "size": 111137795,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/30-07-2023/Roblox_2.586.0_Scriptware_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-07-2023/Roblox_2.586.0_Scriptware_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Scriptware",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.roblox.robloxmobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.roblox.robloxmobile.png"
+        },
+        {
             "name": "WhatsAppBusiness",
             "realBundleID": "net.whatsapp.WhatsAppSMB",
             "bundleID": "net.whatsapp.WhatsAppSMB",
