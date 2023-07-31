@@ -8,6 +8,38 @@
     },
     "apps": [
         {
+            "name": "Twitter",
+            "realBundleID": "com.atebits.Tweetie2",
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.0",
+            "versionDate": "2023-07-31",
+            "fullDate": "20230731210148",
+            "size": 83115116,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/01-08-2023/Twitter_10.0_BHTwitter_3.9.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-08-2023/Twitter_10.0_BHTwitter_3.9.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter 3.9.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "Canary",
+            "realBundleID": "Mailroom.Canary-iOS",
+            "bundleID": "Mailroom.Canary-iOS",
+            "bundleIdentifier": "Mailroom.Canary-iOS",
+            "version": "4.12",
+            "versionDate": "2023-07-31",
+            "fullDate": "20230731210144",
+            "size": 53009113,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/01-08-2023/Canary_4.12_Pro_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-08-2023/Canary_4.12_Pro_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/Mailroom.Canary-iOS.png"
+        },
+        {
             "name": "Roblox",
             "realBundleID": "com.roblox.robloxmobile",
             "bundleID": "com.roblox.robloxmobile",
