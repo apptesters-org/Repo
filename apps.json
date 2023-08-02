@@ -8,6 +8,38 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "294.0",
+            "versionDate": "2023-08-02",
+            "fullDate": "20230802194412",
+            "size": 123882055,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/03-08-2023/Instagram_294.0_Nyx_1.0.7-beta_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/03-08-2023/Instagram_294.0_Nyx_1.0.7-beta_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nyx 1.0.7-beta",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "YouTube",
+            "realBundleID": "com.google.ios.youtube",
+            "bundleID": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.30.7",
+            "versionDate": "2023-08-02",
+            "fullDate": "20230802171746",
+            "size": 108885324,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/02-08-2023/YouTube_18.30.7_uYouPlusExtra_3.0.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/02-08-2023/YouTube_18.30.7_uYouPlusExtra_3.0.1_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with uYouPlusExtra 3.0.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "TikTok",
             "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "com.zhiliaoapp.musically",
@@ -38,22 +70,6 @@
             "localizedDescription": "Injected with Dark",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
-        },
-        {
-            "name": "YouTube",
-            "realBundleID": "com.google.ios.youtube",
-            "bundleID": "com.google.ios.youtube",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "version": "18.30.7",
-            "versionDate": "2023-08-02",
-            "fullDate": "20230802164435",
-            "size": 106528786,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/02-08-2023/YouTube_18.30.7_uYouPlusExtra_3.0.1_%40asdfzxcvbn0_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/02-08-2023/YouTube_18.30.7_uYouPlusExtra_3.0.1_%40asdfzxcvbn0_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with uYouPlusExtra 3.0.1",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png"
         },
         {
             "name": "YouTube",
