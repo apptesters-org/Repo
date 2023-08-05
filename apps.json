@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "294.0",
+            "versionDate": "2023-08-05",
+            "fullDate": "20230805115336",
+            "size": 133215192,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/05-08-2023/Instagram_294.0_NYX_1.0.7_BHInsta_0.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-08-2023/Instagram_294.0_NYX_1.0.7_BHInsta_0.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with NYX 1.0.7 BHInsta 0.0.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "WABusiness",
             "realBundleID": "net.whatsapp.WhatsAppSMB",
             "bundleID": "net.whatsapp.WhatsAppSMB",
