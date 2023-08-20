@@ -8,6 +8,22 @@
     },
     "apps": [
         {
+            "name": "Bea-1.9.1-zxcvbn",
+            "realBundleID": "AlexisBarreyat.BeReal",
+            "bundleID": "AlexisBarreyat.BeReal",
+            "bundleIdentifier": "AlexisBarreyat.BeReal",
+            "version": "Unknown",
+            "versionDate": "2023-08-19",
+            "fullDate": "20230819174307",
+            "size": 31921858,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-08-2023/Bea-1.9.1-zxcvbn.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-08-2023/Bea-1.9.1-zxcvbn.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/AlexisBarreyat.BeReal.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/AlexisBarreyat.BeReal.png"
+        },
+        {
             "name": "Instagram",
             "realBundleID": "com.burbn.instagram",
             "bundleID": "com.burbn.instagram",
