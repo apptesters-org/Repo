@@ -8,6 +8,38 @@
     },
     "apps": [
         {
+            "name": "GoDaddyStudio",
+            "realBundleID": "com.gopotluck.over",
+            "bundleID": "com.gopotluck.over",
+            "bundleIdentifier": "com.gopotluck.over",
+            "version": "8.16.0",
+            "versionDate": "2023-08-30",
+            "fullDate": "20230830230030",
+            "size": 91980228,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/31-08-2023/GoDaddyStudio_8.16.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/31-08-2023/GoDaddyStudio_8.16.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.gopotluck.over.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.gopotluck.over.png"
+        },
+        {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "298.0",
+            "versionDate": "2023-08-30",
+            "fullDate": "20230830230030",
+            "size": 135490775,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/31-08-2023/Instagram_298.0_BHInsta_0.0.1_NYX_1.0.9_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/31-08-2023/Instagram_298.0_BHInsta_0.0.1_NYX_1.0.9_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHInsta 0.0.1 NYX 1.0.9",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "Facebook",
             "realBundleID": "com.facebook.Facebook",
             "bundleID": "com.facebook.Facebook",
