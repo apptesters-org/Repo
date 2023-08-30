@@ -2,9 +2,12 @@
     "name": "AppTesters IPA Repo",
     "identifier": "org.apptesters.repo",
     "sourceURL": "https://repo.apptesters.org/",
+    "iconURL": "https://cdn.discordapp.com/attachments/1105094393771347976/1146587609674547230/apptesters-resized.png",
+    "website": "https://apptesters.org",
+    "subtitle": "Biggest Updated Modified IPA Library for Sideloading - AppTesters.org",
     "META": {
         "repoName": "AppTesters IPA Repo",
-        "repoIcon": "https://sts.st/d/5779b391f8aa"
+        "repoIcon": "https://cdn.discordapp.com/attachments/1105094393771347976/1146587609674547230/apptesters-resized.png"
     },
     "apps": [
         {
