@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "PostBoxPocket",
+            "realBundleID": "com.simplycode.PostBox-Pocket",
+            "bundleID": "com.simplycode.PostBox-Pocket",
+            "bundleIdentifier": "com.simplycode.PostBox-Pocket",
+            "version": "1.0",
+            "versionDate": "2023-09-01",
+            "fullDate": "20230901172008",
+            "size": 7117305,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/01-09-2023/PostBoxPocket_1.0_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-09-2023/PostBoxPocket_1.0_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.simplycode.PostBox-Pocket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.simplycode.PostBox-Pocket.png"
+        },
+        {
             "name": "djay",
             "realBundleID": "com.algoriddim.djay-iphone-free",
             "bundleID": "com.algoriddim.djay-iphone-free",
