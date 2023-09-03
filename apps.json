@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "TikTok",
+            "realBundleID": "com.zhiliaoapp.musically",
+            "bundleID": "com.zhiliaoapp.musically",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "31.0.0",
+            "versionDate": "2023-09-03",
+            "fullDate": "20230903171050",
+            "size": 171969348,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/03-09-2023/TikTok_31.0.0_LRD_3.0_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/03-09-2023/TikTok_31.0.0_LRD_3.0_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with LRD 3.0",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TouchRetouch",
+            "realBundleID": "com.advasoft.touchretouch",
+            "bundleID": "com.advasoft.touchretouch",
+            "bundleIdentifier": "com.advasoft.touchretouch",
+            "version": "5.1.10",
+            "versionDate": "2023-09-03",
+            "fullDate": "20230903171040",
+            "size": 62798542,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/03-09-2023/TouchRetouch_5.1.10_Plus_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/03-09-2023/TouchRetouch_5.1.10_Plus_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.advasoft.touchretouch.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.advasoft.touchretouch.png"
+        },
+        {
             "name": "WhatsApp",
             "realBundleID": "net.whatsapp.WhatsApp",
             "bundleID": "net.whatsapp.WhatsApp",
