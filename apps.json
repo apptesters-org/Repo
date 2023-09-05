@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "X",
+            "realBundleID": "com.atebits.Tweetie2",
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.5",
+            "versionDate": "2023-09-05",
+            "fullDate": "20230905171004",
+            "size": 99869127,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/05-09-2023/X_10.5_BHTwitter_4.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-09-2023/X_10.5_BHTwitter_4.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter 4.0",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "Instagram",
             "realBundleID": "com.burbn.instagram",
             "bundleID": "com.burbn.instagram",
