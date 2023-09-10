@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "GeometryDash",
+            "realBundleID": "com.robtop.geometryjump",
+            "bundleID": "com.robtop.geometryjump",
+            "bundleIdentifier": "com.robtop.geometryjump",
+            "version": "2.11",
+            "versionDate": "2023-09-10",
+            "fullDate": "20230910221711",
+            "size": 84778021,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/11-09-2023/GeometryDash_2.11_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-09-2023/GeometryDash_2.11_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.robtop.geometryjump.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.robtop.geometryjump.png"
+        },
+        {
             "name": "WhatsApp",
             "realBundleID": "net.whatsapp.WhatsApp",
             "bundleID": "net.whatsapp.WhatsApp",
@@ -6137,22 +6153,6 @@
             "localizedDescription": "Injected with Mods",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.matryoshka.farminggame.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.matryoshka.farminggame.png"
-        },
-        {
-            "name": "GeometryDash",
-            "realBundleID": "com.robtop.geometryjump",
-            "bundleID": "com.robtop.geometryjump",
-            "bundleIdentifier": "com.robtop.geometryjump",
-            "version": "2.21.3",
-            "versionDate": "2023-07-13",
-            "fullDate": "20230713225657",
-            "size": 61508882,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/GeometryDash_2.21.3_FullVersion_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-07-2023/GeometryDash_2.21.3_FullVersion_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with FullVersion",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.robtop.geometryjump.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.robtop.geometryjump.png"
         },
         {
             "name": "MonstersLegends",
