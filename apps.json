@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "300.0",
+            "versionDate": "2023-09-11",
+            "fullDate": "20230911210951",
+            "size": 135334470,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/Instagram_300.0_Rocket_3.8.12_BHInsta_0.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/Instagram_300.0_Rocket_3.8.12_BHInsta_0.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Rocket 3.8.12 BHInsta 0.0.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "300.0",
+            "versionDate": "2023-09-11",
+            "fullDate": "20230911210951",
+            "size": 137625182,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/Instagram_300.0_Rocket_3.8.12_NYX_1.1.0b2_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/Instagram_300.0_Rocket_3.8.12_NYX_1.1.0b2_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Rocket 3.8.12 NYX 1.1.0b2",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "GeometryDash",
             "realBundleID": "com.robtop.geometryjump",
             "bundleID": "com.robtop.geometryjump",
