@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "WhatsAppBusiness",
+            "realBundleID": "net.whatsapp.WhatsAppSMB",
+            "bundleID": "net.whatsapp.WhatsAppSMB",
+            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+            "version": "23.18.75",
+            "versionDate": "2023-09-11",
+            "fullDate": "20230911215823",
+            "size": 109610787,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/WhatsAppBusiness_23.18.75_Watusi_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/WhatsAppBusiness_23.18.75_Watusi_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.1 Stalky 4.1.23 OnlineNotify 3.4.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png"
+        },
+        {
+            "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.18.75",
+            "versionDate": "2023-09-11",
+            "fullDate": "20230911215215",
+            "size": 103310768,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/WhatsApp_23.18.75_Watusi_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/WhatsApp_23.18.75_Watusi_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.1 Stalky 4.1.23 OnlineNotify 3.4.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "Instagram",
             "realBundleID": "com.burbn.instagram",
             "bundleID": "com.burbn.instagram",
