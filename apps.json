@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "CodeApp",
+            "realBundleID": "thebaselab.VS-Code",
+            "bundleID": "thebaselab.VS-Code",
+            "bundleIdentifier": "thebaselab.VS-Code",
+            "version": "1.5.0",
+            "versionDate": "2023-09-13",
+            "fullDate": "20230913180644",
+            "size": 170457608,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/13-09-2023/CodeApp_1.5.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-09-2023/CodeApp_1.5.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/thebaselab.VS-Code.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/thebaselab.VS-Code.png"
+        },
+        {
             "name": "TikTok",
             "realBundleID": "com.zhiliaoapp.musically",
             "bundleID": "com.zhiliaoapp.musically",
