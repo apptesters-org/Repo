@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "X",
+            "realBundleID": "com.atebits.Tweetie2",
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.8",
+            "versionDate": "2023-09-29",
+            "fullDate": "20230929225221",
+            "size": 92371935,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/30-09-2023/X_10.8_BHTwitter_%40zxcvbn_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-09-2023/X_10.8_BHTwitter_%40zxcvbn_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "ibisPaintX",
             "realBundleID": "jp.ne.ibis.ibisPaintX",
             "bundleID": "jp.ne.ibis.ibisPaintX",
