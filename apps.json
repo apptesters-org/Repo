@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Lightroom",
+            "realBundleID": "com.adobe.lrmobilephone",
+            "bundleID": "com.adobe.lrmobilephone",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
+            "version": "9.0.0",
+            "versionDate": "2023-10-21",
+            "fullDate": "20231021234539",
+            "size": 161699346,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/22-10-2023/Lightroom_9.0.0_Premium_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/22-10-2023/Lightroom_9.0.0_Premium_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.adobe.lrmobilephone.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.adobe.lrmobilephone.png"
+        },
+        {
             "name": "Nicegram",
             "realBundleID": "app.nicegram",
             "bundleID": "app.nicegram",
