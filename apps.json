@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "PDFExpertPremium",
+            "realBundleID": "com.readdle.PDFExpert5",
+            "bundleID": "com.readdle.PDFExpert5",
+            "bundleIdentifier": "com.readdle.PDFExpert5",
+            "version": "7.18.2",
+            "versionDate": "2023-10-28",
+            "fullDate": "20231028161142",
+            "size": 108615533,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/28-10-2023/PDFExpertPremium_7.18.2_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/28-10-2023/PDFExpertPremium_7.18.2_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.readdle.PDFExpert5.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.readdle.PDFExpert5.png"
+        },
+        {
+            "name": "MadSkillsMX3",
+            "realBundleID": "com.turborilla.bike.racing.madskillsmotocross3",
+            "bundleID": "com.turborilla.bike.racing.madskillsmotocross3",
+            "bundleIdentifier": "com.turborilla.bike.racing.madskillsmotocross3",
+            "version": "2.6.4",
+            "versionDate": "2023-10-28",
+            "fullDate": "20231028161049",
+            "size": 178140025,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/28-10-2023/MadSkillsMX3_2.6.4_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/28-10-2023/MadSkillsMX3_2.6.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.turborilla.bike.racing.madskillsmotocross3.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.turborilla.bike.racing.madskillsmotocross3.png"
+        },
+        {
             "name": "EyeQuix",
             "realBundleID": "com.justforeyes.eyequix",
             "bundleID": "com.justforeyes.eyequix",
