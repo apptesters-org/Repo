@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "PDFExpert",
+            "realBundleID": "com.readdle.PDFExpert5",
+            "bundleID": "com.readdle.PDFExpert5",
+            "bundleIdentifier": "com.readdle.PDFExpert5",
+            "version": "7.18.2",
+            "versionDate": "2023-10-29",
+            "fullDate": "20231029200553",
+            "size": 108615533,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/30-10-2023/PDFExpert_7.18.2_Premium_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-10-2023/PDFExpert_7.18.2_Premium_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.readdle.PDFExpert5.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.readdle.PDFExpert5.png"
+        },
+        {
+            "name": "Endel",
+            "realBundleID": "com.endel.endel",
+            "bundleID": "com.endel.endel",
+            "bundleIdentifier": "com.endel.endel",
+            "version": "4.35.23",
+            "versionDate": "2023-10-29",
+            "fullDate": "20231029200547",
+            "size": 145756802,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/30-10-2023/Endel_4.35.23_Premium_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-10-2023/Endel_4.35.23_Premium_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.endel.endel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.endel.endel.png"
+        },
+        {
             "name": "Marshals2",
             "realBundleID": "com.pixelbite.sm2",
             "bundleID": "com.pixelbite.sm2",
