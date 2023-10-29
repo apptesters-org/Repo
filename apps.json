@@ -59,7 +59,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.metacortext.Revive.png"
         },
         {
-            "name": "PlagueInc.",
+            "name": "PlagueInc",
             "realBundleID": "com.ndemiccreations.plagueinc",
             "bundleID": "com.ndemiccreations.plagueinc",
             "bundleIdentifier": "com.ndemiccreations.plagueinc",
@@ -67,15 +67,15 @@
             "versionDate": "2023-10-29",
             "fullDate": "20231029055846",
             "size": 69926496,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/29-10-2023/PlagueInc._1.19.3_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/29-10-2023/PlagueInc._1.19.3_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/29-10-2023/PlagueInc_1.19.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/29-10-2023/PlagueInc_1.19.3_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ndemiccreations.plagueinc.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ndemiccreations.plagueinc.png"
         },
         {
-            "name": "DeviceMonitor.",
+            "name": "DeviceMonitor",
             "realBundleID": "org.fastdevsproject.altervista.Device-Monitor",
             "bundleID": "org.fastdevsproject.altervista.Device-Monitor",
             "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
@@ -83,8 +83,8 @@
             "versionDate": "2023-10-29",
             "fullDate": "20231029055835",
             "size": 17720589,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/29-10-2023/DeviceMonitor._8.2.0_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/29-10-2023/DeviceMonitor._8.2.0_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/29-10-2023/DeviceMonitor_8.2.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/29-10-2023/DeviceMonitor_8.2.0_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png",
