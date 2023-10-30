@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "BloonsTD6+",
+            "realBundleID": "com.ninjakiwi.bloonstd6plus",
+            "bundleID": "com.ninjakiwi.bloonstd6plus",
+            "bundleIdentifier": "com.ninjakiwi.bloonstd6plus",
+            "version": "39.2",
+            "versionDate": "2023-10-30",
+            "fullDate": "20231030055541",
+            "size": 611298357,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/30-10-2023/BloonsTD6%2B_39.2_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-10-2023/BloonsTD6%2B_39.2_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ninjakiwi.bloonstd6plus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ninjakiwi.bloonstd6plus.png"
+        },
+        {
+            "name": "WoodFix",
+            "realBundleID": "com.zofixer.box.infos",
+            "bundleID": "com.zofixer.box.infos",
+            "bundleIdentifier": "com.zofixer.box.infos",
+            "version": "v6.1",
+            "versionDate": "2023-10-30",
+            "fullDate": "20231030055530",
+            "size": 25167504,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/30-10-2023/WoodFix_v6.1_MoviesAndTVShows_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-10-2023/WoodFix_v6.1_MoviesAndTVShows_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with MoviesAndTVShows",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zofixer.box.infos.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zofixer.box.infos.png"
+        },
+        {
             "name": "Survivor.io",
             "realBundleID": "com.dxx.firenow",
             "bundleID": "com.dxx.firenow",
