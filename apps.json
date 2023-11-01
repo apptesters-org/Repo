@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "AbletonNote",
+            "realBundleID": "com.ableton.note",
+            "bundleID": "com.ableton.note",
+            "bundleIdentifier": "com.ableton.note",
+            "version": "1.0.13",
+            "versionDate": "2023-11-01",
+            "fullDate": "20231101114047",
+            "size": 384077652,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/01-11-2023/AbletonNote_1.0.13_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-11-2023/AbletonNote_1.0.13_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ableton.note.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ableton.note.png"
+        },
+        {
             "name": "InShot",
             "realBundleID": "com.camerasideas.InstaShot",
             "bundleID": "com.camerasideas.InstaShot",
