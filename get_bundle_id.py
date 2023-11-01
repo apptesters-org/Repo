@@ -18,7 +18,7 @@ def get_single_bundle_id(url, name="temp.ipa"):
     try:
         assert(zipfile.is_zipfile(name))
     except AssertionError:
-        print(f"[!] bad zipfile: {name}")
+        print(f"[!] bad zipfile: {os.path.basename(url)} ({url})")
         return
         
     with zipfile.ZipFile(name, mode="r") as archive:
