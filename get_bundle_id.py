@@ -14,7 +14,13 @@ def get_single_bundle_id(url, name="temp.ipa"):
     icon_folder = "icons/"
     if not os.path.exists(icon_folder):
         os.mkdir(icon_folder)
-
+        
+    try:
+        assert(zipfile.is_zipfile(name))
+    except AssertionError:
+        print(f"[!] bad zipfile: {name}")
+        return
+        
     with zipfile.ZipFile(name, mode="r") as archive:
         for file_name in archive.namelist():
             if file_name.endswith(".app/Info.plist"):
