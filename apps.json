@@ -44,9 +44,9 @@
         },
         {
             "name": "Retouch",
-            "realBundleID": null,
-            "bundleID": null,
-            "bundleIdentifier": null,
+            "realBundleID": "nan",
+            "bundleID": "nan",
+            "bundleIdentifier": "nan",
             "version": "5.1.13",
             "versionDate": "2023-11-01",
             "fullDate": "20231101125559",
@@ -55,8 +55,8 @@
             "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-11-2023/Retouch_5.1.13_Hacked_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Hacked",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/None.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/None.png"
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
         },
         {
             "name": "Mackolik",
