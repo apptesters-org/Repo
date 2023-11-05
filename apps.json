@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "SpongeBob",
+            "realBundleID": "com.tiltingpoint.sbadventures",
+            "bundleID": "com.tiltingpoint.sbadventures",
+            "bundleIdentifier": "com.tiltingpoint.sbadventures",
+            "version": "2.1.1",
+            "versionDate": "2023-11-05",
+            "fullDate": "20231105150642",
+            "size": 287444803,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/05-11-2023/SpongeBob_2.1.1_Adventures_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-11-2023/SpongeBob_2.1.1_Adventures_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Adventures",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.tiltingpoint.sbadventures.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.tiltingpoint.sbadventures.png"
+        },
+        {
             "name": "Zooba",
             "realBundleID": "com.fungames.battleroyale",
             "bundleID": "com.fungames.battleroyale",
