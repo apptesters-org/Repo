@@ -27,7 +27,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ookla.speedtest.png"
         },
         {
-            "name": "Twitter",
+            "name": "X",
             "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "com.atebits.Tweetie2",
             "bundleIdentifier": "com.atebits.Tweetie2",
@@ -35,8 +35,8 @@
             "versionDate": "2023-11-16",
             "fullDate": "20231116114806",
             "size": 113654764,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/16-11-2023/Twitter_10.16_BHTwitter_4.0_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-11-2023/Twitter_10.16_BHTwitter_4.0_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/16-11-2023/X_10.16_BHTwitter_4.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-11-2023/X_10.16_BHTwitter_4.0_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with BHTwitter 4.0",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
@@ -75,18 +75,18 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.bazaart.app.png"
         },
         {
-            "name": "Home",
+            "name": "HomeWorkouts",
             "realBundleID": "com.abishkking.maleworkout",
             "bundleID": "com.abishkking.maleworkout",
             "bundleIdentifier": "com.abishkking.maleworkout",
-            "version": "Workouts",
+            "version": "1.20.0",
             "versionDate": "2023-11-16",
             "fullDate": "20231116114740",
             "size": 320720072,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/16-11-2023/Home_Workouts_1.20.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-11-2023/Home_Workouts_1.20.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/16-11-2023/HomeWorkouts_1.20.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-11-2023/HomeWorkouts_1.20.0_Premium_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "Injected with 1.20.0 Premium",
+            "localizedDescription": "Injected with Premium",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.abishkking.maleworkout.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.abishkking.maleworkout.png"
         },
