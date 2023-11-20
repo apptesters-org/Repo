@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "iTorrent",
+            "realBundleID": "ru.nonamedude.iTorrent",
+            "bundleID": "ru.nonamedude.iTorrent",
+            "bundleIdentifier": "ru.nonamedude.iTorrent",
+            "version": "1.8.3",
+            "versionDate": "2023-11-20",
+            "fullDate": "20231120235138",
+            "size": 21247865,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/21-11-2023/iTorrent_1.8.3_%40asdfzxcvbn0_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-11-2023/iTorrent_1.8.3_%40asdfzxcvbn0_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ru.nonamedude.iTorrent.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ru.nonamedude.iTorrent.png"
+        },
+        {
             "name": "Speedtest",
             "realBundleID": "com.ookla.speedtest",
             "bundleID": "com.ookla.speedtest",
