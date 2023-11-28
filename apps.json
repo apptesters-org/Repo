@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "CamScanner",
+            "realBundleID": "com.intsig.CamScannerLite",
+            "bundleID": "com.intsig.CamScannerLite",
+            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "version": "6.54.1",
+            "versionDate": "2023-11-28",
+            "fullDate": "20231128143733",
+            "size": 115834452,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/28-11-2023/CamScanner_6.54.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/28-11-2023/CamScanner_6.54.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.intsig.CamScannerLite.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.intsig.CamScannerLite.png"
+        },
+        {
+            "name": "PureStatus",
+            "realBundleID": "com.damtechdesigns.wa.story",
+            "bundleID": "com.damtechdesigns.wa.story",
+            "bundleIdentifier": "com.damtechdesigns.wa.story",
+            "version": "2023.31",
+            "versionDate": "2023-11-28",
+            "fullDate": "20231128143733",
+            "size": 35070834,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/28-11-2023/PureStatus_2023.31_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/28-11-2023/PureStatus_2023.31_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.damtechdesigns.wa.story.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.damtechdesigns.wa.story.png"
+        },
+        {
             "name": "AdobeCreativeCloud",
             "realBundleID": "com.adobe.ccsdk.loki",
             "bundleID": "com.adobe.ccsdk.loki",
