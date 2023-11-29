@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Facebook",
+            "realBundleID": "com.facebook.Facebook",
+            "bundleID": "com.facebook.Facebook",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "442.0.0",
+            "versionDate": "2023-11-29",
+            "fullDate": "20231129175251",
+            "size": 148751080,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/29-11-2023/Facebook_442.0.0_Wolf_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/29-11-2023/Facebook_442.0.0_Wolf_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Wolf",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png"
+        },
+        {
             "name": "Picasso",
             "realBundleID": "net.sourceloc.Picasso",
             "bundleID": "net.sourceloc.Picasso",
