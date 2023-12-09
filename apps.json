@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.25.6",
+            "versionDate": "2023-12-09",
+            "fullDate": "20231209102813",
+            "size": 97587683,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/09-12-2023/WhatsApp_23.25.6_Watusi_1.2.11_Stalky_4.1.24_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-12-2023/WhatsApp_23.25.6_Watusi_1.2.11_Stalky_4.1.24_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.11 Stalky 4.1.24 OnlineNotify 3.4.4",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
+            "name": "X",
+            "realBundleID": "com.atebits.Tweetie2",
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.19",
+            "versionDate": "2023-12-09",
+            "fullDate": "20231209102813",
+            "size": 163435830,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/09-12-2023/X_10.19_BHTwitter_4.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-12-2023/X_10.19_BHTwitter_4.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter 4.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "HouseFlipper",
             "realBundleID": "com.imaginalis.HouseFlipperMobile",
             "bundleID": "com.imaginalis.HouseFlipperMobile",
