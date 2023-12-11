@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "311.0.2",
+            "versionDate": "2023-12-11",
+            "fullDate": "20231211172532",
+            "size": 139945720,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/11-12-2023/Instagram_311.0.2_Rocket_3.8.18_BHinsta_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-12-2023/Instagram_311.0.2_Rocket_3.8.18_BHinsta_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Rocket 3.8.18 BHinsta",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "InShot",
             "realBundleID": "com.camerasideas.InstaShot",
             "bundleID": "com.camerasideas.InstaShot",
