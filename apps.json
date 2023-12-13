@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Facebook",
+            "realBundleID": "com.facebook.Facebook",
+            "bundleID": "com.facebook.Facebook",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "444.0.0",
+            "versionDate": "2023-12-13",
+            "fullDate": "20231213180825",
+            "size": 144549259,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/13-12-2023/Facebook_444.0.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-12-2023/Facebook_444.0.0_Wolf_2.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Wolf 2.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png"
+        },
+        {
             "name": "PocketGod",
             "realBundleID": "com.boltcreative.pocketgod",
             "bundleID": "com.boltcreative.pocketgod",
