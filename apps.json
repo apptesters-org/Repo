@@ -11,6 +11,105 @@
   },
   "apps": [
     {
+      "name": "WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "",
+      "localizedDescription": "Injected with Watusi 1.2.11 Stalky 3.4 OnlineNotify 4.1.24",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+      "versions": [
+        {
+          "version": "23.25.81",
+          "date": "2023-12-14",
+          "size": 97587999,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/WhatsApp_23.25.81_Watusi_1.2.11_Stalky_3.4_OnlineNotify_4.1.24_%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.25.80",
+          "date": "2023-12-11",
+          "size": 97588153,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-12-2023/WhatsApp_23.25.80_Watusi_1.2.11_OnlineNotify_4.1.24_Stalky_3.4.4%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.25.6",
+          "date": "2023-12-09",
+          "size": 97587683,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-12-2023/WhatsApp_23.25.6_Watusi_1.2.11_Stalky_4.1.24_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.24.79",
+          "date": "2023-12-05",
+          "size": 105065388,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/06-12-2023/WhatsApp_23.24.79_Watusi_1.2.11_Stalky_4.1.24_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.23.78",
+          "date": "2023-11-07",
+          "size": 103273119,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/07-11-2023/WhatsApp_23.23.78_Watusi_Stalky_OnlineNotify_%40asdfzxcvbn0_apptesters.org.ipa"
+        },
+        {
+          "version": "23.23.0",
+          "date": "2023-11-01",
+          "size": 104587619,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-11-2023/WhatsApp_23.23.0_Watusi_1.2.10_Stalky_4.1.23_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.19.76",
+          "date": "2023-09-22",
+          "size": 98950997,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/23-09-2023/WhatsApp_23.19.76_Watusi_1.2.4_Stalky_4.1.23_OnlineNotify_3.4.4_%40asdfzxcvbn0_apptesters.org.ipa"
+        },
+        {
+          "version": "23.18.75",
+          "date": "2023-09-11",
+          "size": 103310768,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/WhatsApp_23.18.75_Watusi_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.17.81",
+          "date": "2023-09-09",
+          "size": 93508949,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/10-09-2023/WhatsApp_23.17.81_Watusi_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40asdfzxcvbn0_apptesters.org.ipa"
+        },
+        {
+          "version": "23.17.78",
+          "date": "2023-09-05",
+          "size": 102785623,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/06-09-2023/WhatsApp_23.17.78_Watusi3_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.17.0",
+          "date": "2023-08-23",
+          "size": 74698700,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/24-08-2023/WhatsApp_23.17.0_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_%40asdfzxcvbn0_apptesters.org.ipa"
+        },
+        {
+          "version": "23.16.78",
+          "date": "2023-08-21",
+          "size": 97147281,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/22-08-2023/WhatsApp_23.16.78_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.16.0",
+          "date": "2023-08-07",
+          "size": 83554261,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-08-2023/WhatsApp_23.16.0_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.15.78",
+          "date": "2023-08-07",
+          "size": 101054791,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/07-08-2023/WhatsApp_23.15.78_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
+        },
+        {
+          "version": "23.15.78",
+          "date": "2023-08-04",
+          "size": 76031723,
+          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-08-2023/WhatsApp_23.15.78_Watusi_1.1.66_Stalky_4.1.22_OnlineNotify_3.4.3_Cracked_%40asdfzxcvbn0_apptesters.org.ipa"
+        }
+      ]
+    },
+    {
       "name": "X",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "",
@@ -2629,99 +2728,6 @@
           "date": "2023-08-16",
           "size": 109555080,
           "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-08-2023/InShot_1.71.0_Pro_%40thisismanpreets_apptesters.org.ipa"
-        }
-      ]
-    },
-    {
-      "name": "WhatsApp",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "",
-      "localizedDescription": "Injected with Watusi 1.2.11 OnlineNotify 4.1.24 Stalky 3.4.",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
-      "versions": [
-        {
-          "version": "23.25.80",
-          "date": "2023-12-11",
-          "size": 97588153,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-12-2023/WhatsApp_23.25.80_Watusi_1.2.11_OnlineNotify_4.1.24_Stalky_3.4.4%40thisismanpreets_apptesters.org.ipa"
-        },
-        {
-          "version": "23.25.6",
-          "date": "2023-12-09",
-          "size": 97587683,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/09-12-2023/WhatsApp_23.25.6_Watusi_1.2.11_Stalky_4.1.24_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa"
-        },
-        {
-          "version": "23.24.79",
-          "date": "2023-12-05",
-          "size": 105065388,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/06-12-2023/WhatsApp_23.24.79_Watusi_1.2.11_Stalky_4.1.24_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa"
-        },
-        {
-          "version": "23.23.78",
-          "date": "2023-11-07",
-          "size": 103273119,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/07-11-2023/WhatsApp_23.23.78_Watusi_Stalky_OnlineNotify_%40asdfzxcvbn0_apptesters.org.ipa"
-        },
-        {
-          "version": "23.23.0",
-          "date": "2023-11-01",
-          "size": 104587619,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-11-2023/WhatsApp_23.23.0_Watusi_1.2.10_Stalky_4.1.23_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa"
-        },
-        {
-          "version": "23.19.76",
-          "date": "2023-09-22",
-          "size": 98950997,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/23-09-2023/WhatsApp_23.19.76_Watusi_1.2.4_Stalky_4.1.23_OnlineNotify_3.4.4_%40asdfzxcvbn0_apptesters.org.ipa"
-        },
-        {
-          "version": "23.18.75",
-          "date": "2023-09-11",
-          "size": 103310768,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2023/WhatsApp_23.18.75_Watusi_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
-        },
-        {
-          "version": "23.17.81",
-          "date": "2023-09-09",
-          "size": 93508949,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/10-09-2023/WhatsApp_23.17.81_Watusi_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40asdfzxcvbn0_apptesters.org.ipa"
-        },
-        {
-          "version": "23.17.78",
-          "date": "2023-09-05",
-          "size": 102785623,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/06-09-2023/WhatsApp_23.17.78_Watusi3_1.2.1_Stalky_4.1.23_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
-        },
-        {
-          "version": "23.17.0",
-          "date": "2023-08-23",
-          "size": 74698700,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/24-08-2023/WhatsApp_23.17.0_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_%40asdfzxcvbn0_apptesters.org.ipa"
-        },
-        {
-          "version": "23.16.78",
-          "date": "2023-08-21",
-          "size": 97147281,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/22-08-2023/WhatsApp_23.16.78_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
-        },
-        {
-          "version": "23.16.0",
-          "date": "2023-08-07",
-          "size": 83554261,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-08-2023/WhatsApp_23.16.0_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
-        },
-        {
-          "version": "23.15.78",
-          "date": "2023-08-07",
-          "size": 101054791,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/07-08-2023/WhatsApp_23.15.78_Watusi_1.2_Stalky_4.1.22_OnlineNotify_3.4.3_%40thisismanpreets_apptesters.org.ipa"
-        },
-        {
-          "version": "23.15.78",
-          "date": "2023-08-04",
-          "size": 76031723,
-          "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-08-2023/WhatsApp_23.15.78_Watusi_1.1.66_Stalky_4.1.22_OnlineNotify_3.4.3_Cracked_%40asdfzxcvbn0_apptesters.org.ipa"
         }
       ]
     },
