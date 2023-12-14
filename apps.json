@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.25.81",
+            "versionDate": "2023-12-14",
+            "fullDate": "20231214173611",
+            "size": 97587999,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/WhatsApp_23.25.81_Watusi_1.2.11_Stalky_3.4_OnlineNotify_4.1.24_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/WhatsApp_23.25.81_Watusi_1.2.11_Stalky_3.4_OnlineNotify_4.1.24_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.11 Stalky 3.4 OnlineNotify 4.1.24",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "X",
             "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "com.atebits.Tweetie2",
