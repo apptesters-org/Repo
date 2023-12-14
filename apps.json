@@ -76,9 +76,9 @@
         },
         {
             "name": "WHATTHECAR",
-            "realBundleID": null,
-            "bundleID": null,
-            "bundleIdentifier": null,
+            "realBundleID": "nan",
+            "bundleID": "nan",
+            "bundleIdentifier": "nan",
             "version": "3.4.1",
             "versionDate": "2023-12-14",
             "fullDate": "20231214121948",
@@ -87,8 +87,8 @@
             "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/WHATTHECAR_3.4.1_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/None.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/None.png"
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
         },
         {
             "name": "WarpedKartRacers",
@@ -123,7 +123,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.gamious.turmoilplus.png"
         },
         {
-            "name": "TempleRun.PuzzleAdventure",
+            "name": "TempleRunPuzzleAdventure",
             "realBundleID": "com.scopely.templerun",
             "bundleID": "com.scopely.templerun",
             "bundleIdentifier": "com.scopely.templerun",
@@ -131,8 +131,8 @@
             "versionDate": "2023-12-14",
             "fullDate": "20231214121829",
             "size": 317264206,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/TempleRun.PuzzleAdventure_4.1.0117_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/TempleRun.PuzzleAdventure_4.1.0117_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/TempleRunPuzzleAdventure_4.1.0117_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/TempleRunPuzzleAdventure_4.1.0117_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.scopely.templerun.png",
@@ -348,9 +348,9 @@
         },
         {
             "name": "SambadeAmigo",
-            "realBundleID": null,
-            "bundleID": null,
-            "bundleIdentifier": null,
+            "realBundleID": "nan",
+            "bundleID": "nan",
+            "bundleIdentifier": "nan",
             "version": "1.1.2",
             "versionDate": "2023-12-14",
             "fullDate": "20231214121606",
@@ -359,8 +359,8 @@
             "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/SambadeAmigo_1.1.2_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/None.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/None.png"
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
         },
         {
             "name": "ReallyBadChess+",
@@ -1001,22 +1001,6 @@
             "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.gameloft.baseballrivals.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.gameloft.baseballrivals.png"
-        },
-        {
-            "name": "CharruaSoccerFixed_@thisismanpreets_apptesters.org",
-            "realBundleID": "com.batovi.soccer19",
-            "bundleID": "com.batovi.soccer19",
-            "bundleIdentifier": "com.batovi.soccer19",
-            "version": "Unknown",
-            "versionDate": "2023-12-14",
-            "fullDate": "20231214120731",
-            "size": 602033158,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/CharruaSoccerFixed_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/CharruaSoccerFixed_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.batovi.soccer19.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.batovi.soccer19.png"
         },
         {
             "name": "TheRoomThree",
