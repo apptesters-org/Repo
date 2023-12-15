@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.25.81",
+            "versionDate": "2023-12-15",
+            "fullDate": "20231215194935",
+            "size": 97271997,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/16-12-2023/WhatsApp_23.25.81_Watusi_1.2.14_Stalky_3.4.4_OnlineNotify_4.1.24_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-12-2023/WhatsApp_23.25.81_Watusi_1.2.14_Stalky_3.4.4_OnlineNotify_4.1.24_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.14 Stalky 3.4.4 OnlineNotify 4.1.24",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "TappedOut",
             "realBundleID": "com.ea.simpsonssocial.bv2",
             "bundleID": "com.ea.simpsonssocial.bv2",
@@ -297,22 +313,6 @@
             "localizedDescription": "Injected with HackFeatures",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
-        },
-        {
-            "name": "WhatsApp",
-            "realBundleID": "net.whatsapp.WhatsApp",
-            "bundleID": "net.whatsapp.WhatsApp",
-            "bundleIdentifier": "net.whatsapp.WhatsApp",
-            "version": "23.25.81",
-            "versionDate": "2023-12-14",
-            "fullDate": "20231214190238",
-            "size": 97264866,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/15-12-2023/WhatsApp_23.25.81_Watusi_1.2.14_Stalky_3.4.4_OnlineNotify_4.1.24_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-12-2023/WhatsApp_23.25.81_Watusi_1.2.14_Stalky_3.4.4_OnlineNotify_4.1.24_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Watusi 1.2.14 Stalky 3.4.4 OnlineNotify 4.1.24",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "X",
