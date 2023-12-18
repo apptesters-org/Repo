@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "WABusiness",
+            "realBundleID": "net.whatsapp.WhatsAppSMB",
+            "bundleID": "net.whatsapp.WhatsAppSMB",
+            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+            "version": "23.25.84",
+            "versionDate": "2023-12-18",
+            "fullDate": "20231218204151",
+            "size": 103423375,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-12-2023/WABusiness_23.25.84_Watusi_1.2.14_OnlineNotify_4.1.24_Stalky_3.4.4_AlertFix_BlockWAUpdates_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-12-2023/WABusiness_23.25.84_Watusi_1.2.14_OnlineNotify_4.1.24_Stalky_3.4.4_AlertFix_BlockWAUpdates_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.14 OnlineNotify 4.1.24 Stalky 3.4.4 AlertFix BlockWAUpdates",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsAppSMB.png"
+        },
+        {
+            "name": "WhatsApp",
+            "realBundleID": "net.whatsapp.WhatsApp",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "23.25.84",
+            "versionDate": "2023-12-18",
+            "fullDate": "20231218204151",
+            "size": 97276523,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-12-2023/WhatsApp_23.25.84_Watusi_1.2.14_OnlineNotify_4.1.24_Stalky_3.4.4_AlertFix_BlockWAUpdates_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-12-2023/WhatsApp_23.25.84_Watusi_1.2.14_OnlineNotify_4.1.24_Stalky_3.4.4_AlertFix_BlockWAUpdates_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.14 OnlineNotify 4.1.24 Stalky 3.4.4 AlertFix BlockWAUpdates",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "Township",
             "realBundleID": "com.playrix.township-ios",
             "bundleID": "com.playrix.township-ios",
