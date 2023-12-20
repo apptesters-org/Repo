@@ -61,13 +61,13 @@ if __name__ == "__main__":
             data["apps"].append(
                 {
                     "name": app_name,
-                    "type": info["genre"],
+                    "type": int(info["genre"]),
                     "bundleID": info["bundle"],
                     "bundleIdentifier": info["bundle"],
                     "version": version,
                     "versionDate": date,
                     "fullDate": full_date,
-                    "size": asset.size,
+                    "size": int(asset.size),
                     "down": asset.browser_download_url,
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
