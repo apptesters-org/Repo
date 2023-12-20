@@ -81,6 +81,6 @@ if __name__ == "__main__":
     df.to_csv("bundleId.csv", index=False)
 
     with open(out_file, 'w') as json_file:
-        json.dump(data, json_file, indent=4, default=str)
+        json.dump(data, json_file, indent=4)
 
     shutil.copyfile(out_file, clone_file)
