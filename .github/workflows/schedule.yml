@@ -23,10 +23,10 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.8 #install the python needed
+          python-version: 3.12.1 #install the python needed
       - name: install python packages
         run: |
-          pip install PyGithub pandas
+          pip install PyGithub pandas Pillow
       - name: execute py script # run the run.py to get the latest data
         env: 
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
