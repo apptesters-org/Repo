@@ -284,7 +284,7 @@
         },
         {
             "name": "ColoplRuneStory",
-            "type": 1,
+            "type": 2,
             "bundleID": "jp.colopl.wcat",
             "bundleIdentifier": "jp.colopl.wcat",
             "version": "4.49.0",
@@ -11388,7 +11388,7 @@
         },
         {
             "name": "ColoplRuneStory",
-            "type": 1,
+            "type": 2,
             "bundleID": "jp.colopl.wcat",
             "bundleIdentifier": "jp.colopl.wcat",
             "version": "4.45.0",
