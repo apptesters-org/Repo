@@ -1404,7 +1404,7 @@
         },
         {
             "name": "DISTRAINT",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.winterveilstudios.distraintdeluxe",
             "bundleIdentifier": "com.winterveilstudios.distraintdeluxe",
             "version": "1.0",
@@ -1468,7 +1468,7 @@
         },
         {
             "name": "WarRobots",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.pixonic.nk3",
             "bundleIdentifier": "com.pixonic.nk3",
             "version": "9.6.0",
@@ -1820,7 +1820,7 @@
         },
         {
             "name": "TappedOut",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.ea.simpsonssocial.bv2",
             "bundleIdentifier": "com.ea.simpsonssocial.bv2",
             "version": "4.65.0",
@@ -1948,7 +1948,7 @@
         },
         {
             "name": "SpyFox",
-            "type": 1,
+            "type": 2,
             "bundleID": "ru.dm1p1r.spyfox1rusdanilkamm",
             "bundleIdentifier": "ru.dm1p1r.spyfox1rusdanilkamm",
             "version": "1.2.1",
@@ -3516,7 +3516,7 @@
         },
         {
             "name": "DBLEGENDSJp",
-            "type": 1,
+            "type": 2,
             "bundleID": "jp.co.bandainamcoent.BNEI0333",
             "bundleIdentifier": "jp.co.bandainamcoent.BNEI0333",
             "version": "4.34.0",
@@ -4300,7 +4300,7 @@
         },
         {
             "name": "Spiderman",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.gameloft.Spiderman",
             "bundleIdentifier": "com.gameloft.Spiderman",
             "version": "4.3.0",
@@ -5452,7 +5452,7 @@
         },
         {
             "name": "TocaWorld",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.tocaboca.tocalifeworld",
             "bundleIdentifier": "com.tocaboca.tocalifeworld",
             "version": "1.76",
@@ -6908,7 +6908,7 @@
         },
         {
             "name": "TappedOut",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.ea.simpsonssocial.bv2",
             "bundleIdentifier": "com.ea.simpsonssocial.bv2",
             "version": "4.64.8",
@@ -6956,7 +6956,7 @@
         },
         {
             "name": "NullsRoyale",
-            "type": 1,
+            "type": 2,
             "bundleID": "nt.nr.ios1",
             "bundleIdentifier": "nt.nr.ios1",
             "version": "4.88.4",
@@ -6988,7 +6988,7 @@
         },
         {
             "name": "WarRobots",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.pixonic.nk3",
             "bundleIdentifier": "com.pixonic.nk3",
             "version": "9.5.1",
@@ -7500,7 +7500,7 @@
         },
         {
             "name": "IdleGhost",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.nadadigital.idleghostgirl",
             "bundleIdentifier": "com.nadadigital.idleghostgirl",
             "version": "1.01.010",
@@ -9196,7 +9196,7 @@
         },
         {
             "name": "DungeonSurvival",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.frozenfrog.DungeonSurvivaldvc",
             "bundleIdentifier": "com.frozenfrog.DungeonSurvivaldvc",
             "version": "1.82",
@@ -9452,7 +9452,7 @@
         },
         {
             "name": "NIKKET",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.gamamobi.nikke",
             "bundleIdentifier": "com.gamamobi.nikke",
             "version": "113.12",
@@ -11356,7 +11356,7 @@
         },
         {
             "name": "MASSFORTHEDEAD",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.exys2008.over",
             "bundleIdentifier": "com.exys2008.over",
             "version": "1.60.1",
@@ -11372,7 +11372,7 @@
         },
         {
             "name": "KyoutouKotobaRPGKotodaman",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.sega.Kotodaman",
             "bundleIdentifier": "com.sega.Kotodaman",
             "version": "6.4.1",
@@ -11420,7 +11420,7 @@
         },
         {
             "name": "TappedOut",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.ea.simpsonssocial.bv2",
             "bundleIdentifier": "com.ea.simpsonssocial.bv2",
             "version": "4.64.4",
@@ -11676,7 +11676,7 @@
         },
         {
             "name": "CardWars",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.turner.cardwars",
             "bundleIdentifier": "com.turner.cardwars",
             "version": "1.8.0",
@@ -12140,7 +12140,7 @@
         },
         {
             "name": "WarRobots",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.pixonic.nk3",
             "bundleIdentifier": "com.pixonic.nk3",
             "version": "9.5.0",
@@ -12940,7 +12940,7 @@
         },
         {
             "name": "ClashOfClans",
-            "type": 1,
+            "type": 2,
             "bundleID": "nt.nc.ios",
             "bundleIdentifier": "nt.nc.ios",
             "version": "15.547.8",
@@ -13356,7 +13356,7 @@
         },
         {
             "name": "NullsBrawl",
-            "type": 1,
+            "type": 2,
             "bundleID": "nt.nb.ios",
             "bundleIdentifier": "nt.nb.ios",
             "version": "52.177",
@@ -17020,7 +17020,7 @@
         },
         {
             "name": "TappedOut",
-            "type": 1,
+            "type": 2,
             "bundleID": "com.ea.simpsonssocial.bv2",
             "bundleIdentifier": "com.ea.simpsonssocial.bv2",
             "version": "4.63.0",
