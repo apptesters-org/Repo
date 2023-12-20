@@ -27,18 +27,18 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
         },
         {
-            "name": "TikTok_32.6.0_BHTikTokPlus_2.3",
+            "name": "TikTok",
             "type": 1,
             "bundleID": "com.zhiliaoapp.musically",
             "bundleIdentifier": "com.zhiliaoapp.musically",
-            "version": "Unknown",
+            "version": "32.6.0",
             "versionDate": "2023-12-19",
             "fullDate": "20231219210428",
             "size": 179621001,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/20-12-2023/TikTok_32.6.0_BHTikTokPlus_2.3.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-12-2023/TikTok_32.6.0_BHTikTokPlus_2.3.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/20-12-2023/TikTok_32.6.0_BHTikTokPlus_2.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-12-2023/TikTok_32.6.0_BHTikTokPlus_2.3_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": null,
+            "localizedDescription": "Injected with BHTikTokPlus 2.3",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
         },
