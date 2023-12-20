@@ -491,22 +491,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.hitcents.hanx.png"
         },
         {
-            "name": "YallaShoot",
-            "type": 1,
-            "bundleID": NaN,
-            "bundleIdentifier": NaN,
-            "version": "4.0.06",
-            "versionDate": "2023-12-18",
-            "fullDate": "20231218173437",
-            "size": 8257536,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/18-12-2023/YallaShoot_4.0.06_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-12-2023/YallaShoot_4.0.06_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
-        },
-        {
             "name": "1v1LOL",
             "type": 2,
             "bundleID": "lol.onevone",
@@ -2155,22 +2139,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mkarpenko.worldbox.png"
         },
         {
-            "name": "WHATTHECAR",
-            "type": 1,
-            "bundleID": NaN,
-            "bundleIdentifier": NaN,
-            "version": "3.4.1",
-            "versionDate": "2023-12-14",
-            "fullDate": "20231214121948",
-            "size": 14469120,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/WHATTHECAR_3.4.1_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/WHATTHECAR_3.4.1_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
-        },
-        {
             "name": "WarpedKartRacers",
             "type": 2,
             "bundleID": "com.electricsquare.atlas-testflight",
@@ -2425,22 +2393,6 @@
             "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/SWHEARTS.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/SWHEARTS.png"
-        },
-        {
-            "name": "SambadeAmigo",
-            "type": 1,
-            "bundleID": NaN,
-            "bundleIdentifier": NaN,
-            "version": "1.1.2",
-            "versionDate": "2023-12-14",
-            "fullDate": "20231214121606",
-            "size": 369049600,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/SambadeAmigo_1.1.2_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/14-12-2023/SambadeAmigo_1.1.2_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
         },
         {
             "name": "ReallyBadChess+",
@@ -5787,22 +5739,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.frju.thelastgame.png"
         },
         {
-            "name": "PuzzleQuest",
-            "type": 1,
-            "bundleID": NaN,
-            "bundleIdentifier": NaN,
-            "version": "291.663063",
-            "versionDate": "2023-12-01",
-            "fullDate": "20231201192827",
-            "size": 167678192,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/01-12-2023/PuzzleQuest_291.663063_OneHitKill_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-12-2023/PuzzleQuest_291.663063_OneHitKill_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with OneHitKill",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
-        },
-        {
             "name": "SubwaySurf",
             "type": 2,
             "bundleID": "com.kiloo.subwaysurfers",
@@ -6313,22 +6249,6 @@
             "localizedDescription": "Injected with HackFeatures",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lbhk.idlesurvivorfortresstycoon.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lbhk.idlesurvivorfortresstycoon.png"
-        },
-        {
-            "name": "PuzzleQuest",
-            "type": 1,
-            "bundleID": NaN,
-            "bundleIdentifier": NaN,
-            "version": "290.661281",
-            "versionDate": "2023-11-29",
-            "fullDate": "20231129154750",
-            "size": 173893221,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/29-11-2023/PuzzleQuest_290.661281_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/29-11-2023/PuzzleQuest_290.661281_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
         },
         {
             "name": "DiceDreams",
@@ -10619,22 +10539,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.apperto.videorama.png"
         },
         {
-            "name": "MusicRemover",
-            "type": 1,
-            "bundleID": NaN,
-            "bundleIdentifier": NaN,
-            "version": "1.2",
-            "versionDate": "2023-11-02",
-            "fullDate": "20231102135359",
-            "size": 92116078,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/02-11-2023/MusicRemover_1.2_%40thisismanpreets_apptesters.org.-.Copy.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/02-11-2023/MusicRemover_1.2_%40thisismanpreets_apptesters.org.-.Copy.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
-        },
-        {
             "name": "Stellarium",
             "type": 1,
             "bundleID": "com.noctuasoftware.stellarium-mobile-plus",
@@ -10665,22 +10569,6 @@
             "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/jp.shunsuke-osawa.PhotoEnhancer.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/jp.shunsuke-osawa.PhotoEnhancer.png"
-        },
-        {
-            "name": "MusicRemover",
-            "type": 1,
-            "bundleID": NaN,
-            "bundleIdentifier": NaN,
-            "version": "1.2",
-            "versionDate": "2023-11-02",
-            "fullDate": "20231102133954",
-            "size": 92116078,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/02-11-2023/MusicRemover_1.2_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/02-11-2023/MusicRemover_1.2_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
         },
         {
             "name": "HTTPSPacket",
