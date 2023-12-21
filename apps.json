@@ -107,22 +107,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/pineapplelabs.Opener.png"
         },
         {
-            "name": "GeometryDash",
-            "type": 2,
-            "bundleID": "com.robtop.geometryjump",
-            "bundleIdentifier": "com.robtop.geometryjump",
-            "version": "2.2",
-            "versionDate": "2023-12-20",
-            "fullDate": "20231220133321",
-            "size": 150355491,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/20-12-2023/GeometryDash_2.2_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-12-2023/GeometryDash_2.2_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.robtop.geometryjump.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.robtop.geometryjump.png"
-        },
-        {
             "name": "DevMonPro",
             "type": 1,
             "bundleID": "org.fastdevsproject.altervista.Device-Monitor",
@@ -204,7 +188,7 @@
         },
         {
             "name": "ArcherHunter",
-            "type": 2,
+            "type": 5,
             "bundleID": "co.imba.archero",
             "bundleIdentifier": "co.imba.archero",
             "version": "0.20.328",
