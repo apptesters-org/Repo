@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Adblock",
+            "type": 5,
+            "bundleId": "org.apptesters.repo.adblock",
+            "bundleIdentifier": "org.apptesters.repo.adblock",
+            "version": "1.0",
+            "versionDate": "2023-12-21",
+            "fullDate": "20231221145601",
+            "size": 199536,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/21-12-2023/Adblock_1.0_%40thisismanpreets_apptesters.org.dylib",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-12-2023/Adblock_1.0_%40thisismanpreets_apptesters.org.dylib",
+            "developerName": "",
+            "localizedDescription": "Adblock",
+            "icon": "https://cdn.discordapp.com/attachments/1105094393771347976/1146587609674547230/apptesters-resized.png",
+            "iconURL": "https://cdn.discordapp.com/attachments/1105094393771347976/1146587609674547230/apptesters-resized.png"
+        },
+        {
             "name": "ZooParkStory",
             "type": 2,
             "bundleID": "net.kairosoft.iOS.zoo",
