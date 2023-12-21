@@ -36,9 +36,10 @@ if __name__ == "__main__":
         print(release.title)
 
         for asset in release.get_assets():
-            if not asset.name.endswith(".ipa"):
+            if (spl := asset.name.split("."))[-1] not in ("ipa", "dylib", "deb"):
                 continue
-            name = asset.name[:-4]
+            IS_IPA = spl[-1] == "ipa"
+            name = ".".join(spl[:-1])
             date = asset.created_at.strftime("%Y-%m-%d")
             full_date = asset.created_at.strftime("%Y%m%d%H%M%S")
             try:
@@ -51,15 +52,15 @@ if __name__ == "__main__":
                 version = "Unknown"
                 tweaks = None
 
-            if app_name in df.name.values:
-                info = {"bundle": df[df.name == app_name].bundleId.values[0], "genre": df[df.name == app_name].genre.values[0]}
-            else:
-                info = get_single_bundle_id(asset.browser_download_url)
-                df = pd.concat([df, pd.DataFrame(
-                    {"name": [app_name], "bundleId": [info["bundle"]], "genre": [info["genre"]]})], ignore_index=True)
+            if IS_IPA:
+                if app_name in df.name.values:
+                    info = {"bundle": df[df.name == app_name].bundleId.values[0], "genre": df[df.name == app_name].genre.values[0]}
+                else:
+                    info = get_single_bundle_id(asset.browser_download_url)
+                    df = pd.concat([df, pd.DataFrame(
+                        {"name": [app_name], "bundleId": [info["bundle"]], "genre": [info["genre"]]})], ignore_index=True)
 
-            data["apps"].append(
-                {
+                data["apps"].append({
                     "name": app_name,
                     "type": int(info["genre"]),
                     "bundleID": info["bundle"],
@@ -74,8 +75,25 @@ if __name__ == "__main__":
                     "localizedDescription": tweaks,
                     "icon": f"https://raw.githubusercontent.com/{repo_name}/main/icons/{info["bundle"]}.png",
                     "iconURL": f"https://raw.githubusercontent.com/{repo_name}/main/icons/{info["bundle"]}.png"
-                }
-            )
+                })
+            else:
+                data["apps"].append({
+                    "name": app_name,
+                    "type": 5,
+                    "bundleId": f"org.apptesters.repo.{app_name.lower()}",
+                    "bundleIdentifier": f"org.apptesters.repo.{app_name.lower()}",
+                    "version": version,
+                    "versionDate": date,
+                    "fullDate": full_date,
+                    "size": int(asset.size),
+                    "down": asset.browser_download_url,
+                    "downloadURL": asset.browser_download_url,
+                    "developerName": "",
+                    "localizedDescription": app_name,
+                    "icon": "https://cdn.discordapp.com/attachments/1105094393771347976/1146587609674547230/apptesters-resized.png",
+                    "iconURL": "https://cdn.discordapp.com/attachments/1105094393771347976/1146587609674547230/apptesters-resized.png"
+                })
+
             data["apps"].sort(key=lambda x: x["fullDate"], reverse=True)
 
     df.to_csv("bundleId.csv", index=False)
