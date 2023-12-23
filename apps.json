@@ -91,22 +91,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.turner.ttgfigures.png"
         },
         {
-            "name": "Solar2_@thisismanpreets_apptesters.org",
-            "type": 2,
-            "bundleID": "com.murudai.solar2",
-            "bundleIdentifier": "com.murudai.solar2",
-            "version": "Unknown",
-            "versionDate": "2023-12-23",
-            "fullDate": "20231223225404",
-            "size": 65353921,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/24-12-2023/Solar2_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/24-12-2023/Solar2_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": null,
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.murudai.solar2.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.murudai.solar2.png"
-        },
-        {
             "name": "SnowBladeReload",
             "type": 2,
             "bundleID": "com.crescentmoongames.shadowbladereload",
