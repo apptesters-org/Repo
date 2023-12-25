@@ -11,18 +11,18 @@
     },
     "apps": [
         {
-            "name": "Wonderbox",
+            "name": "Wonderbox-TheAdventureMaker",
             "type": 2,
             "bundleID": "com.aquiris.wonderbox",
             "bundleIdentifier": "com.aquiris.wonderbox",
-            "version": "TheAdventureMaker",
+            "version": "2.5.1",
             "versionDate": "2023-12-24",
             "fullDate": "20231224234433",
             "size": 1014467656,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/25-12-2023/Wonderbox_TheAdventureMaker_2.5.1_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/25-12-2023/Wonderbox_TheAdventureMaker_2.5.1_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/25-12-2023/Wonderbox-TheAdventureMaker_2.5.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/25-12-2023/Wonderbox-TheAdventureMaker_2.5.1_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "Injected with 2.5.1",
+            "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.aquiris.wonderbox.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.aquiris.wonderbox.png"
         },
