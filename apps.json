@@ -91,22 +91,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.thelabelgames.golf.png"
         },
         {
-            "name": "WHATTHECAR",
-            "type": 1,
-            "bundleID": NaN,
-            "bundleIdentifier": NaN,
-            "version": "3.5.0",
-            "versionDate": "2023-12-25",
-            "fullDate": "20231225112835",
-            "size": 425332525,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/25-12-2023/WHATTHECAR_3.5.0_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/25-12-2023/WHATTHECAR_3.5.0_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
-        },
-        {
             "name": "UFOonTape-FirstContact",
             "type": 2,
             "bundleID": "com.revolutionaryconcepts.ufo2",
