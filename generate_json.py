@@ -63,8 +63,8 @@ if __name__ == "__main__":
                 data["apps"].append({
                     "name": app_name,
                     "type": int(info["genre"]),
-                    "bundleID": info["bundle"],
-                    "bundleIdentifier": info["bundle"],
+                    "bundleID": str(info["bundle"]),
+                    "bundleIdentifier": str(info["bundle"]),
                     "version": version,
                     "versionDate": date,
                     "fullDate": full_date,
