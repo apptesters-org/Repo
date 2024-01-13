@@ -43,18 +43,18 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.camerasideas.InstaShot.png"
         },
         {
-            "name": "PicsArt24.0.1",
+            "name": "PicsArt",
             "type": 1,
             "bundleID": "com.picsart.studio",
             "bundleIdentifier": "com.picsart.studio",
-            "version": "ProUnlocked",
+            "version": "24.0.1",
             "versionDate": "2024-01-13",
             "fullDate": "20240113134134",
             "size": 99827764,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/PicsArt24.0.1_ProUnlocked_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/PicsArt24.0.1_ProUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/PicsArt_24.0.1_ProUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-01-2024/PicsArt_24.0.1_ProUnlocked_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "",
+            "localizedDescription": "Injected with ProUnlocked",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.picsart.studio.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.picsart.studio.png"
         },
