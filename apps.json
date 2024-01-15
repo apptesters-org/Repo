@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "MobileScanner",
+            "type": 1,
+            "bundleID": "com.glority.everlens",
+            "bundleIdentifier": "com.glority.everlens",
+            "version": "2.12.27",
+            "versionDate": "2024-01-15",
+            "fullDate": "20240115133433",
+            "size": 63103764,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-01-2024/MobileScanner_2.12.27_ProFutureUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-01-2024/MobileScanner_2.12.27_ProFutureUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with ProFutureUnlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.glority.everlens.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.glority.everlens.png"
+        },
+        {
+            "name": "Blackbox",
+            "type": 2,
+            "bundleID": "com.growpixel.blackbox",
+            "bundleIdentifier": "com.growpixel.blackbox",
+            "version": "2.2.10",
+            "versionDate": "2024-01-15",
+            "fullDate": "20240115133409",
+            "size": 43910992,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-01-2024/Blackbox_2.2.10_ProFutureUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-01-2024/Blackbox_2.2.10_ProFutureUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with ProFutureUnlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.growpixel.blackbox.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.growpixel.blackbox.png"
+        },
+        {
             "name": "PrettyUp",
             "type": 1,
             "bundleID": "com.floatcamellia.prettyup",
