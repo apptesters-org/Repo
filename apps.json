@@ -123,18 +123,18 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.gamegos.mobile.cafeland.png"
         },
         {
-            "name": "BrainOut1.4.1",
+            "name": "BrainOut",
             "type": 2,
             "bundleID": "com.mind.quiz.brain.out",
             "bundleIdentifier": "com.mind.quiz.brain.out",
-            "version": "HackFeatures",
+            "version": "1.4.1",
             "versionDate": "2024-01-19",
             "fullDate": "20240119182648",
             "size": 102188532,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/19-01-2024/BrainOut1.4.1_HackFeatures_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-01-2024/BrainOut1.4.1_HackFeatures_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-01-2024/BrainOut_1.4.1_HackFeatures_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-01-2024/BrainOut_1.4.1_HackFeatures_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "",
+            "localizedDescription": "Injected with HackFeatures",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mind.quiz.brain.out.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mind.quiz.brain.out.png"
         },
