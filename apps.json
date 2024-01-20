@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "FitbodElite",
+            "type": 1,
+            "bundleID": "com.fitbod",
+            "bundleIdentifier": "com.fitbod",
+            "version": "6.24.0",
+            "versionDate": "2024-01-20",
+            "fullDate": "20240120192915",
+            "size": 93018696,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/20-01-2024/FitbodElite_6.24.0_FeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-01-2024/FitbodElite_6.24.0_FeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with FeaturesUnlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.fitbod.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.fitbod.png"
+        },
+        {
+            "name": "Calm",
+            "type": 1,
+            "bundleID": "com.calm.calmapp",
+            "bundleIdentifier": "com.calm.calmapp",
+            "version": "6.38",
+            "versionDate": "2024-01-20",
+            "fullDate": "20240120192834",
+            "size": 68225719,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/20-01-2024/Calm_6.38_PremiumFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/20-01-2024/Calm_6.38_PremiumFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with PremiumFeaturesUnlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.calm.calmapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.calm.calmapp.png"
+        },
+        {
             "name": "Mercury",
             "type": 1,
             "bundleID": "com.tripleglazedstudios.Weather",
