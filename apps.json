@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "SuperChat",
+            "type": 1,
+            "bundleID": "io.labhouse.chatbotapp",
+            "bundleIdentifier": "io.labhouse.chatbotapp",
+            "version": "1.0.12",
+            "versionDate": "2024-02-17",
+            "fullDate": "20240217180306",
+            "size": 39967493,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-02-2024/SuperChat_1.0.12_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-02-2024/SuperChat_1.0.12_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with ProFeaturesUnlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/io.labhouse.chatbotapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/io.labhouse.chatbotapp.png"
+        },
+        {
+            "name": "SCRL",
+            "type": 1,
+            "bundleID": "com.dopedevelopment.Panels",
+            "bundleIdentifier": "com.dopedevelopment.Panels",
+            "version": "9.1.8",
+            "versionDate": "2024-02-17",
+            "fullDate": "20240217180231",
+            "size": 66130276,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/17-02-2024/SCRL_9.1.8_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/17-02-2024/SCRL_9.1.8_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with ProFeaturesUnlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dopedevelopment.Panels.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dopedevelopment.Panels.png"
+        },
+        {
             "name": "PuzzleQuest",
             "type": 1,
             "bundleID": "nan",
