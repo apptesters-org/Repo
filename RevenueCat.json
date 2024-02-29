@@ -1,0 +1,110 @@
+const resp = {};
+const obj = JSON.parse(typeof $response !== "undefined" && $response.body || null);
+const ua = $request.headers['User-Agent'] || $request.headers['user-agent'];
+const list = {
+  'avatar': { name: 'pro', id: 'ai_avatar_life_time' },
+  'PhotoEnhancer': { name: 'allaccess', id: 'ai_enhancer_1y' },
+  'StarLookAlike': { name: 'allaccess', id: 'celebrity_looklike_1y' },
+  'NFTPriceEstimation': {name: 'pro', id: 'textoimage_starterkit_lifetime' },
+  'Baby%20Generator%20-%20Store': {name: 'allaccess', id: 'apunew_starterkit_1y' },
+  'AIWriter': {name: 'pro', id: 'com.MattSutton.AIWriterProYearly' },
+  'TutorPal': {name: 'pro', id: 'com.MattSutton.TutorPalYearly' },
+  'PaperPal': {name: 'pro', id: 'com.MattSutton.PaperPalProYearly' },
+  'Finger%20Flutter': {name: 'pro', id: 'com.FingerFlutter.RemoveAds' },
+  'BarcodeScanner': {name: 'pro', id: 'com.MattSutton.BarcodeScannerProLifetime' },
+  'TimeBuddy': {name: 'pro', id: 'com.MattSutton.TimeBuddyPlusYearly' },
+  'TraceMaster': {name: 'pro', id: 'com.MattSutton.TraceMasterProLifetime' },
+  'QRKit': {name: 'pro', id: 'com.MattSutton.QRKitProLifetime' },
+  'IconKit': {name: 'pro', id: 'com.mattsutton.iconkitpro' },
+  'Watermark': {name: 'pro', id: 'com.mattsutton.watermarkpro' },
+  'TipCalc': {name: 'pro', id: 'com.mattsutton.supportTipCalc' },
+  'BookPal': {name: 'pro', id: 'com.MattSutton.BookPalProYearly' },
+  'AIKeyboard': {name: 'pro', id: 'com.MattSutton.AIKeyboardProYearly' },
+  'ArtGenerator': {name: 'pro', id: 'com.MattSutton.FlairLifetime' },
+  'LockSwitch': {name: 'pro', id: 'com.MattSutton.LockSwitchProAnnual' },
+  'SuperFast': {name: 'pro', id: 'com.MattSutton.SuperFastPremiumMonthly' },
+  'GameLog': {name: 'pro', id: 'com.MattSutton.GameLogPremiumLifetime' },
+  'Litstick': {name: 'Plus', id: 'com.mangolabs.stickered.premium.yearly' },
+  'Fontkey': {name: 'plus', id: 'timl.copy.fontkey.plus.weekly' },
+  'Petify': {name: 'Petify Premium', id: 'app.petify.prod.premium.yearly' },
+  'Daily%20Stories%20Prod': {name: 'Cosmic Vision Premium', id: 'app.cosmicvision.prod.premium.yearly' },
+  'RizzgodProd': {name: 'RizzGod Premium', id: 'app.rizzgod.prod.premium.yearly' },
+  'Ristretto%20Prod': {name: 'Ristretto Premium', id: 'fm.ristretto.app.premium.yearly' },
+  'Celebify%20Prod': {name: 'premium', id: 'app.avastar.prod.premium.yearly' },
+  'BabyLab': {name: 'plus', id: 'com.mangolabs.babylab.plus.annually' },
+  'Fontmaker': {name: 'premium', id: 'com.mangolabs.fontmaker.plus.annually' },
+  'AutoPaste': {name: 'premium', id: 'com.mangolabs.copypaste.plus.weekly' },
+  'Celebs': {name: 'plus', id: 'com.xpcapital.celebs.plus.weekly' },
+  'Rose': {name: 'gold', id: 'com.onrose.Vibe.plus.new.yearly' },
+  'Mojo': {name: 'pro', id: 'video.mojo.pro.yearly.version.e' },
+  'AI%20Text%20Enhancer': {name: 'pro', id: 'enhancer_pro_1y' },
+  'WidgetSmith': {name: 'Premium', id: 'PremiumAnnualWidget' },
+  'Rapchat': {name: 'Gold', id: 'rc_2999_1Y' },
+  'Mindset': {name: 'premium', id: 'com.vanir.mindset.YearlyPayment' },
+  'Evia': {name: 'full', id: 'com.mindsethealth.meno.3month' },
+  'Finito': {name: 'full', id: 'com.mindsethealth.quit.lifetime' },
+  'audiomack-iphone': {name: 'Premium1', id: 'com.audiomack.premium.2023' },
+  'oto': {name: 'Oto Premium', id: 'lifetime_access' },
+  'Dipsea': {name: 'subscriptions', id: 'com.dipsea.unlimited.lifetime' },
+  'blaze': {name: 'premium', id: 'blaze_premium_subscription_tier50_yearly' },
+  'Picolo': {name: 'premium', id: 'premium' },
+  'Snax': {name: 'premium', id: 'snax_premium_subscription_tier50_yearly' },
+  'Baby': {name: 'premium', id: 'com.doleearts.Baby.premium' },
+  'CardPointers': {name: 'pro', id: 'cardpointers_lifetime_100' },
+  'Done': {name: 'done_premium', id: 'com.tbd.Done.lifetime.v3' },
+  'oath': {name: 'oath_premium', id: 'com.oath.subscription.yearly.v3' },
+  'Timetable': {name: 'Premium', id: 'com.timetable.subscription.yearly.v3' },
+  'Purr': {name: 'Pro', id: 'com.purr.promode' },
+  'HabitMinder': {name: 'habitminder_premium', id: 'habitminder.unlimited' },
+  'Moody': {name: 'moody_premium', id: 'com.tbd.Moody.subscription.yearly.v6' },
+  'Mindfulness': {name: 'themindfulnessapp_premium', id: 'com.themindfulnessapp.lifetime.v3' },
+  '1Blocker': {name: 'premium', id: 'blocker.ios.subscription.yearly' },
+  'Amie': {name: 'pro', id: 'amie_pro_9999_1y_23012024' },
+  'Darkroom': {name: 'co.bergen.Darkroom.entitlement.allToolsAndFilters', id: 'co.bergen.Darkroom.product.forever.everything' },
+  'Radarbot': {name: 'gold_access', id: 'rb_gold_3599_annual_offer_1y2499' },
+  'Structured': {name: 'pro', id: 'today.structured.pro' },
+  'Grateful': {name: 'grateful_premium', id: 'com.tbd.Grateful.subscription.yearly.v6' },
+  'FastingForWoman': {name: 'wefast_premium', id: 'wf_19999_lifetime_1' },
+  'timebloc': {name: 'timebloc_premium', id: 'com.foruslabs.timebloc.lifetime.v3' },
+  'Habit': {name: 'premium', id: 'com.habit.lifetime.14dollar' },
+  'Reflectly': {name: 'reflectly_premium', id: 'reflectly.lifetime.v3' },
+  'Monefy': {name: 'monefy_premium', id: 'com.monefyapp.subscription.yearly.v1' },
+  'Last': {name: 'OneTime_Upgrades', id: 'com.tbd.Last.Premium' },
+  'Tally': {name: 'tally_premium', id: 'com.tbd.Tally.subscription.yearly.v6' },
+  'My%20GI': {name: 'premium', id: 'mygi_onetime' },
+  'FastHabit': {name: 'fasthabit_premium', id: 'com.whitespectrecorp.FastHabitPro' }
+};
+
+const data = {
+  "expires_date": "9692-02-18T07:52:54Z",
+  "original_purchase_date": "2020-02-11T07:52:55Z",
+  "purchase_date": "2020-02-11T07:52:54Z",
+  "ownership_type": "PURCHASED",
+  "is_sandbox": false,
+  "store": "app_store"
+};
+
+if (typeof $response === "undefined") {
+  delete $request.headers["x-revenuecat-etag"];
+  delete $request.headers["X-RevenueCat-ETag"];
+  resp.headers = $request.headers;
+} else if (obj && obj.subscriber) {
+  obj.subscriber.subscriptions = obj.subscriber.subscriptions || {};
+  obj.subscriber.entitlement = obj.subscriber.entitlement || {};
+
+  for (const appName in list) {
+    const appInfo = list[appName];
+    const regex = new RegExp(appName, 'i'); // Case-insensitive match
+
+    if (regex.test(ua)) {
+      obj.subscriber.subscriptions[appInfo.id] = data;
+      obj.subscriber.entitlements[appInfo.name] = JSON.parse(JSON.stringify(data));
+      obj.subscriber.entitlements[appInfo.name].product_identifier = appInfo.id;
+      break;
+    }
+  }
+
+  resp.body = JSON.stringify(obj);
+}
+
+$done(resp);
