@@ -27,8 +27,33 @@ def save_appstore_icon(bundle: str) -> dict:
     return {"genre": 1, "err": False}
 
 
+# this is shit so gotta seperate into its own func lol
+def get_app_name(nl: list[str]) -> str:
+    for name in nl:
+        if name.endswith(".app/") and name.split("/") == 3:
+            return name[:-1]  # just has to end with a '/' .. ugh
+    return ""
+
+
+# uses same method as seashell cli:
+# https://github.com/EntySec/SeaShell/blob/8ae1ecba722ba303c961c537633b663717fcfbe7/seashell/core/ipa.py#L189
+def no_seashell(path: str) -> dict:
+    with zipfile.ZipFile(path) as zf:
+        app: str = get_app_name((nl := zf.namelist()))
+
+        if f"{app}/mussel" in nl:
+            return {"unsafe": 1}
+
+        with zf.open((pl_name := f"{app}/Info.plist")) as pl:
+            plist = plistlib.load(pl)
+        if "CFBundleSignature" in plist:
+            return {"unsafe": 1}
+
+    return {"pl": plist, "nl": nl, "pl_name": pl_name}
+
+
 # if called, guaranteed that icon is not yet saved
-def get_single_bundle_id(url, name="temp.ipa") -> dict:
+def get_single_bundle_id(url, name = "temp.ipa") -> dict:
     with open(name, "wb") as f:
         f.write(requests.get(url).content)
 
@@ -38,72 +63,29 @@ def get_single_bundle_id(url, name="temp.ipa") -> dict:
         assert(zipfile.is_zipfile(name))
     except AssertionError:
         print(f"[!] bad zipfile: {os.path.basename(url)} ({url})")
-        return
-        
-    with zipfile.ZipFile(name) as archive:
-        for file_name in (nl := archive.namelist()):
-            if file_name.endswith(".app/Info.plist"):
-                info_file = file_name
-                break
+        return {"error": 1}
 
-        with archive.open(info_file) as fp:
-            pl = plistlib.load(fp)
-            bundleId = pl["CFBundleIdentifier"]
+    try:
+        assert("unsafe" not in (sscheck := no_seashell(name)))
+    except AssertionError:
+        print(f"[!] seashell detected in: {os.path.basename(url)} ({url})")
+        return {"error": 1}
+
+    with zipfile.ZipFile(name) as archive:
+        bundleId = sscheck["pl"]["CFBundleIdentifier"]
 
         if (res := save_appstore_icon(bundleId))["err"]:
             try:
-                icon_path = pl["CFBundleIcons"]["CFBundlePrimaryIcon"]["CFBundleIconFiles"][0]
-                for name in nl:
+                icon_path = sscheck["pl"]["CFBundleIcons"]["CFBundlePrimaryIcon"]["CFBundleIconFiles"][0]
+                for name in sscheck["nl"]:
                     if icon_path in name:
                         icon_path = name  # im so tired
                         break
             except (KeyError, IndexError):
-                icon_path = f"{os.path.dirname(info_file)}/{pl["CFBundleIconFiles"][0]}"
+                # is this doing what i think it's doing..?
+                icon_path = f"{os.path.dirname(sscheck["pl_name"])}/{sscheck["pl"]["CFBundleIconFiles"][0]}"
 
             with archive.open(icon_path) as orig, open(f"icons/{bundleId}.png", "wb") as new:
                 new.write(orig.read())
 
     return {"bundle": bundleId, "genre": res["genre"]}
-
-
-# is this even used ??????? -- edit: guess not lol
-# def generate_bundle_id_csv(token, repo_name="asdfzxcvbn/apptesters-repo"):
-#     g = github.Github(token)
-#     repo = g.get_repo(repo_name)
-#     releases = repo.get_releases()
-
-#     df = pd.DataFrame(columns=["name", "bundleId"])
-
-#     for release in releases:
-#         print(release.title)
-#         for asset in release.get_assets():
-#             if not asset.name.endswith("ipa"):
-#                 continue
-#             name = asset.name[:-4]
-#             print(asset.name)
-
-#             try:
-#                 app_name = name.split("-", 1)[0]
-#             except Exception:
-#                 app_name = name
-
-#             if app_name in df.name.values:
-#                 continue
-#             df = pd.concat(
-#                 [
-#                     df,
-#                     pd.DataFrame(
-#                         {
-#                             "name": [app_name],
-#                             "bundleId": get_single_bundle_id(asset.browser_download_url)
-#                         }
-#                     )
-#                 ],
-#                 ignore_index=True
-#             )
-
-#     df.to_csv("bundleId.csv", index=False)
-
-
-# if __name__ == "__main__":
-#     generate_bundle_id_csv(None)
