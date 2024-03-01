@@ -33,8 +33,6 @@ if __name__ == "__main__":
     releases = repo.get_releases()
 
     for release in releases:
-        print(release.title)
-
         for asset in release.get_assets():
             if (spl := asset.name.split("."))[-1] not in ("ipa", "dylib", "deb"):
                 continue
@@ -56,7 +54,13 @@ if __name__ == "__main__":
                 if app_name in df.name.values:
                     info = {"bundle": df[df.name == app_name].bundleId.values[0], "genre": df[df.name == app_name].genre.values[0]}
                 else:
-                    info = get_single_bundle_id(asset.browser_download_url)
+                    info: dict = get_single_bundle_id(asset.browser_download_url)
+
+                    if "error" in info:
+                        print(f"[*] error detected in '{name}', deleting")
+                        asset.delete_asset()
+                        continue
+
                     df = pd.concat([df, pd.DataFrame(
                         {"name": [app_name], "bundleId": [info["bundle"]], "genre": [info["genre"]]})], ignore_index=True)
 
@@ -79,7 +83,7 @@ if __name__ == "__main__":
             else:
                 data["apps"].append({
                     "name": app_name,
-                    "type": 5,
+                    "type": 5,  # type: dylib
                     "bundleId": f"org.apptesters.repo.{app_name.lower()}",
                     "bundleIdentifier": f"org.apptesters.repo.{app_name.lower()}",
                     "version": version,
