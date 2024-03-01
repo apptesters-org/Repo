@@ -28,10 +28,11 @@ def save_appstore_icon(bundle: str) -> dict:
 
 
 # this is shit so gotta seperate into its own func lol
+# TIL: the namelist doesnt always have the .app name??
 def get_app_name(nl: list[str]) -> str:
     for name in nl:
-        if name.endswith(".app/") and len(name.split("/")) == 3:
-            return name[:-1]  # just has to end with a '/' .. ugh
+        if ".app/" in name and len(name.split("/")) >= 2:
+            return "/".join(name.split("/")[:2])
     return ""
 
 
