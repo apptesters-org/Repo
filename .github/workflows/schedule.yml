@@ -1,14 +1,6 @@
 on:
   push:
     branches: ["main"]
-  release:
-    types:
-      - published
-      - deleted
-      - edited
-      - prereleased
-      - released
-      - created
   workflow_dispatch:
     
 permissions: write-all
