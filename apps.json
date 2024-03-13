@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "X",
+            "type": 1,
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.32",
+            "versionDate": "2024-03-13",
+            "fullDate": "20240313141443",
+            "size": 124997041,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/13-03-2024/X_10.32_BHTwitter_4.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/13-03-2024/X_10.32_BHTwitter_4.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter 4.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "WABusiness",
             "type": 1,
             "bundleID": "net.whatsapp.WhatsAppSMB",
