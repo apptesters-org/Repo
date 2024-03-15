@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "YouTubeMusic",
+            "type": 1,
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "6.43.1",
+            "versionDate": "2024-03-15",
+            "fullDate": "20240315100013",
+            "size": 75800939,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-03-2024/YouTubeMusic_6.43.1_YTMusicUltimate_2.0.2_YTMSponserBlock_0.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-03-2024/YouTubeMusic_6.43.1_YTMusicUltimate_2.0.2_YTMSponserBlock_0.0.1_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimate 2.0.2 YTMSponserBlock 0.0.1",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "X",
             "type": 1,
             "bundleID": "com.atebits.Tweetie2",
