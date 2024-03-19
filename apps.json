@@ -43,7 +43,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.nakiostudio.uhf.ios.png"
         },
         {
-            "name": "KicktheBuddySecondKick.",
+            "name": "KicktheBuddySecondKick",
             "type": 2,
             "bundleID": "com.playgendary.ktbremaster",
             "bundleIdentifier": "com.playgendary.ktbremaster",
@@ -51,8 +51,8 @@
             "versionDate": "2024-03-19",
             "fullDate": "20240319155744",
             "size": 182689880,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/KicktheBuddySecondKick._2.4.2_Satella_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/KicktheBuddySecondKick._2.4.2_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/KicktheBuddySecondKick_2.4.2_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/KicktheBuddySecondKick_2.4.2_Satella_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Satella",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.playgendary.ktbremaster.png",
@@ -139,6 +139,22 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
         },
         {
+            "name": "Videoleap",
+            "type": 1,
+            "bundleID": "com.lightricks.Enlight-Video",
+            "bundleIdentifier": "com.lightricks.Enlight-Video",
+            "version": "2.31",
+            "versionDate": "2024-03-19",
+            "fullDate": "20240319152317",
+            "size": 365211714,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/Videoleap_2.31_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/Videoleap_2.31_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lightricks.Enlight-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lightricks.Enlight-Video.png"
+        },
+        {
             "name": "QuestionAI",
             "type": 1,
             "bundleID": "com.qianfan.aihomework",
@@ -201,6 +217,22 @@
             "localizedDescription": "Injected with ProFeaturesUnlocked",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ibit.UNPOSED.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.ibit.UNPOSED.png"
+        },
+        {
+            "name": "VidsAI",
+            "type": 1,
+            "bundleID": "viral.vision.vids",
+            "bundleIdentifier": "viral.vision.vids",
+            "version": "1.52.0",
+            "versionDate": "2024-03-19",
+            "fullDate": "20240319151035",
+            "size": 154841675,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/VidsAI_1.52.0_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/VidsAI_1.52.0_ProFeaturesUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with ProFeaturesUnlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/viral.vision.vids.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/viral.vision.vids.png"
         },
         {
             "name": "MergeCooking",
@@ -409,6 +441,22 @@
             "localizedDescription": "Injected with PremiumUnlocked",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.iqraapp.Iqra.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.iqraapp.Iqra.png"
+        },
+        {
+            "name": "Vivid",
+            "type": 1,
+            "bundleID": "com.wagndao.proapp",
+            "bundleIdentifier": "com.wagndao.proapp",
+            "version": "1.8.0",
+            "versionDate": "2024-03-19",
+            "fullDate": "20240319080650",
+            "size": 85880561,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/Vivid_1.8.0_ProUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/19-03-2024/Vivid_1.8.0_ProUnlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with ProUnlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.wagndao.proapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.wagndao.proapp.png"
         },
         {
             "name": "Peachy",
