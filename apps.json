@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Facebook",
+            "type": 1,
+            "bundleID": "com.facebook.Facebook",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "456.0",
+            "versionDate": "2024-03-21",
+            "fullDate": "20240321100451",
+            "size": 144890662,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/21-03-2024/Facebook_456.0_Wolf_2.1_NoAds_1.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/21-03-2024/Facebook_456.0_Wolf_2.1_NoAds_1.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Wolf 2.1 NoAds 1.0",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png"
+        },
+        {
             "name": "YesYourGrace",
             "type": 2,
             "bundleID": "com.noodlecake.yesyourgrace",
