@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "CapCut",
+            "type": 1,
+            "bundleID": "com.lemon.lvoverseas",
+            "bundleIdentifier": "com.lemon.lvoverseas",
+            "version": "11.4.0",
+            "versionDate": "2024-03-24",
+            "fullDate": "20240324134024",
+            "size": 178431001,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/24-03-2024/CapCut_11.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/24-03-2024/CapCut_11.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lemon.lvoverseas.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lemon.lvoverseas.png"
+        },
+        {
             "name": "LittlePiggy",
             "type": 2,
             "bundleID": "net.gameduo.tbd",
