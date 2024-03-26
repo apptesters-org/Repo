@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "JapaneseLife",
+            "type": 2,
+            "bundleID": "jp.gamestart.japaneserural",
+            "bundleIdentifier": "jp.gamestart.japaneserural",
+            "version": "1.2.6",
+            "versionDate": "2024-03-26",
+            "fullDate": "20240326091739",
+            "size": 63309949,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/26-03-2024/JapaneseLife_1.2.6_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/26-03-2024/JapaneseLife_1.2.6_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IGG",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/jp.gamestart.japaneserural.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/jp.gamestart.japaneserural.png"
+        },
+        {
             "name": "WABusiness",
             "type": 1,
             "bundleID": "net.whatsapp.WhatsAppSMB",
