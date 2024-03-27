@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "ZookeeperWorld",
+            "type": 2,
+            "bundleID": "jp.kiteretsu.zookeeper.world",
+            "bundleIdentifier": "jp.kiteretsu.zookeeper.world",
+            "version": "6.2.0",
+            "versionDate": "2024-03-27",
+            "fullDate": "20240327172851",
+            "size": 404593591,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/27-03-2024/ZookeeperWorld_6.2.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/27-03-2024/ZookeeperWorld_6.2.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/jp.kiteretsu.zookeeper.world.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/jp.kiteretsu.zookeeper.world.png"
+        },
+        {
+            "name": "WHATTHECAR",
+            "type": 1,
+            "bundleID": "nan",
+            "bundleIdentifier": "nan",
+            "version": "3.7.0",
+            "versionDate": "2024-03-27",
+            "fullDate": "20240327172331",
+            "size": 496492351,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/27-03-2024/WHATTHECAR_3.7.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/27-03-2024/WHATTHECAR_3.7.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/nan.png"
+        },
+        {
             "name": "WeAreWarriors",
             "type": 2,
             "bundleID": "com.vjsjlqvlmp.wearewarriors",
