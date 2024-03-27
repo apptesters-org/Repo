@@ -43,22 +43,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.imaginalis.HouseFlipperMobile.png"
         },
         {
-            "name": "Sasquatch",
-            "type": 2,
-            "bundleID": "com.rac7.SneakySasquatch",
-            "bundleIdentifier": "com.rac7.SneakySasquatch",
-            "version": "1.9.11",
-            "versionDate": "2024-03-27",
-            "fullDate": "20240327165240",
-            "size": 310423039,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/27-03-2024/Sasquatch_1.9.11_Satella_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/27-03-2024/Sasquatch_1.9.11_Satella_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Satella",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.rac7.SneakySasquatch.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.rac7.SneakySasquatch.png"
-        },
-        {
             "name": "GoodPizza",
             "type": 2,
             "bundleID": "com.tapblaze.pizzabusiness",
