@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "BrainOutunlimitedTips",
+            "type": 2,
+            "bundleID": "com.mind.quiz.brain.out",
+            "bundleIdentifier": "com.mind.quiz.brain.out",
+            "version": "1.5.0",
+            "versionDate": "2024-03-30",
+            "fullDate": "20240330172614",
+            "size": 119558451,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/30-03-2024/BrainOutunlimitedTips_1.5.0_HackFeatures_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-03-2024/BrainOutunlimitedTips_1.5.0_HackFeatures_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with HackFeatures",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mind.quiz.brain.out.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.mind.quiz.brain.out.png"
+        },
+        {
+            "name": "CaseBattle",
+            "type": 2,
+            "bundleID": "com.shadowdev.case",
+            "bundleIdentifier": "com.shadowdev.case",
+            "version": "7.1",
+            "versionDate": "2024-03-30",
+            "fullDate": "20240330172516",
+            "size": 83026220,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/30-03-2024/CaseBattle_7.1_UnlimitedMoney_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-03-2024/CaseBattle_7.1_UnlimitedMoney_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with UnlimitedMoney",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.shadowdev.case.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.shadowdev.case.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
