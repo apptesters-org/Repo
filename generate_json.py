@@ -94,8 +94,8 @@ if __name__ == "__main__":
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
                     "localizedDescription": app_name,
-                    "icon": "https://cdn.discordapp.com/attachments/1105094393771347976/1146587609674547230/apptesters-resized.png",
-                    "iconURL": "https://cdn.discordapp.com/attachments/1105094393771347976/1146587609674547230/apptesters-resized.png"
+                    "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+                    "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
                 })
 
             data["apps"].sort(key=lambda x: x["fullDate"], reverse=True)
