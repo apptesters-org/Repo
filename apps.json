@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Facebook",
+            "type": 1,
+            "bundleID": "com.facebook.Facebook",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "458.0.2",
+            "versionDate": "2024-04-04",
+            "fullDate": "20240404133702",
+            "size": 146363775,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/04-04-2024/Facebook_458.0.2_Wolf_2.1_NoAds_1.0.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-04-2024/Facebook_458.0.2_Wolf_2.1_NoAds_1.0.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Wolf 2.1 NoAds 1.0.0",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.facebook.Facebook.png"
+        },
+        {
             "name": "Photoroom",
             "type": 1,
             "bundleID": "com.dr1ven.eraser",
