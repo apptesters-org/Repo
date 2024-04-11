@@ -75,7 +75,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
         },
         {
-            "name": "Twitter",
+            "name": "X",
             "type": 1,
             "bundleID": "com.atebits.Tweetie2",
             "bundleIdentifier": "com.atebits.Tweetie2",
@@ -83,8 +83,8 @@
             "versionDate": "2024-04-11",
             "fullDate": "20240411171010",
             "size": 126087822,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/11-04-2024/Twitter_10.36.1_BHTwitter_4.3_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-04-2024/Twitter_10.36.1_BHTwitter_4.3_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/11-04-2024/X_10.36.1_BHTwitter_4.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/11-04-2024/X_10.36.1_BHTwitter_4.3_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with BHTwitter 4.3",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
