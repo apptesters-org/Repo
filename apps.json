@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "WhatsApp",
+            "type": 1,
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "24.8.77",
+            "versionDate": "2024-04-15",
+            "fullDate": "20240415210536",
+            "size": 103040494,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/16-04-2024/WhatsApp_24.8.77_Watusi_1.2.30_Stalky_4.1.25_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-04-2024/WhatsApp_24.8.77_Watusi_1.2.30_Stalky_4.1.25_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.30 Stalky 4.1.25 OnlineNotify 3.4.4",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
+            "name": "YouTube",
+            "type": 1,
+            "bundleID": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "19.15.1",
+            "versionDate": "2024-04-15",
+            "fullDate": "20240415210536",
+            "size": 128107490,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/16-04-2024/YouTube_19.15.1_uYouEnhanced_3.0.3_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-04-2024/YouTube_19.15.1_uYouEnhanced_3.0.3_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with uYouEnhanced 3.0.3",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "GrandChase",
             "type": 1,
             "bundleID": "com.kakaogames.grdchase",
