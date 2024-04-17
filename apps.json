@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "WhatsApp",
+            "type": 1,
+            "bundleID": "net.whatsapp.WhatsApp",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "version": "24.8.80",
+            "versionDate": "2024-04-17",
+            "fullDate": "20240417222933",
+            "size": 101663808,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/18-04-2024/WhatsApp_24.8.80_Watusi_1.2.30_Stalky_4.1.25_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-04-2024/WhatsApp_24.8.80_Watusi_1.2.30_Stalky_4.1.25_OnlineNotify_3.4.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Watusi 1.2.30 Stalky 4.1.25 OnlineNotify 3.4.4",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "Bimmy",
             "type": 1,
             "bundleID": "org.apptesters.nes-emu-ios",
