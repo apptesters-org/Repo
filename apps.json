@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Notfound",
+            "type": 1,
+            "bundleID": "ome.tv",
+            "bundleIdentifier": "ome.tv",
+            "version": "1.50407",
+            "versionDate": "2024-05-01",
+            "fullDate": "20240501165752",
+            "size": 60594639,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/01-05-2024/Notfound_1.50407_UnlockedPremium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-05-2024/Notfound_1.50407_UnlockedPremium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with UnlockedPremium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ome.tv.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ome.tv.png"
+        },
+        {
+            "name": "Snow",
+            "type": 1,
+            "bundleID": "com.campmobile.snow",
+            "bundleIdentifier": "com.campmobile.snow",
+            "version": "13.1.7",
+            "versionDate": "2024-05-01",
+            "fullDate": "20240501165752",
+            "size": 105017095,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/01-05-2024/Snow_13.1.7_UnlockedPremium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-05-2024/Snow_13.1.7_UnlockedPremium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with UnlockedPremium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.campmobile.snow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.campmobile.snow.png"
+        },
+        {
             "name": "Wrb",
             "type": 2,
             "bundleID": "com.jumpgames.rswrb",
@@ -217,22 +249,6 @@
             "localizedDescription": "Injected with BHTwitter 4.3",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.atebits.Tweetie2.png"
-        },
-        {
-            "name": "YoutubeMusic",
-            "type": 1,
-            "bundleID": "com.google.ios.youtubemusic",
-            "bundleIdentifier": "com.google.ios.youtubemusic",
-            "version": "6.50.2",
-            "versionDate": "2024-05-01",
-            "fullDate": "20240501135410",
-            "size": 73599675,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/01-05-2024/YoutubeMusic_6.50.2_YTMusicUltimate_2.0.7_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/01-05-2024/YoutubeMusic_6.50.2_YTMusicUltimate_2.0.7_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with YTMusicUltimate 2.0.7",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
         },
         {
             "name": "Youtube",
