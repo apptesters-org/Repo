@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Animock",
+            "type": 1,
+            "bundleID": "com.hassantaleb.mockup",
+            "bundleIdentifier": "com.hassantaleb.mockup",
+            "version": "2.4",
+            "versionDate": "2024-05-01",
+            "fullDate": "20240501200639",
+            "size": 45380888,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/02-05-2024/Animock_2.4_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/02-05-2024/Animock_2.4_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.hassantaleb.mockup.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.hassantaleb.mockup.png"
+        },
+        {
+            "name": "Swiftycompiler",
+            "type": 1,
+            "bundleID": "com.hassantaleb.SwiftCompiler",
+            "bundleIdentifier": "com.hassantaleb.SwiftCompiler",
+            "version": "9.4.3",
+            "versionDate": "2024-05-01",
+            "fullDate": "20240501200639",
+            "size": 28871106,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/02-05-2024/Swiftycompiler_9.4.3_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/02-05-2024/Swiftycompiler_9.4.3_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.hassantaleb.SwiftCompiler.png"
+        },
+        {
             "name": "Amie",
             "type": 1,
             "bundleID": "so.amie.ios-app",
