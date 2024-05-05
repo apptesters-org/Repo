@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "EscapeTime",
+            "type": 2,
+            "bundleID": "webelinx.EscapeRoom.Free.Portrait.Game.free2",
+            "bundleIdentifier": "webelinx.EscapeRoom.Free.Portrait.Game.free2",
+            "version": "2.4.0",
+            "versionDate": "2024-05-05",
+            "fullDate": "20240505164030",
+            "size": 134043677,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/05-05-2024/EscapeTime_2.4.0_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-05-2024/EscapeTime_2.4.0_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Hack",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/webelinx.EscapeRoom.Free.Portrait.Game.free2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/webelinx.EscapeRoom.Free.Portrait.Game.free2.png"
+        },
+        {
             "name": "Armed",
             "type": 2,
             "bundleID": "com.sozap.badmen",
@@ -105,6 +121,22 @@
             "localizedDescription": "Injected with Hack",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.imba.dynasty.archers.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.imba.dynasty.archers.png"
+        },
+        {
+            "name": "Tanksalot",
+            "type": 2,
+            "bundleID": "com.boombitgames.TanksALot",
+            "bundleIdentifier": "com.boombitgames.TanksALot",
+            "version": "6.501",
+            "versionDate": "2024-05-05",
+            "fullDate": "20240505141136",
+            "size": 145071676,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/04-05-2024/Tanksalot_6.501_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-05-2024/Tanksalot_6.501_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Hack",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.boombitgames.TanksALot.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.boombitgames.TanksALot.png"
         },
         {
             "name": "Junesjourney",
