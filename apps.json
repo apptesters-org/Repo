@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Bazaart",
+            "type": 1,
+            "bundleID": "co.bazaart.app",
+            "bundleIdentifier": "co.bazaart.app",
+            "version": "10.2.5",
+            "versionDate": "2024-05-05",
+            "fullDate": "20240505134710",
+            "size": 52948663,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/04-05-2024/Bazaart_10.2.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-05-2024/Bazaart_10.2.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.bazaart.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.bazaart.app.png"
+        },
+        {
+            "name": "Reface",
+            "type": 1,
+            "bundleID": "com.neocortext.doublicatapp",
+            "bundleIdentifier": "com.neocortext.doublicatapp",
+            "version": "4.8.0",
+            "versionDate": "2024-05-05",
+            "fullDate": "20240505134700",
+            "size": 73534894,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/04-05-2024/Reface_4.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/04-05-2024/Reface_4.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.neocortext.doublicatapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.neocortext.doublicatapp.png"
+        },
+        {
             "name": "SpaceShooter",
             "type": 2,
             "bundleID": "com.game.space.shooter2",
