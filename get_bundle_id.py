@@ -45,10 +45,13 @@ def no_seashell(path: str) -> dict:
         if f"{app}/mussel" in nl:
             return {"unsafe": 1}
 
-        with zf.open((pl_name := f"{app}/Info.plist")) as pl:
-            plist = plistlib.load(pl)
-        if "CFBundleSignature" in plist:
-            return {"unsafe": 1}
+        # note: `CFBundleSignature` is now appearing in the real world?
+        # why is this even becoming an official key? whatever
+
+        # with zf.open((pl_name := f"{app}/Info.plist")) as pl:
+        #     plist = plistlib.load(pl)
+        # if "CFBundleSignature" in plist:
+        #     return {"unsafe": 1}
 
     return {"pl": plist, "nl": nl, "pl_name": pl_name}
 
