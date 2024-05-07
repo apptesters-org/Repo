@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "HeroWars",
+            "type": 2,
+            "bundleID": "com.nexters.titanhunters",
+            "bundleIdentifier": "com.nexters.titanhunters",
+            "version": "1.200.003",
+            "versionDate": "2024-05-07",
+            "fullDate": "20240507134359",
+            "size": 103982659,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/05-05-2024/HeroWars_1.200.003_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-05-2024/HeroWars_1.200.003_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Hack",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.nexters.titanhunters.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.nexters.titanhunters.png"
+        },
+        {
+            "name": "TheArmy",
+            "type": 2,
+            "bundleID": "com.firestudios.thearmy",
+            "bundleIdentifier": "com.firestudios.thearmy",
+            "version": "25",
+            "versionDate": "2024-05-07",
+            "fullDate": "20240507134153",
+            "size": 53975414,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/07-05-2024/TheArmy_25_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/07-05-2024/TheArmy_25_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Hack",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.firestudios.thearmy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.firestudios.thearmy.png"
+        },
+        {
             "name": "Picsart",
             "type": 1,
             "bundleID": "com.picsart.studio",
