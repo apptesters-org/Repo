@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Supershift",
+            "type": 1,
+            "bundleID": "io.erna",
+            "bundleIdentifier": "io.erna",
+            "version": "2024.3",
+            "versionDate": "2024-05-08",
+            "fullDate": "20240508153832",
+            "size": 42818873,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/Supershift_2024.3_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/Supershift_2024.3_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/io.erna.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/io.erna.png"
+        },
+        {
             "name": "Instagram",
             "type": 1,
             "bundleID": "com.burbn.instagram",
@@ -43,7 +59,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.chaninicholas.chaniapp.png"
         },
         {
-            "name": "Bunny",
+            "name": "Discord",
             "type": 2,
             "bundleID": "com.hammerandchisel.discord",
             "bundleIdentifier": "com.hammerandchisel.discord",
@@ -51,8 +67,8 @@
             "versionDate": "2024-05-08",
             "fullDate": "20240508151549",
             "size": 99427347,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/05-05-2024/Bunny_228.0_Pyoncord_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-05-2024/Bunny_228.0_Pyoncord_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/05-05-2024/Discord_228.0_Pyoncord_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/05-05-2024/Discord_228.0_Pyoncord_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Pyoncord",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.hammerandchisel.discord.png",
