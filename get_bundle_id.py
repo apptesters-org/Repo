@@ -48,8 +48,9 @@ def no_seashell(path: str) -> dict:
         # note: `CFBundleSignature` is now appearing in the real world?
         # why is this even becoming an official key? whatever
 
-        # with zf.open((pl_name := f"{app}/Info.plist")) as pl:
-        #     plist = plistlib.load(pl)
+        with zf.open((pl_name := f"{app}/Info.plist")) as pl:
+            plist = plistlib.load(pl)
+
         # if "CFBundleSignature" in plist:
         #     return {"unsafe": 1}
 
