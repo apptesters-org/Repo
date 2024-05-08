@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Mimo",
+            "type": 1,
+            "bundleID": "com.getmimo.mimo",
+            "bundleIdentifier": "com.getmimo.mimo",
+            "version": "6.48.0",
+            "versionDate": "2024-05-08",
+            "fullDate": "20240508182949",
+            "size": 35060633,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/Mimo_6.48.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/Mimo_6.48.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.getmimo.mimo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.getmimo.mimo.png"
+        },
+        {
+            "name": "Infuse",
+            "type": 1,
+            "bundleID": "com.firecore.infuse",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "7.7.4",
+            "versionDate": "2024-05-08",
+            "fullDate": "20240508182938",
+            "size": 37743546,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/Infuse_7.7.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/Infuse_7.7.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.firecore.infuse.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.firecore.infuse.png"
+        },
+        {
             "name": "Discord",
             "type": 2,
             "bundleID": "com.hammerandchisel.discord",
