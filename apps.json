@@ -91,22 +91,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.fansipan.guardian.war.rpg.pixel.hero.adventure.games.png"
         },
         {
-            "name": "",
-            "type": 2,
-            "bundleID": "com.superplaystudios.dicedreams",
-            "bundleIdentifier": "com.superplaystudios.dicedreams",
-            "version": "1.76.1",
-            "versionDate": "2024-05-08",
-            "fullDate": "20240508162248",
-            "size": 174833449,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/_1.76.1_Hack_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/_1.76.1_Hack_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Hack",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.superplaystudios.dicedreams.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.superplaystudios.dicedreams.png"
-        },
-        {
             "name": "TowersofSaviors",
             "type": 2,
             "bundleID": "com.madhead.tos.zh",
@@ -283,7 +267,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.pixodust.games.free.rpg.medieval.merge.puzzle.empire.png"
         },
         {
-            "name": "TopTroops.",
+            "name": "TopTroops",
             "type": 2,
             "bundleID": "game.socialempiresmerge",
             "bundleIdentifier": "game.socialempiresmerge",
@@ -291,8 +275,8 @@
             "versionDate": "2024-05-08",
             "fullDate": "20240508161838",
             "size": 155521878,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/TopTroops._1.5.5_Hack_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/TopTroops._1.5.5_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/TopTroops_1.5.5_Hack_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-05-2024/TopTroops_1.5.5_Hack_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Hack",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/game.socialempiresmerge.png",
