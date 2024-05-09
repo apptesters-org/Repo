@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "TripleMatch",
+            "type": 2,
+            "bundleID": "net.master.triple.3d.find",
+            "bundleIdentifier": "net.master.triple.3d.find",
+            "version": "136.03",
+            "versionDate": "2024-05-09",
+            "fullDate": "20240509214420",
+            "size": 256530319,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/10-05-2024/TripleMatch_136.03_UnlimitedEverything_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/10-05-2024/TripleMatch_136.03_UnlimitedEverything_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with UnlimitedEverything",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.master.triple.3d.find.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/net.master.triple.3d.find.png"
+        },
+        {
             "name": "BadooPremium",
             "type": 1,
             "bundleID": "com.badoo.BadooSPP",
