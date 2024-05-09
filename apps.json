@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "BadooPremium",
+            "type": 1,
+            "bundleID": "com.badoo.BadooSPP",
+            "bundleIdentifier": "com.badoo.BadooSPP",
+            "version": "5.362.0",
+            "versionDate": "2024-05-09",
+            "fullDate": "20240509214226",
+            "size": 58313307,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/10-05-2024/BadooPremium_5.362.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/10-05-2024/BadooPremium_5.362.0_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.badoo.BadooSPP.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.badoo.BadooSPP.png"
+        },
+        {
             "name": "Raid",
             "type": 2,
             "bundleID": "com.plarium.raidlegends",
