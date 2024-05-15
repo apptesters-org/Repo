@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "type": 1,
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "331.0.3",
+            "versionDate": "2024-05-15",
+            "fullDate": "20240515124045",
+            "size": 163845960,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/15-05-2024/Instagram_331.0.3_LRD_2.5_Rocket_3.8.24_BHInsta_0.0.2_Regram_1.0b6_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/15-05-2024/Instagram_331.0.3_LRD_2.5_Rocket_3.8.24_BHInsta_0.0.2_Regram_1.0b6_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with LRD 2.5 Rocket 3.8.24 BHInsta 0.0.2 Regram 1.0b6",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "X",
             "type": 1,
             "bundleID": "com.atebits.Tweetie2",
