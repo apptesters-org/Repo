@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Acrobat",
+            "type": 1,
+            "bundleID": "com.adobe.Adobe-Reader",
+            "bundleIdentifier": "com.adobe.Adobe-Reader",
+            "version": "24.05.00",
+            "versionDate": "2024-06-12",
+            "fullDate": "20240612182701",
+            "size": 167705825,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-06-2024/Acrobat_24.05.00_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-06-2024/Acrobat_24.05.00_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.adobe.Adobe-Reader.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.adobe.Adobe-Reader.png"
+        },
+        {
             "name": "Beat",
             "type": 1,
             "bundleID": "reels-maker-one",
