@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Spotify",
+            "type": 1,
+            "bundleID": "com.spotify.client",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.9.48",
+            "versionDate": "2024-06-17",
+            "fullDate": "20240617193843",
+            "size": 75337996,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Spotify_8.9.48_Eevee_4.2_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Spotify_8.9.48_Eevee_4.2_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Eevee 4.2",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png"
+        },
+        {
             "name": "Zing",
             "type": 1,
             "bundleID": "com.coach.zing",
