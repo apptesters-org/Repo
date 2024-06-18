@@ -123,7 +123,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/org.ppsspp.ppsspp-gold.png"
         },
         {
-            "name": "Blitzer.dePro",
+            "name": "BlitzerdePro",
             "type": 1,
             "bundleID": "com.eifrig.blitzerdepro",
             "bundleIdentifier": "com.eifrig.blitzerdepro",
@@ -131,8 +131,8 @@
             "versionDate": "2024-06-18",
             "fullDate": "20240618152153",
             "size": 39177582,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Blitzer.dePro_400.1.0_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Blitzer.dePro_400.1.0_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/BlitzerdePro_400.1.0_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/BlitzerdePro_400.1.0_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.eifrig.blitzerdepro.png",
@@ -155,7 +155,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.merge.cooking.theme.restaurant.food.png"
         },
         {
-            "name": "Survivor.io",
+            "name": "Survivorio",
             "type": 2,
             "bundleID": "com.dxx.firenow",
             "bundleIdentifier": "com.dxx.firenow",
@@ -163,8 +163,8 @@
             "versionDate": "2024-06-18",
             "fullDate": "20240618152018",
             "size": 475989177,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Survivor.io_2.10.0_GodMod_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Survivor.io_2.10.0_GodMod_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Survivorio_2.10.0_GodMod_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Survivorio_2.10.0_GodMod_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with GodMod",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dxx.firenow.png",
@@ -195,10 +195,10 @@
             "versionDate": "2024-06-18",
             "fullDate": "20240618151859",
             "size": 6418949,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Claude_1.240610.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Claude_1.240610.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Claude_1.240610.1_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Claude_1.240610.1_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "Injected with Premium",
+            "localizedDescription": "",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.anthropic.claude.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.anthropic.claude.png"
         },
