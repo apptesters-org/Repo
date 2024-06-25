@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Bazaart",
+            "type": 1,
+            "bundleID": "co.bazaart.app",
+            "bundleIdentifier": "co.bazaart.app",
+            "version": "10.3.0",
+            "versionDate": "2024-06-25",
+            "fullDate": "20240625152016",
+            "size": 54127981,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/25-06-2024/Bazaart_10.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/25-06-2024/Bazaart_10.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.bazaart.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/co.bazaart.app.png"
+        },
+        {
+            "name": "Spotify",
+            "type": 1,
+            "bundleID": "com.spotify.client",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.9.50",
+            "versionDate": "2024-06-25",
+            "fullDate": "20240625152002",
+            "size": 76631816,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/25-06-2024/Spotify_8.9.50_Eevee_4.2_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/25-06-2024/Spotify_8.9.50_Eevee_4.2_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Eevee 4.2",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png"
+        },
+        {
             "name": "PastelKeyboard.Vip",
             "type": 1,
             "bundleID": "com.iappcreation.pastelkeyboardfree",
