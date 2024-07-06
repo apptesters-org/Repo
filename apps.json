@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Hashphotos",
+            "type": 1,
+            "bundleID": "com.kobaltlab.HashPhotos",
+            "bundleIdentifier": "com.kobaltlab.HashPhotos",
+            "version": "5.5.7",
+            "versionDate": "2024-07-06",
+            "fullDate": "20240706173800",
+            "size": 38426706,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/06-07-2024/Hashphotos_5.5.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/06-07-2024/Hashphotos_5.5.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.kobaltlab.HashPhotos.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.kobaltlab.HashPhotos.png"
+        },
+        {
+            "name": "Spark",
+            "type": 1,
+            "bundleID": "com.readdle.smartemail",
+            "bundleIdentifier": "com.readdle.smartemail",
+            "version": "3.9.12",
+            "versionDate": "2024-07-06",
+            "fullDate": "20240706173743",
+            "size": 189078673,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/06-07-2024/Spark_3.9.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/06-07-2024/Spark_3.9.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.readdle.smartemail.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.readdle.smartemail.png"
+        },
+        {
             "name": "Captions",
             "type": 1,
             "bundleID": "boomer.Smart-Video",
