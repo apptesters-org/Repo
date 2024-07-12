@@ -155,22 +155,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/cn.danatech.xingseus.png"
         },
         {
-            "name": "Numboard",
-            "type": 1,
-            "bundleID": "com.philzet.numboard",
-            "bundleIdentifier": "com.philzet.numboard",
-            "version": "1.5",
-            "versionDate": "2024-07-12",
-            "fullDate": "20240712181427",
-            "size": 8648719,
-            "down": "https://github.com/apptesters-org/Repo/releases/download/12-07-2024/Numboard_1.5_Satella_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-07-2024/Numboard_1.5_Satella_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Satella",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.philzet.numboard.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.philzet.numboard.png"
-        },
-        {
             "name": "Keylifts",
             "type": 1,
             "bundleID": "org.borrowedcache.ultimate531",
