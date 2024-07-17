@@ -98,8 +98,7 @@ if __name__ == "__main__":
                     "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
                 })
 
-            data["apps"].sort(key=lambda x: x["fullDate"], reverse=True)
-
+    data["apps"].sort(key=lambda x: x["fullDate"], reverse=True)
     df.to_csv("bundleId.csv", index=False)
 
     with open(out_file, 'w') as json_file:
