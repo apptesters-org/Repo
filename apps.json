@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Spotify",
+            "type": 1,
+            "bundleID": "com.spotify.client",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.9.64",
+            "versionDate": "2024-08-08",
+            "fullDate": "20240808180059",
+            "size": 79042153,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/08-08-2024/Spotify_8.9.64_Eevee_4.6_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-08-2024/Spotify_8.9.64_Eevee_4.6_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Eevee 4.6",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png"
+        },
+        {
+            "name": "Facetune",
+            "type": 1,
+            "bundleID": "com.lightricks.Facetune2",
+            "bundleIdentifier": "com.lightricks.Facetune2",
+            "version": "3.63.3",
+            "versionDate": "2024-08-08",
+            "fullDate": "20240808180032",
+            "size": 317506233,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/08-08-2024/Facetune_3.63.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/08-08-2024/Facetune_3.63.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lightricks.Facetune2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.lightricks.Facetune2.png"
+        },
+        {
             "name": "Instagram",
             "type": 1,
             "bundleID": "com.burbn.instagram",
