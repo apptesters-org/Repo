@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "PsExpress",
+            "type": 1,
+            "bundleID": "com.adobe.PSMobile",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "24.36.1",
+            "versionDate": "2024-09-12",
+            "fullDate": "20240912103655",
+            "size": 162013178,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-09-2024/PsExpress_24.36.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2024/PsExpress_24.36.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.adobe.PSMobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "YoutubeMusic",
+            "type": 1,
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "7.18.3",
+            "versionDate": "2024-09-12",
+            "fullDate": "20240912103637",
+            "size": 87022795,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-09-2024/YoutubeMusic_7.18.3_YTMusicUltimatePlus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-09-2024/YoutubeMusic_7.18.3_YTMusicUltimatePlus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimatePlus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "Facebook",
             "type": 1,
             "bundleID": "com.facebook.Facebook",
