@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "CarScanner",
+            "type": 1,
+            "bundleID": "ovz.Car-Scanner",
+            "bundleIdentifier": "ovz.Car-Scanner",
+            "version": "1.111.7",
+            "versionDate": "2024-09-16",
+            "fullDate": "20240916132953",
+            "size": 64833191,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/16-09-2024/CarScanner_1.111.7_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/16-09-2024/CarScanner_1.111.7_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ovz.Car-Scanner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/ovz.Car-Scanner.png"
+        },
+        {
             "name": "Youtube",
             "type": 1,
             "bundleID": "com.google.ios.youtube",
