@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "YoutubeMusic",
+            "type": 1,
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "7.21.1",
+            "versionDate": "2024-10-03",
+            "fullDate": "20241003150236",
+            "size": 87561166,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/03-10-2024/YoutubeMusic_7.21.1_YTMusicUltimate_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/03-10-2024/YoutubeMusic_7.21.1_YTMusicUltimate_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with YTMusicUltimate",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
