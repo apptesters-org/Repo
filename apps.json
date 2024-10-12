@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Tiktok",
+            "type": 1,
+            "bundleID": "com.zhiliaoapp.musically",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "36.7.0",
+            "versionDate": "2024-10-12",
+            "fullDate": "20241012131516",
+            "size": 302227157,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/12-10-2024/Tiktok_36.7.0_BHTikTokPlus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/12-10-2024/Tiktok_36.7.0_BHTikTokPlus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTikTokPlus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
